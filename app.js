@@ -245,13 +245,8 @@
     fillList("#profUnnga",p.unnga,"Ikkje sett enno.");
     var ul=$("#profLaert"); ul.textContent="";
     var l=Array.isArray(p.laert)?p.laert.slice().reverse().slice(0,12):[];
-    if(!l.length){ul.appendChild(h("li",null,"Ingenting enno. Send tips, så lærer radaren kva som er viktig."));return;}
+    if(!l.length){ul.appendChild(h("li",null,"Ingenting enno."));return;}
     l.forEach(function(x){var d=pd(x.dato);ul.appendChild(h("li",null,String(x.tekst||""),d?h("span",{class:"d"}," · "+fmtShort(d)):null));});
-  }
-  function renderTips(){
-    var u=safeUrl(S.tipsSkjema), a=$("#tipLink");
-    a.hidden=!u; $("#tipFallback").hidden=!!u;
-    if(u) a.setAttribute("href",u);
   }
   function renderArkiv(){
     var panel=$("#arkivPanel"),sel=$("#arkivSel");
@@ -261,7 +256,7 @@
     sel.appendChild(h("option",{value:""},"Vel månad"));
     list.slice().sort(function(a,b){return a.id<b.id?1:-1;}).forEach(function(m){sel.appendChild(h("option",{value:m.id},cap(mndNamn(m.id))+(m.tal?" ("+m.tal+")":"")));});
   }
-  function render(){renderStatus();renderToday();renderDates();renderFeed();renderProfile();renderTips();renderArkiv();}
+  function render(){renderStatus();renderToday();renderDates();renderFeed();renderProfile();renderArkiv();}
 
   function goTo(id){
     if(S.view!=="feed"){S.view="feed";S.arkivItems=[];$("#arkivSel").value="";renderFeed();}
