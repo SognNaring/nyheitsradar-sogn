@@ -1,0 +1,996 @@
+{
+ "saker": [
+  {
+   "tittel": "Vik har vedteke ny samfunnsdel i kommuneplanen",
+   "samandrag": "Kommunestyret i Vik vedtok 24. september ny samfunnsdel til kommuneplanen.",
+   "kvifor": "Samfunnsdelen set retninga for næringsutvikling, bustad og attraktivitet i Vik dei neste åra.",
+   "kjelde": "Vik kommune",
+   "url": "https://www.vik.kommune.no/aktuelt/ny-samfunnsdel-til-kommuneplanen-er-vedteken.6817.aspx",
+   "publisert": null,
+   "utgave": "2026-10-23",
+   "lagt_til": "2026-10-23T21:30:00Z",
+   "tema": [
+    "Politikk og rammevilkår"
+   ],
+   "omrade": [
+    "Vik"
+   ],
+   "type": "Politikk og vedtak",
+   "prioritet": 3,
+   "betalingsmur": false,
+   "grunnlag": "tittel",
+   "nemner_sn": false,
+   "frist": null,
+   "frist_tekst": "",
+   "fra_tips": false,
+   "relaterte": [],
+   "id": "2026-10-23-vik-samfunnsdel",
+   "bilete": "https://www.vik.kommune.no/handlers/bv.ashx/e1/iee90ae37-7745-488e-ac8e-f95b34a9490f/w1200/h630/q1520/kd0d78a3df449/foto_cruiseskip_vikjabukti.jpg",
+   "bilete_kreditering": "Vik kommune"
+  },
+  {
+   "tittel": "Vestlandsforsking: korleis naturmangfald blir vege i arealplanar",
+   "samandrag": "Ein ny rapport frå Vestlandsforsking (VF-rapport 8/2026) studerer arealplanprosessar på Vestlandet og korleis omsynet til naturmangfald kjem inn.",
+   "kvifor": "Relevant for næringsareal, reiselivsutbygging og datasenterplanar som krev nye areal i Sogn.",
+   "kjelde": "Vestlandsforsking",
+   "url": "https://www.vestforsk.no/nn/publication/01a0e7eb2c46-6686f90b-53ef-4c7f-a7c2-e5d7a34f3a5a",
+   "publisert": null,
+   "utgave": "2026-10-23",
+   "lagt_til": "2026-10-23T21:30:00Z",
+   "tema": [
+    "Natur, klima og fjord",
+    "Politikk og rammevilkår"
+   ],
+   "omrade": [
+    "Vestland"
+   ],
+   "type": "Rapport og analyse",
+   "prioritet": 3,
+   "betalingsmur": false,
+   "grunnlag": "tittel",
+   "nemner_sn": false,
+   "frist": null,
+   "frist_tekst": "",
+   "fra_tips": false,
+   "relaterte": [],
+   "id": "2026-10-23-vestforsk-arealbruk",
+   "bilete": null,
+   "bilete_kreditering": ""
+  },
+  {
+   "tittel": "Vinterprisar på straum alt i september",
+   "samandrag": "Låg fyllingsgrad i magasina i Sør-Noreg og dyr gass i Europa pressa straumprisane opp i september. Ein analytikar venta 1,50–2 kr per kWh framover. Hydro melder òg om dyrare nordisk kraft på grunn av svak hydrologi.",
+   "kvifor": "Høge kraftprisar slår ut i kostnadene for mange bedrifter og i debatten om bruk av lokal kraft til datasenter og industri.",
+   "kjelde": "E24",
+   "url": "https://e24.no/energi-og-klima/i/PdlkqX/aarets-dyreste-og-billigste-stroem-vi-har-vinterpriser-allerede",
+   "publisert": "2026-09-19",
+   "utgave": "2026-10-23",
+   "lagt_til": "2026-10-23T21:30:00Z",
+   "tema": [
+    "Energi og kraft"
+   ],
+   "omrade": [
+    "Nasjonalt"
+   ],
+   "type": "Nyheit",
+   "prioritet": 3,
+   "betalingsmur": false,
+   "grunnlag": "heil sak",
+   "nemner_sn": false,
+   "frist": null,
+   "frist_tekst": "",
+   "fra_tips": false,
+   "relaterte": [],
+   "id": "2026-10-23-straumpris",
+   "bilete": "https://akamai.vgc.no/v2/images/36a9e0a8-1d98-3673-a44d-4cb7cbc0ff97?fit=crop&h=675&upscale=true&w=1200&s=4108673cc935d356e8995c4917ade453f69b6a82",
+   "bilete_kreditering": "Kjetil Malkenes Hovland / E24"
+  },
+  {
+   "tittel": "Statsministeren besøkte Hydro og Sogn Vekst i Årdal",
+   "samandrag": "Jonas Gahr Støre var i Årdal fredag 16. oktober. Han møtte Hydro i Øvre Årdal og var med på 30-årsjubileet til Sogn Vekst på Årdalstangen.",
+   "kvifor": "Besøk på dette nivået gir høve til å løfte industri- og arbeidslivssakene til regionen.",
+   "kjelde": "Porten",
+   "url": "https://www.porten.no/nyheiter/n/eGqaLO/statsministeren-kjem-til-aardal",
+   "publisert": "2026-10-12",
+   "utgave": "2026-10-23",
+   "lagt_til": "2026-10-23T21:30:00Z",
+   "tema": [
+    "Næringsliv og industri",
+    "Politikk og rammevilkår"
+   ],
+   "omrade": [
+    "Årdal"
+   ],
+   "type": "Nyheit",
+   "prioritet": 3,
+   "betalingsmur": false,
+   "grunnlag": "heil sak",
+   "nemner_sn": false,
+   "frist": null,
+   "frist_tekst": "",
+   "fra_tips": false,
+   "relaterte": [
+    {
+     "kjelde": "Porten: Bilete frå Hydro",
+     "url": "https://www.porten.no/nyheiter/n/PgmRV6/her-moeter-statsministeren-hydro"
+    },
+    {
+     "kjelde": "Porten: Imponert av Sogn Vekst",
+     "url": "https://www.porten.no/nyheiter/n/L3L6LP/imponert-av-sogn-vekst-veldig-roerande"
+    }
+   ],
+   "id": "2026-10-23-statsministeren-ardal",
+   "bilete": "https://vcdn.polarismedia.no/60acd812-881d-364e-aa26-e3e161adeed9?fit=crop&q=80&tight=false&w=1200&h=675",
+   "bilete_kreditering": "Karoline Guldbæk / Porten"
+  },
+  {
+   "tittel": "Statsbudsjettet 2027 for Vestland: 121 mill. kr til regional utvikling",
+   "samandrag": "Fylkesoversikta nemner oppgraderinga av Lærdalstunnelen og 121,4 mill. kr til Vestland fylkeskommune til bedriftsutvikling, næringshagar, inkubatorar og omstilling. Kommunane i Vestland får 4,6 prosent vekst i frie inntekter, under landssnittet på 4,9 prosent.",
+   "kvifor": "Rammene for næringshage- og inkubatormidlar er viktige for forprosjektet om eit næringshageprogram i Sogn.",
+   "kjelde": "Regjeringa",
+   "url": "https://www.regjeringen.no/no/statsbudsjett/2027/fylkesoversikten/statsbudsjettet-2027-vestland/id3175010/",
+   "publisert": "2026-10-07",
+   "utgave": "2026-10-23",
+   "lagt_til": "2026-10-23T21:30:00Z",
+   "tema": [
+    "Politikk og rammevilkår",
+    "Gründer og innovasjon"
+   ],
+   "omrade": [
+    "Vestland"
+   ],
+   "type": "Politikk og vedtak",
+   "prioritet": 2,
+   "betalingsmur": false,
+   "grunnlag": "heil sak",
+   "nemner_sn": false,
+   "frist": null,
+   "frist_tekst": "",
+   "fra_tips": false,
+   "relaterte": [
+    {
+     "kjelde": "Statsforvaltaren: kommuneøkonomien",
+     "url": "https://www.statsforvalteren.no/vestland/kommune-og-tenesteaktor/kommuneokonomi/nyheiter/2026/10/statsbudsjettet-2027/"
+    }
+   ],
+   "id": "2026-10-23-statsbudsjett-vestland",
+   "bilete": null,
+   "bilete_kreditering": ""
+  },
+  {
+   "tittel": "Statsbudsjettet 2027: om lag 300 mill. kr mindre til verkemiddelapparatet",
+   "samandrag": "Regjeringa foreslår å kutte 40 mill. kr i Innovasjon Noreg sine ordningar for oppstarts- og vekstbedrifter, avvikle miljøteknologiordninga frå 2027 og ikkje lyse ut nye midlar frå Grøn plattform. Fylkeskommunane sine oppdragsmidlar til Innovasjon Noreg går ned med om lag 24 mill. kr, og Designdrevet innovasjonsprogram blir avvikla.",
+   "kvifor": "Færre og strammare ordningar for bedrifter og gründerar i 2027. Tilskot til miljøteknologi, som står i tilskotsoversikta vår, forsvinn.",
+   "kjelde": "Regjeringa",
+   "url": "https://www.regjeringen.no/no/aktuelt/tydelegare-prioriteringar-innanfor-det-naringsretta-verkemiddelapparat/id3174956/",
+   "publisert": "2026-10-07",
+   "utgave": "2026-10-23",
+   "lagt_til": "2026-10-23T21:30:00Z",
+   "tema": [
+    "Gründer og innovasjon",
+    "Politikk og rammevilkår"
+   ],
+   "omrade": [
+    "Nasjonalt"
+   ],
+   "type": "Politikk og vedtak",
+   "prioritet": 1,
+   "betalingsmur": false,
+   "grunnlag": "heil sak",
+   "nemner_sn": false,
+   "frist": null,
+   "frist_tekst": "",
+   "fra_tips": false,
+   "relaterte": [],
+   "id": "2026-10-23-statsbudsjett-verkemiddel",
+   "bilete": "https://www.regjeringen.no/globalassets/departementene/dio/statsbudsjettet-2027/fin_statsbudsjettet2027_16_lav.png",
+   "bilete_kreditering": "Regjeringa"
+  },
+  {
+   "tittel": "Ny august-rekord for overnattingar i Noreg",
+   "samandrag": "SSB melder om 5,5 millionar overnattingar i august, det høgaste augusttalet i statistikken. Også juni og juli sette rekord for hotellovernattingar.",
+   "kvifor": "Rekordsommaren er nyttig bakgrunn for sesongevaluering og vidare satsing i reiselivet i Sogn.",
+   "kjelde": "SSB",
+   "url": "https://www.ssb.no/transport-og-reiseliv/reiseliv",
+   "publisert": "2026-10-01",
+   "utgave": "2026-10-23",
+   "lagt_til": "2026-10-23T21:30:00Z",
+   "tema": [
+    "Reiseliv"
+   ],
+   "omrade": [
+    "Nasjonalt"
+   ],
+   "type": "Statistikk",
+   "prioritet": 3,
+   "betalingsmur": false,
+   "grunnlag": "heil sak",
+   "nemner_sn": false,
+   "frist": null,
+   "frist_tekst": "",
+   "fra_tips": false,
+   "relaterte": [],
+   "id": "2026-10-23-ssb-overnatting",
+   "bilete": null,
+   "bilete_kreditering": ""
+  },
+  {
+   "tittel": "Strengare krav for spelemidlar frå 2027",
+   "samandrag": "Frå søknadsåret 2027 skal Vestland fylkeskommune vurdere behovet for kvart anlegg grundigare. Burettslag, velforeiningar og grendelag kan ikkje lenger søkje om midlar til nærmiljøanlegg. Lærdal kommune minner om at fristen for å søkje i år er 15. november.",
+   "kvifor": "Viktig for lag og kommunar som planlegg idretts- og aktivitetsanlegg.",
+   "kjelde": "Porten",
+   "url": "https://www.porten.no/nyheiter/n/aOpr7E/nye-reglar-gjer-kampen-om-pengane-toeffare",
+   "publisert": "2026-10-18",
+   "utgave": "2026-10-23",
+   "lagt_til": "2026-10-23T21:30:00Z",
+   "tema": [
+    "Kultur og arrangement",
+    "Politikk og rammevilkår"
+   ],
+   "omrade": [
+    "Vestland",
+    "Lærdal"
+   ],
+   "type": "Utlysing",
+   "prioritet": 3,
+   "betalingsmur": false,
+   "grunnlag": "heil sak",
+   "nemner_sn": false,
+   "frist": "2026-11-15",
+   "frist_tekst": "Søknadsfrist spelemidlar (Lærdal)",
+   "fra_tips": false,
+   "relaterte": [
+    {
+     "kjelde": "Lærdal kommune",
+     "url": "https://laerdal.kommune.no/aktuelt/har-du-planar-om-a-soka-spelemidlar-til-idrettsanlegg.6098.aspx"
+    }
+   ],
+   "id": "2026-10-23-spelemidlar",
+   "bilete": "https://vcdn.polarismedia.no/106e2abe-be1d-3da7-b8d3-cbd2b86b441f?fit=crop&q=80&tight=false&w=1200&h=675",
+   "bilete_kreditering": "Lasse Styve Andersen / Porten"
+  },
+  {
+   "tittel": "Sogn Avis om Sogn Næring: tjue år etter stiftinga kan visjonen bli røyndom",
+   "samandrag": "Sogn Avis har ei sak om Sogn Næring med vinklinga at selskapet, tjue år etter stiftinga, no kan gjennomføre visjonen sin.",
+   "kvifor": "Sogn Næring i media. Greitt å kjenne vinklinga før nokon spør.",
+   "kjelde": "Sogn Avis",
+   "url": "https://www.sognavis.no/tjue-ar-etter-stiftinga-kan-dei-endeleg-gjennomfora-visjonen-sin/s/5-115-1424082",
+   "publisert": null,
+   "utgave": "2026-10-23",
+   "lagt_til": "2026-10-23T21:30:00Z",
+   "tema": [
+    "Næringsliv og industri"
+   ],
+   "omrade": [
+    "Sogn"
+   ],
+   "type": "Nyheit",
+   "prioritet": 2,
+   "betalingsmur": true,
+   "grunnlag": "tittel",
+   "nemner_sn": true,
+   "frist": null,
+   "frist_tekst": "",
+   "fra_tips": false,
+   "relaterte": [],
+   "id": "2026-10-23-sn-i-media-visjon",
+   "bilete": null,
+   "bilete_kreditering": ""
+  },
+  {
+   "tittel": "Rv. 52 over Hemsedalsfjellet blir stengd i opptil 13,5 timar dagleg fram til 17. desember",
+   "samandrag": "Vegvesenet sprengjer ved Storeskar frå 21. oktober, med stengingar seks dagar i veka. Når Lærdalstunnelen i tillegg blir nattestengd frå 16. november, kan reiser mellom Bergen eller Voss og Austlandet via Filefjell krevje to ferjer over Sognefjorden. Vegvesenet tilrår Hardangervidda eller E134 for nattreiser.",
+   "kvifor": "Viktig for transportørar, leverandørar og folk som køyrer over fjellet i jobbsamanheng i haust.",
+   "kjelde": "Porten",
+   "url": "https://www.porten.no/nyheiter/n/Vgpy96/varslar-ein-krevjande-haust-vi-beklagar-ulempene",
+   "publisert": "2026-10-17",
+   "utgave": "2026-10-23",
+   "lagt_til": "2026-10-23T21:30:00Z",
+   "tema": [
+    "Samferdsel og infrastruktur"
+   ],
+   "omrade": [
+    "Lærdal",
+    "Sogn"
+   ],
+   "type": "Nyheit",
+   "prioritet": 2,
+   "betalingsmur": false,
+   "grunnlag": "heil sak",
+   "nemner_sn": false,
+   "frist": null,
+   "frist_tekst": "",
+   "fra_tips": false,
+   "relaterte": [
+    {
+     "kjelde": "Statens vegvesen: rv. 52",
+     "url": "https://www.vegvesen.no/vegprosjekter/riksveg/rv52hemsedal/rv.52-storeskar-galdane/nyheter/rv.-52-hemsedalsfjellet-stenger-135-timer-i-dognet"
+    }
+   ],
+   "id": "2026-10-23-rv52-hemsedal",
+   "bilete": "https://vcdn.polarismedia.no/d17d6036-6bc4-3c73-b407-1f198d02802b?fit=crop&q=80&tight=false&w=1200&h=675",
+   "bilete_kreditering": "Lasse Styve Andersen / Porten"
+  },
+  {
+   "tittel": "Ny rasteplass på Nasjonal turistveg Aurlandsfjellet",
+   "samandrag": "Lærdal kommune inviterte til opning av Røyrnes rasteplass på Aurlandsfjellet 20. oktober. Fjellovergangen er stengd for vinteren frå 24. oktober.",
+   "kvifor": "Eit nytt stopp langs ein av dei mest kjende turistvegane i Sogn, klart til neste sesong.",
+   "kjelde": "Lærdal kommune",
+   "url": "https://laerdal.kommune.no/aktuelt/opning-av-royrnes-rasteplass-pa-nasjonal-turistveg-aurlandsfjellet.6075.aspx",
+   "publisert": "2026-10-15",
+   "utgave": "2026-10-23",
+   "lagt_til": "2026-10-23T21:30:00Z",
+   "tema": [
+    "Reiseliv",
+    "Samferdsel og infrastruktur"
+   ],
+   "omrade": [
+    "Lærdal",
+    "Aurland"
+   ],
+   "type": "Nyheit",
+   "prioritet": 3,
+   "betalingsmur": false,
+   "grunnlag": "heil sak",
+   "nemner_sn": false,
+   "frist": null,
+   "frist_tekst": "",
+   "fra_tips": false,
+   "relaterte": [
+    {
+     "kjelde": "Lærdal kommune: Aurlandsfjellet stengjer",
+     "url": "https://laerdal.kommune.no/aktuelt/aurlandsfjellet-stengjer-for-sesongen.6099.aspx"
+    }
+   ],
+   "id": "2026-10-23-royrnes-rasteplass",
+   "bilete": "https://laerdal.kommune.no/handlers/bv.ashx/e1/ibbe2aa9a-0d9d-4ddf-9ff6-a040f88006ae/w1200/h630/q1178/kd104fbcf820d/royrnes-web_invit_fb.jpg",
+   "bilete_kreditering": "Statens vegvesen"
+  },
+  {
+   "tittel": "Norges Bank: små endringar i vekstutsiktene i næringslivet",
+   "samandrag": "Den siste rapporten frå Regionalt nettverk (3/2026) viser små endringar i vekstutsiktene. Intervjua med bedrifter over heile landet vart gjorde i august og september.",
+   "kvifor": "Nyttig bakgrunn for korleis bedriftene ser på marknaden framover. Rapporten har eigne tal for kvar region.",
+   "kjelde": "Norges Bank",
+   "url": "https://www.norges-bank.no/aktuelt/publikasjoner/Regionalt-nettverk/2026/3-2026/",
+   "publisert": "2026-09-17",
+   "utgave": "2026-10-23",
+   "lagt_til": "2026-10-23T21:30:00Z",
+   "tema": [
+    "Politikk og rammevilkår",
+    "Næringsliv og industri"
+   ],
+   "omrade": [
+    "Nasjonalt"
+   ],
+   "type": "Rapport og analyse",
+   "prioritet": 3,
+   "betalingsmur": false,
+   "grunnlag": "heil sak",
+   "nemner_sn": false,
+   "frist": null,
+   "frist_tekst": "",
+   "fra_tips": false,
+   "relaterte": [],
+   "id": "2026-10-23-regionalt-nettverk",
+   "bilete": null,
+   "bilete_kreditering": ""
+  },
+  {
+   "tittel": "Nyskapingsfondet har siste tildeling for i år",
+   "samandrag": "Nyskapingsfondet Sogn og Fjordane førebur sitt 20. driftsår og har no den fjerde og siste tildelinga i 2026. Fondet støttar idear i tidleg fase innan grøn omstilling og berekraft. Fristen er 22. november.",
+   "kvifor": "Låg terskel for gründerar i Sogn. Gi beskjed til aktuelle idéhavarar no.",
+   "kjelde": "Kunnskapsparken Vestland",
+   "url": "https://www.kpvest.no/nyheiter/nye-muligheiter-fra-nyskapingsfondet-sognfjordane",
+   "publisert": "2026-10-09",
+   "utgave": "2026-10-23",
+   "lagt_til": "2026-10-23T21:30:00Z",
+   "tema": [
+    "Gründer og innovasjon"
+   ],
+   "omrade": [
+    "Sogn"
+   ],
+   "type": "Utlysing",
+   "prioritet": 2,
+   "betalingsmur": false,
+   "grunnlag": "heil sak",
+   "nemner_sn": false,
+   "frist": "2026-11-22",
+   "frist_tekst": "Søknadsfrist Nyskapingsfondet",
+   "fra_tips": false,
+   "relaterte": [],
+   "id": "2026-10-23-nyskapingsfondet",
+   "bilete": null,
+   "bilete_kreditering": ""
+  },
+  {
+   "tittel": "Styringsrenta er 4,5 prosent – neste rentemøte er 5. november",
+   "samandrag": "Norges Bank sette opp renta med 0,25 prosentpoeng 24. september. Banken meiner renta truleg må haldast oppe ei tid, og at ho kan bli sett endå høgare dersom prisimpulsane frå utlandet blir sterkare.",
+   "kvifor": "Høgare rente gjer lån og investeringar dyrare for bedrifter og hushald i regionen.",
+   "kjelde": "Norges Bank",
+   "url": "https://www.norges-bank.no/aktuelt/nyheter/Pressemeldinger/2026/2026-09-24-rente/",
+   "publisert": "2026-09-24",
+   "utgave": "2026-10-23",
+   "lagt_til": "2026-10-23T21:30:00Z",
+   "tema": [
+    "Politikk og rammevilkår"
+   ],
+   "omrade": [
+    "Nasjonalt"
+   ],
+   "type": "Politikk og vedtak",
+   "prioritet": 2,
+   "betalingsmur": false,
+   "grunnlag": "heil sak",
+   "nemner_sn": false,
+   "frist": "2026-11-05",
+   "frist_tekst": "Rentemøte i Norges Bank",
+   "fra_tips": false,
+   "relaterte": [],
+   "id": "2026-10-23-norges-bank-rente",
+   "bilete": null,
+   "bilete_kreditering": ""
+  },
+  {
+   "tittel": "Årdal har den nest høgaste ledigheita i Vestland",
+   "samandrag": "Ved utgangen av september var 1,6 prosent heilt ledige i Vestland, mot 2,0 prosent i landet. Årdal låg på 2,0 prosent, nest høgast i fylket etter Fedje.",
+   "kvifor": "Viktig bakgrunn for omstillings- og rekrutteringsarbeidet i Årdal, sjølv om arbeidsmarknaden i fylket elles er stram.",
+   "kjelde": "NAV Vestland",
+   "url": "https://www.nav.no/no/lokalt/vestland/pressemeldinger/stabilt-lag-arbeidsloyse-i-vestland",
+   "publisert": "2026-10-02",
+   "utgave": "2026-10-23",
+   "lagt_til": "2026-10-23T21:30:00Z",
+   "tema": [
+    "Kompetanse og arbeidsliv"
+   ],
+   "omrade": [
+    "Årdal",
+    "Vestland"
+   ],
+   "type": "Statistikk",
+   "prioritet": 2,
+   "betalingsmur": false,
+   "grunnlag": "heil sak",
+   "nemner_sn": false,
+   "frist": null,
+   "frist_tekst": "",
+   "fra_tips": false,
+   "relaterte": [],
+   "id": "2026-10-23-nav-ledigheit",
+   "bilete": null,
+   "bilete_kreditering": ""
+  },
+  {
+   "tittel": "Planar om eit «mini-Hollywood» for reklamefilm i Lærdal",
+   "samandrag": "Sogn Avis skriv om planar om å byggje opp eit miljø for produksjon av reklamefilm i Lærdal.",
+   "kvifor": "Film- og TV-produksjon er eit satsingsområde for oss. Dette kan vere ein samarbeidspartnar og eit døme på ny næring i indre Sogn.",
+   "kjelde": "Sogn Avis",
+   "url": "https://www.sognavis.no/vil-bygga-opp-eit-mini-hollywood-for-reklamefilm-i-lardal-dette-blir-konge/s/5-115-1442815",
+   "publisert": null,
+   "utgave": "2026-10-23",
+   "lagt_til": "2026-10-23T21:30:00Z",
+   "tema": [
+    "Kultur og arrangement",
+    "Næringsliv og industri"
+   ],
+   "omrade": [
+    "Lærdal"
+   ],
+   "type": "Nyheit",
+   "prioritet": 2,
+   "betalingsmur": true,
+   "grunnlag": "tittel",
+   "nemner_sn": false,
+   "frist": null,
+   "frist_tekst": "",
+   "fra_tips": false,
+   "relaterte": [],
+   "id": "2026-10-23-mini-hollywood-laerdal",
+   "bilete": null,
+   "bilete_kreditering": ""
+  },
+  {
+   "tittel": "Over ein milliard kroner skal investerast i Årdal",
+   "samandrag": "Sogn Avis omtalar ei investering på over ein milliard kroner i Årdal som den største på 30 år. Hydro varsla i mai at selskapet vil investere 1,2 mrd. kr ved verket i Årdal.",
+   "kvifor": "Store industriinvesteringar gir ringverknader for leverandørar, bustadbehov og rekruttering i Årdal og nabokommunane.",
+   "kjelde": "Sogn Avis",
+   "url": "https://www.sognavis.no/skal-bruka-over-ein-milliard-i-ardal-storste-investeringa-pa-30-ar/s/5-115-1436930",
+   "publisert": null,
+   "utgave": "2026-10-23",
+   "lagt_til": "2026-10-23T21:30:00Z",
+   "tema": [
+    "Næringsliv og industri"
+   ],
+   "omrade": [
+    "Årdal"
+   ],
+   "type": "Nyheit",
+   "prioritet": 2,
+   "betalingsmur": true,
+   "grunnlag": "tittel",
+   "nemner_sn": false,
+   "frist": null,
+   "frist_tekst": "",
+   "fra_tips": false,
+   "relaterte": [
+    {
+     "kjelde": "Porten (mai): Investerer over ein milliard",
+     "url": "https://www.porten.no/nyheiter/n/5pb0ve/investerer-over-ein-milliard-i-aardal"
+    }
+   ],
+   "id": "2026-10-23-milliard-ardal",
+   "bilete": null,
+   "bilete_kreditering": ""
+  },
+  {
+   "tittel": "Marint vern av Sognefjorden: høyringsfristen er 1. november",
+   "samandrag": "Statsforvaltaren foreslår å verne om lag 1003 km² av Sognefjorden i ti kommunar, mellom dei alle seks kommunane i indre Sogn. NHO Vestland, Sjømat Noreg, Sogn og Fjordane næringsråd og fleire ordførarar har åtvara mot forslaget i eit felles innlegg. Regionrådet har samla seg om sju felles punkt, og Vestland Frp seier nei.",
+   "kvifor": "Næringslivet fryktar at vernet kan bremse kaiutbygging, investeringar og nye arbeidsplassar langs fjorden. Fristen er siste sjanse til å gi innspel.",
+   "kjelde": "Statsforvaltaren i Vestland",
+   "url": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2026/11/forslag-om-marint-vern-av-sognefjorden/",
+   "publisert": null,
+   "utgave": "2026-10-23",
+   "lagt_til": "2026-10-23T21:30:00Z",
+   "tema": [
+    "Natur, klima og fjord",
+    "Politikk og rammevilkår"
+   ],
+   "omrade": [
+    "Sogn",
+    "Vestland"
+   ],
+   "type": "Høyring",
+   "prioritet": 1,
+   "betalingsmur": false,
+   "grunnlag": "heil sak",
+   "nemner_sn": false,
+   "frist": "2026-11-01",
+   "frist_tekst": "Høyringsfrist marint vern",
+   "fra_tips": false,
+   "relaterte": [
+    {
+     "kjelde": "Bergens Tidende: Næringsliv og ordførarar slår alarm",
+     "url": "https://www.bt.no/btmeninger/debatt/i/K8JWv7/naeringsliv-og-ordfoerere-slaar-alarm-skal-vestland-bli-museum"
+    },
+    {
+     "kjelde": "Porten: Regionrådet",
+     "url": "https://www.porten.no/nyheiter/i/0pM4BE/feilar-me-her-saa-er-eg-redd-me-kan-drita-oss-skikkeleg-ut"
+    },
+    {
+     "kjelde": "Porten: Frp seier nei",
+     "url": "https://www.porten.no/nyheiter/n/xle9pl/sognefjorden-frp-seier-nei-til-vern"
+    },
+    {
+     "kjelde": "Sogn Avis",
+     "url": "https://www.sognavis.no/vil-verna-1003-kvadratkilometer-av-sognefjorden/s/5-115-1430683"
+    },
+    {
+     "kjelde": "Sogn Avis (debatt)",
+     "url": "https://www.sognavis.no/skal-sogndal-folk-betale-heile-fjordrekninga/o/5-115-1440659"
+    }
+   ],
+   "id": "2026-10-23-marint-vern-hoyring",
+   "bilete": "https://www.statsforvalteren.no/contentassets/559b9df534ae4919b35ec09dd4809aa1/solvornferga4_vegardaasen.jpg",
+   "bilete_kreditering": "Vegard Byrkjeland Aasen / Statsforvaltaren"
+  },
+  {
+   "tittel": "Lærdalstunnelen blir stengd kvar natt frå 16. november – i to år",
+   "samandrag": "Oppgraderinga startar måndag 16. november. Tunnelen blir stengd frå kl. 18 kvar kveld i om lag to år, men er open natt til sundag. Utrykkingskøyretøy kjem gjennom, og det blir tre kveldsbussar kvar veg for bebuarar i Aurland og Lærdal. Tunnelen skal haldast open når Hardangervidda er stengd.",
+   "kvifor": "Nattestenginga råkar transport, varelevering, turnusarbeid og reiseliv på begge sider av Filefjell.",
+   "kjelde": "Statens vegvesen",
+   "url": "https://www.vegvesen.no/nn/vegprosjekt/prosjekt/e16lardalstunnelen/nyheitsarkiv/oppstart-blir-16.-november",
+   "publisert": "2026-09-23",
+   "utgave": "2026-10-23",
+   "lagt_til": "2026-10-23T21:30:00Z",
+   "tema": [
+    "Samferdsel og infrastruktur"
+   ],
+   "omrade": [
+    "Lærdal",
+    "Aurland",
+    "Vestland"
+   ],
+   "type": "Nyheit",
+   "prioritet": 1,
+   "betalingsmur": false,
+   "grunnlag": "heil sak",
+   "nemner_sn": false,
+   "frist": "2026-11-16",
+   "frist_tekst": "Nattestenging i Lærdalstunnelen startar",
+   "fra_tips": false,
+   "relaterte": [
+    {
+     "kjelde": "Porten: Veterinærar får køyre gjennom",
+     "url": "https://www.porten.no/nyheiter/n/BMMl50/veterinaerar-faar-koeyre-gjennom-ved-akutte-oppdrag"
+    },
+    {
+     "kjelde": "Aurland kommune",
+     "url": "https://www.aurland.kommune.no/artikkel/oppgradering-av-laerdalstunnelen-2026"
+    }
+   ],
+   "id": "2026-10-23-laerdalstunnelen-oppstart",
+   "bilete": "https://www.vegvesen.no/globalassets/vegprosjekter/prosjekter/e16lardalstunnelen/bilder/e16-lardalstunnelen--mg-0198_1920.jpg",
+   "bilete_kreditering": "Silje Drevdal / Statens vegvesen"
+  },
+  {
+   "tittel": "Næringslivet vil ha andre stengetider i Lærdalstunnelen",
+   "samandrag": "Bedrifter på begge sider av Filefjell har engasjert seg i stengetidene under oppgraderinga. Stortingsrepresentant Anne Lise Gjerstad Fredlund (SV) har teke saka til samferdselsministeren og spør om tidene kan endrast.",
+   "kvifor": "Næringslivet i Lærdal og Aurland har ein kort frist på seg til å påverke stengetidene før arbeidet startar.",
+   "kjelde": "Porten",
+   "url": "https://www.porten.no/nyheiter/n/2Vqm74/naeringslivet-tok-tak-no-maa-ministaren-ta-stilling-til-opningstidene",
+   "publisert": "2026-10-13",
+   "utgave": "2026-10-23",
+   "lagt_til": "2026-10-23T21:30:00Z",
+   "tema": [
+    "Samferdsel og infrastruktur",
+    "Politikk og rammevilkår"
+   ],
+   "omrade": [
+    "Lærdal",
+    "Aurland"
+   ],
+   "type": "Nyheit",
+   "prioritet": 2,
+   "betalingsmur": true,
+   "grunnlag": "ingress",
+   "nemner_sn": false,
+   "frist": null,
+   "frist_tekst": "",
+   "fra_tips": false,
+   "relaterte": [],
+   "id": "2026-10-23-laerdalstunnelen-naeringslivet",
+   "bilete": "https://vcdn.polarismedia.no/e88e21c3-5e2a-36a6-8505-2b7296942711?fit=crop&q=80&tight=false&w=1200&h=675",
+   "bilete_kreditering": "Lasse Styve Andersen / Porten"
+  },
+  {
+   "tittel": "Nye spesialisttilbod ved Lærdal sjukehus gir blanda reaksjonar",
+   "samandrag": "Helse Førde har planar om nye spesialisttenester ved Lærdal sjukehus. Ordføraren trur lovnadene blir følgde opp, medan andre lokalpolitikarar er usikre på kva planane vil bety for sjukehuset.",
+   "kvifor": "Sjukehuset er ein viktig arbeidsplass og ein del av det som gjer indre Sogn attraktivt for tilflyttarar og bedrifter.",
+   "kjelde": "Porten",
+   "url": "https://www.porten.no/nyheiter/n/b8om0l/vekkjer-baade-haap-og-skepsis-eg-hadde-haapa-paa-noko-mykje-meir",
+   "publisert": "2026-10-17",
+   "utgave": "2026-10-23",
+   "lagt_til": "2026-10-23T21:30:00Z",
+   "tema": [
+    "Politikk og rammevilkår",
+    "Kompetanse og arbeidsliv"
+   ],
+   "omrade": [
+    "Lærdal"
+   ],
+   "type": "Nyheit",
+   "prioritet": 2,
+   "betalingsmur": true,
+   "grunnlag": "ingress",
+   "nemner_sn": false,
+   "frist": null,
+   "frist_tekst": "",
+   "fra_tips": false,
+   "relaterte": [
+    {
+     "kjelde": "Sogn Avis: Uvisst om poliklinikkane bergar arbeidsplassar",
+     "url": "https://www.sognavis.no/uvisst-om-nye-poliklinikkar-kan-berga-arbeidsplassar-vidare-arbeid-vil-gje-svar/s/5-115-1398626"
+    }
+   ],
+   "id": "2026-10-23-laerdal-sjukehus",
+   "bilete": "https://vcdn.polarismedia.no/65805be0-9321-3fe7-bbd0-703e80aba223?fit=crop&q=80&tight=false&w=1200&h=675",
+   "bilete_kreditering": "Inger Helgestad / Porten"
+  },
+  {
+   "tittel": "Lærdalsordføraren reiste til Brussel for å lære om EU-midlar",
+   "samandrag": "Ordføraren i Lærdal var med ein delegasjon frå Sogn til Brussel. Han meiner kommunane kan bli flinkare til å søkje EU-midlar og ville lære meir om moglegheitene.",
+   "kvifor": "Passar med Brussel-arbeidet til Sogn Næring og kan gi grunnlag for felles søknader i regionen.",
+   "kjelde": "Porten",
+   "url": "https://www.porten.no/nyheiter/n/VgpE26/tok-turen-til-brussel-med-haap-om-paafyll-i-kommunekassa",
+   "publisert": "2026-10-21",
+   "utgave": "2026-10-23",
+   "lagt_til": "2026-10-23T21:30:00Z",
+   "tema": [
+    "Politikk og rammevilkår",
+    "Gründer og innovasjon"
+   ],
+   "omrade": [
+    "Lærdal",
+    "Internasjonalt"
+   ],
+   "type": "Nyheit",
+   "prioritet": 3,
+   "betalingsmur": true,
+   "grunnlag": "ingress",
+   "nemner_sn": false,
+   "frist": null,
+   "frist_tekst": "",
+   "fra_tips": false,
+   "relaterte": [],
+   "id": "2026-10-23-laerdal-brussel",
+   "bilete": "https://vcdn.polarismedia.no/c4627347-e191-3830-ba57-ee287c6b07a2?fit=crop&q=80&tight=false&w=1200&h=675",
+   "bilete_kreditering": "Privat / Porten"
+  },
+  {
+   "tittel": "Studietur om å bli ein attraktiv arbeidsgjevar 18.–19. november",
+   "samandrag": "Kunnskapsparken Vestland og Framtidsfylket arrangerer studietur om rekruttering, kombinert med Folka-konferansen. Bedrifter i næringshage- eller inkubatorprogram kan få inntil 75 prosent innovasjonsstøtte til turen.",
+   "kvifor": "Rekruttering er ein flaskehals for mange bedrifter i Sogn. Eit konkret tilbod å vise til.",
+   "kjelde": "Kunnskapsparken Vestland",
+   "url": "https://www.kpvest.no/nyheiter/studietur-november2026",
+   "publisert": "2026-10-14",
+   "utgave": "2026-10-23",
+   "lagt_til": "2026-10-23T21:30:00Z",
+   "tema": [
+    "Kompetanse og arbeidsliv"
+   ],
+   "omrade": [
+    "Vestland"
+   ],
+   "type": "Arrangement",
+   "prioritet": 3,
+   "betalingsmur": false,
+   "grunnlag": "heil sak",
+   "nemner_sn": false,
+   "frist": "2026-11-18",
+   "frist_tekst": "Studietur om rekruttering",
+   "fra_tips": false,
+   "relaterte": [],
+   "id": "2026-10-23-kpv-studietur",
+   "bilete": "https://static1.squarespace.com/static/606eb7b71fe03e62be757e18/606eb7ef1fe03e62be7588ae/6a479501c84bfe6d3554ac63/1792578231581/v991-au-046.jpg?format=1500w",
+   "bilete_kreditering": "Kunnskapsparken Vestland"
+  },
+  {
+   "tittel": "Hydro melder rekordproduksjon ved dei norske metallverka",
+   "samandrag": "Hydro la fram tala for 3. kvartal i dag. Justert EBITDA enda på 9,1 mrd. kr, mot 6,0 mrd. kr same kvartal i fjor, og dei norske verka produserte meir flytande metall enn nokon gong. Høgare energi- og karbonkostnader og dyrare nordisk kraft trekte i motsett retning.",
+   "kvifor": "Rekordproduksjon i Noreg er gode nyheiter for Hydro Årdal, ein av dei største arbeidsplassane i indre Sogn.",
+   "kjelde": "Hydro (børsmelding)",
+   "url": "https://www.globenewswire.com/news-release/2026/10/23/3387045/0/no/norsk-hydro-solide-resultater-og-god-drift.html",
+   "publisert": "2026-10-23",
+   "utgave": "2026-10-23",
+   "lagt_til": "2026-10-23T21:30:00Z",
+   "tema": [
+    "Næringsliv og industri",
+    "Energi og kraft"
+   ],
+   "omrade": [
+    "Årdal",
+    "Nasjonalt"
+   ],
+   "type": "Nyheit",
+   "prioritet": 1,
+   "betalingsmur": false,
+   "grunnlag": "heil sak",
+   "nemner_sn": false,
+   "frist": null,
+   "frist_tekst": "",
+   "fra_tips": false,
+   "relaterte": [],
+   "id": "2026-10-23-hydro-q3",
+   "bilete": null,
+   "bilete_kreditering": ""
+  },
+  {
+   "tittel": "Hydro Årdal skal levere aluminium til emballasjen til Chanel",
+   "samandrag": "Hydro har inngått eit samarbeid med Chanel om aluminium frå verket i Årdal til emballasje. Avtalen varer fram til 2030.",
+   "kvifor": "Ein kjend internasjonal kunde er god omdømmebygging for industrien i Årdal.",
+   "kjelde": "Porten",
+   "url": "https://www.porten.no/nyheiter/n/43Mx5e/chanel-skal-bruka-aluminium-fraa-aardal",
+   "publisert": "2026-09-28",
+   "utgave": "2026-10-23",
+   "lagt_til": "2026-10-23T21:30:00Z",
+   "tema": [
+    "Næringsliv og industri"
+   ],
+   "omrade": [
+    "Årdal"
+   ],
+   "type": "Nyheit",
+   "prioritet": 3,
+   "betalingsmur": true,
+   "grunnlag": "ingress",
+   "nemner_sn": false,
+   "frist": null,
+   "frist_tekst": "",
+   "fra_tips": false,
+   "relaterte": [],
+   "id": "2026-10-23-hydro-chanel",
+   "bilete": "https://vcdn.polarismedia.no/37e49f73-960c-37f9-8382-4bcd3064670b?fit=crop&q=80&tight=false&w=1200&h=675",
+   "bilete_kreditering": "Lasse Styve Andersen / Porten"
+  },
+  {
+   "tittel": "Ope møte om framtida til Hodlekve onsdag 28. oktober",
+   "samandrag": "Sogndal kommune, Sognefjorden Utvikling og selskapa bak Sogndal skisenter inviterer til møte om kva rolle Hodlekve skal ha fram mot 2036. Møtet er i Dalalåven kl. 18–20, og alle er velkomne.",
+   "kvifor": "Skisenteret er viktig for reiseliv, fritid og bulyst i Sogndal. Ein god stad å møte aktørane.",
+   "kjelde": "Sogndal kommune",
+   "url": "https://www.sogndal.kommune.no/aktuelt/2026-10-19-hodlekve---meir-enn-eit-skisenter",
+   "publisert": "2026-10-19",
+   "utgave": "2026-10-23",
+   "lagt_til": "2026-10-23T21:30:00Z",
+   "tema": [
+    "Reiseliv",
+    "Kultur og arrangement"
+   ],
+   "omrade": [
+    "Sogndal"
+   ],
+   "type": "Arrangement",
+   "prioritet": 2,
+   "betalingsmur": false,
+   "grunnlag": "heil sak",
+   "nemner_sn": false,
+   "frist": "2026-10-28",
+   "frist_tekst": "Ope møte om Hodlekve",
+   "fra_tips": false,
+   "relaterte": [],
+   "id": "2026-10-23-hodlekve-mote",
+   "bilete": "https://www.sogndal.kommune.no/images/18.45965a6e1a12f5f10b04428/1792394244649/Hodlekve.jpg",
+   "bilete_kreditering": "Sogndal kommune"
+  },
+  {
+   "tittel": "Krass kritikk på ope møte om framtida til Gamle Telegrafen i Lærdal",
+   "samandrag": "Lærdal kommune inviterte til ope møte 21. oktober om bruk og drift av Gamle Telegrafen. Både administrasjonen og politikarane fekk kritikk, og det kom krav om ein snuoperasjon.",
+   "kvifor": "Utfallet kan få noko å seie for kultur- og møteplasstilbodet i Lærdal.",
+   "kjelde": "Porten",
+   "url": "https://www.porten.no/nyheiter/n/64AA0r/bad-om-snuoperasjon-ei-fallitterklaering",
+   "publisert": "2026-10-23",
+   "utgave": "2026-10-23",
+   "lagt_til": "2026-10-23T21:30:00Z",
+   "tema": [
+    "Kultur og arrangement",
+    "Politikk og rammevilkår"
+   ],
+   "omrade": [
+    "Lærdal"
+   ],
+   "type": "Nyheit",
+   "prioritet": 3,
+   "betalingsmur": true,
+   "grunnlag": "ingress",
+   "nemner_sn": false,
+   "frist": null,
+   "frist_tekst": "",
+   "fra_tips": false,
+   "relaterte": [
+    {
+     "kjelde": "Lærdal kommune: Kva skal skje med Gamle Telegrafen?",
+     "url": "https://laerdal.kommune.no/aktuelt/kva-skal-skje-med-gamle-telegrafen.6058.aspx"
+    }
+   ],
+   "id": "2026-10-23-gamle-telegrafen",
+   "bilete": "https://vcdn.polarismedia.no/7a02e9fd-5bdc-3e02-b184-49b5f3463dd6?fit=crop&q=80&tight=false&w=1200&h=675",
+   "bilete_kreditering": "Inger Helgestad / Porten"
+  },
+  {
+   "tittel": "Festival i Luster blir lagd ned etter åtte år",
+   "samandrag": "Etter åtte år er det slutt for ein festival i Luster. Namnet og grunngjevinga står i saka, som er bak betalingsmur.",
+   "kvifor": "Eit hol i arrangementskalenderen i Luster. Sjekk om det trengst eller finst nye arrangørar.",
+   "kjelde": "Porten",
+   "url": "https://www.porten.no/nyheiter/n/gdBdJa/legg-ned-festivalen-utruleg-vemodig",
+   "publisert": "2026-10-15",
+   "utgave": "2026-10-23",
+   "lagt_til": "2026-10-23T21:30:00Z",
+   "tema": [
+    "Kultur og arrangement"
+   ],
+   "omrade": [
+    "Luster"
+   ],
+   "type": "Nyheit",
+   "prioritet": 3,
+   "betalingsmur": true,
+   "grunnlag": "ingress",
+   "nemner_sn": false,
+   "frist": null,
+   "frist_tekst": "",
+   "fra_tips": false,
+   "relaterte": [],
+   "id": "2026-10-23-festival-luster",
+   "bilete": "https://vcdn.polarismedia.no/43867615-b365-3502-9b9f-1d679daf2a7a?fit=crop&q=80&tight=false&w=1200&h=675",
+   "bilete_kreditering": "Inger Helgestad / Porten"
+  },
+  {
+   "tittel": "Datasenter i Gaupne: fullsett folkemøte og opphitta debatt",
+   "samandrag": "Planane om Gaupne Datapark på Gaupnegrandane fylte salen på folkemøtet på Gaupne skule. Mange stilte kritiske spørsmål, fleire meiner dei ikkje fekk svar på alt, og nokre gjekk før møtet var slutt. Sogn Utvikling, med Sognekraft-sjef Terje Bakke Nævdal som styreleiar, står bak planane. Lokalpolitikarane i Luster utsette detaljreguleringa i september.",
+   "kvifor": "Ei stor sak om arbeidsplassar, areal og bruk av lokal kraft i Luster. Reguleringa er utsett og kjem truleg tilbake til politisk handsaming.",
+   "kjelde": "Porten",
+   "url": "https://www.porten.no/nyheiter/n/771bv4/hoeg-temperatur-paa-folkemoete-det-var-fleire-som-gjekk",
+   "publisert": "2026-10-22",
+   "utgave": "2026-10-23",
+   "lagt_til": "2026-10-23T21:30:00Z",
+   "tema": [
+    "Energi og kraft",
+    "Næringsliv og industri"
+   ],
+   "omrade": [
+    "Luster"
+   ],
+   "type": "Nyheit",
+   "prioritet": 1,
+   "betalingsmur": true,
+   "grunnlag": "ingress",
+   "nemner_sn": false,
+   "frist": null,
+   "frist_tekst": "",
+   "fra_tips": false,
+   "relaterte": [
+    {
+     "kjelde": "Porten: Kristine fekk ikkje svar på alt",
+     "url": "https://www.porten.no/nyheiter/n/X9OGoo/kristine-fekk-svar-men-ikkje-paa-alt"
+    },
+    {
+     "kjelde": "Porten: Fullsett sal",
+     "url": "https://www.porten.no/nyheiter/n/64MEke/ein-fullsett-sal-fekk-hoeyra-om-planane-eit-enormt-behov-for-informasjon"
+    },
+    {
+     "kjelde": "NRK Vestland",
+     "url": "https://www.nrk.no/vestland/stort-oppmote-pa-folkemote-om-datasenter-i-gaupne-1.18059049"
+    },
+    {
+     "kjelde": "Porten: Planen utsett (sept.)",
+     "url": "https://www.porten.no/nyheiter/n/q6q18E/utsette-plan-for-datasenter-veit-me-kva-me-vedtek"
+    },
+    {
+     "kjelde": "Sogn Avis: alle datasentersaker",
+     "url": "https://www.sognavis.no/datasenter"
+    }
+   ],
+   "id": "2026-10-23-datasenter-gaupne",
+   "bilete": "https://vcdn.polarismedia.no/5c5c8040-b1e8-30c9-8ca9-f5afc9969f7f?fit=crop&q=80&tight=false&w=1200&h=675",
+   "bilete_kreditering": "Lasse Styve Andersen / Porten"
+  },
+  {
+   "tittel": "CO2-kompensasjonen er utvida til fleire industribransjar",
+   "samandrag": "Ny forskrift for CO2-kompensasjon til kraftkrevjande industri gjeld frå 25. september, etter godkjenning frå ESA. Fleire sektorar og bedrifter får no rett på kompensasjon. Ordninga er på om lag sju mrd. kr i året, og 40 prosent av pengane skal gå til klima- og energisparetiltak.",
+   "kvifor": "Ordninga er viktig for konkurransekrafta til kraftkrevjande industri, som aluminiumsindustrien i Årdal.",
+   "kjelde": "Klima- og miljødepartementet",
+   "url": "https://www.regjeringen.no/no/aktuelt/flere-industribedrifter-kan-fa-stotte/id3174113/",
+   "publisert": "2026-09-30",
+   "utgave": "2026-10-23",
+   "lagt_til": "2026-10-23T21:30:00Z",
+   "tema": [
+    "Energi og kraft",
+    "Næringsliv og industri",
+    "Politikk og rammevilkår"
+   ],
+   "omrade": [
+    "Nasjonalt"
+   ],
+   "type": "Politikk og vedtak",
+   "prioritet": 3,
+   "betalingsmur": false,
+   "grunnlag": "heil sak",
+   "nemner_sn": false,
+   "frist": null,
+   "frist_tekst": "",
+   "fra_tips": false,
+   "relaterte": [],
+   "id": "2026-10-23-co2-kompensasjon",
+   "bilete": null,
+   "bilete_kreditering": ""
+  },
+  {
+   "tittel": "Fruktlagera i Sogn får 608 500 kr til vekst i bringebær",
+   "samandrag": "Hovudutvalet for næring i Vestland fylkeskommune løyvde 608 500 kr til Innvik Fruktlager, Sogn Frukt og Grønt, Luster Grønt og Sogn Grønt for å auke produksjonen av bringebær til industri i Sogn og Nordfjord.",
+   "kvifor": "Styrkjer bærnæringa i Sogn og passar med satsinga vår på mat og drikke.",
+   "kjelde": "Vestland fylkeskommune",
+   "url": "https://vestlandfylke.no/nyheitsarkiv/2026/ein-million-til-tre-landbruksprosjekt-i-vestland/",
+   "publisert": "2026-08-31",
+   "utgave": "2026-10-23",
+   "lagt_til": "2026-10-23T21:30:00Z",
+   "tema": [
+    "Mat, drikke og landbruk"
+   ],
+   "omrade": [
+    "Sogn",
+    "Luster"
+   ],
+   "type": "Nyheit",
+   "prioritet": 3,
+   "betalingsmur": false,
+   "grunnlag": "heil sak",
+   "nemner_sn": false,
+   "frist": null,
+   "frist_tekst": "",
+   "fra_tips": false,
+   "relaterte": [],
+   "id": "2026-10-23-bringebaer-sogn",
+   "bilete": "https://vestlandfylke.no/globalassets/foto/2026---nyheitsfoto/mwanvik_vlfk_dsf8341.jpg",
+   "bilete_kreditering": "Morten Wanvik / Vestland fylkeskommune"
+  }
+ ]
+}

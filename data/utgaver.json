@@ -1,0 +1,33 @@
+{
+ "utgaver": [
+  {
+   "dato": "2026-10-23",
+   "nr": 1,
+   "merknad": "Første utgåve. Her er saker frå dei siste vekene som er verdt å kjenne til. Frå no av kjem nye saker kvar vekedag før kl. 07.",
+   "viktigast": [
+    {
+     "sak": "2026-10-23-marint-vern-hoyring",
+     "tekst": "Høyringsfristen for marint vern av Sognefjorden er 1. november – siste sjanse for innspel frå næringslivet."
+    },
+    {
+     "sak": "2026-10-23-laerdalstunnelen-oppstart",
+     "tekst": "Lærdalstunnelen blir nattestengd frå 16. november i to år, og næringslivet ber om andre stengetider."
+    },
+    {
+     "sak": "2026-10-23-datasenter-gaupne",
+     "tekst": "Datasenterplanane i Gaupne fylte salen på folkemøte – mange spørsmål står att."
+    },
+    {
+     "sak": "2026-10-23-statsbudsjett-verkemiddel",
+     "tekst": "Statsbudsjettet kuttar om lag 300 mill. kr i verkemiddelapparatet, og miljøteknologiordninga forsvinn."
+    },
+    {
+     "sak": "2026-10-23-hydro-q3",
+     "tekst": "Hydro melder rekordproduksjon ved dei norske metallverka i 3. kvartal."
+    }
+   ],
+   "tal_nye": 31,
+   "laga": "2026-10-23T21:30:00Z"
+  }
+ ]
+}
