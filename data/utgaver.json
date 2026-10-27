@@ -32,31 +32,31 @@
     {
       "dato": "2026-10-27",
       "nr": 2,
-      "merknad": "Tynt med nye saker; fleire kjelder let seg ikkje opne i dag.",
+      "merknad": "Tynt med nye saker; fleire kjelder let seg ikkje opne i dag. Oppdatert med nye saker frå Porten, Vik, KPVest og Sogn Avis.",
       "viktigast": [
         {
           "sak": "2026-10-23-hodlekve-mote",
           "tekst": "Ope møte om Hodlekve i morgon, 28. oktober."
         },
         {
+          "sak": "2026-10-27-grunderkultur-sogn-naring",
+          "tekst": "Sogn Næring set i gang tiltak for å byggje gründerkultur i Sogn."
+        },
+        {
+          "sak": "2026-10-27-vik-naeringstilskot",
+          "tekst": "Frist 15. november for næringstilskot i Vik."
+        },
+        {
           "sak": "2026-10-23-marint-vern-hoyring",
           "tekst": "Høyringsfristen for marint vern av Sognefjorden er 1. november."
         },
         {
-          "sak": "2026-10-23-norges-bank-rente",
-          "tekst": "Rentemøte i Norges Bank 5. november."
-        },
-        {
-          "sak": "2026-10-23-laerdalstunnelen-oppstart",
-          "tekst": "Nattestenging av Lærdalstunnelen startar 16. november."
-        },
-        {
-          "sak": "2026-10-27-kraftlinje-420kv-debatt",
-          "tekst": "Debatt om ny 420 kV-line til Årdal og kraftpolitikken i regionen."
+          "sak": "2026-10-27-hydro-ardal-rekord",
+          "tekst": "Hydro Årdal med rekordresultat."
         }
       ],
-      "tal_nye": 1,
-      "laga": "2026-10-27T08:14:48Z"
+      "tal_nye": 7,
+      "laga": "2026-10-27T08:28:50Z"
     }
   ]
 }

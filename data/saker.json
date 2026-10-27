@@ -1,6 +1,177 @@
 {
   "saker": [
     {
+      "id": "2026-10-27-vik-naeringstilskot",
+      "tittel": "Vik kommune opnar andre søknadsrunde for næringstilskot 2026",
+      "samandrag": "Vik kommune handsamar søknader om næringstilskot to gonger i året. Andre frist for 2026 er 15. november. Dei som har søkt før treng ikkje søkje på nytt, og reviderte retningslinjer er lagde ut.",
+      "kvifor": "Lokalt tilskot som kan hjelpe verksemder og gründerar i Vik, og som Sogn Næring kan peike bedrifter til.",
+      "kjelde": "Vik kommune",
+      "url": "https://www.vik.kommune.no/aktuelt/naringstilskot-2026.5995.aspx",
+      "publisert": "2026-10-26",
+      "utgave": "2026-10-27",
+      "lagt_til": "2026-10-27T08:28:50Z",
+      "tema": [
+        "Næringsliv og industri",
+        "Gründer og innovasjon"
+      ],
+      "omrade": [
+        "Vik"
+      ],
+      "type": "Utlysing",
+      "prioritet": 2,
+      "betalingsmur": false,
+      "grunnlag": "heil sak",
+      "nemner_sn": false,
+      "frist": "2026-11-15",
+      "frist_tekst": "Søknadsfrist næringstilskot Vik",
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": null,
+      "bilete_kreditering": ""
+    },
+    {
+      "id": "2026-10-27-grunderkultur-sogn-naring",
+      "tittel": "Sogn Næring går inn for å byggje opp gründerkulturen i Sogn",
+      "samandrag": "Sogn Avis melder at Sogn Næring set i gang eit tiltak for å auke gründeraktiviteten i regionen. Saka er bak betalingsmur; samandraget byggjer på overskrifta.",
+      "kvifor": "Handlar direkte om arbeidet til Sogn Næring for gründerar i Sogn.",
+      "kjelde": "Sogn Avis",
+      "url": "https://www.sognavis.no/gar-inn-for-a-byggja-opp-gr-nderkulturen-i-sogn-me-hapar-dette-sender-eit-signal/s/5-115-1446847",
+      "publisert": null,
+      "utgave": "2026-10-27",
+      "lagt_til": "2026-10-27T08:28:50Z",
+      "tema": [
+        "Gründer og innovasjon"
+      ],
+      "omrade": [
+        "Sogn"
+      ],
+      "type": "Nyheit",
+      "prioritet": 2,
+      "betalingsmur": true,
+      "grunnlag": "tittel",
+      "nemner_sn": true,
+      "frist": null,
+      "frist_tekst": "",
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": null,
+      "bilete_kreditering": ""
+    },
+    {
+      "id": "2026-10-27-sogn-er-i-rorsle",
+      "tittel": "Meining: Sogn er i rørsle",
+      "samandrag": "Eit meiningsinnlegg i Sogn Avis med overskrifta «Sogn er i rørsle». Saka er bak betalingsmur og samandraget byggjer på overskrifta åleine.",
+      "kvifor": "Innlegg om utviklinga i Sogn frå ein som følgjer Sogn Næring tett.",
+      "kjelde": "Sogn Avis",
+      "url": "https://www.sognavis.no/sogn-er-i-rorsle/o/5-115-1448063",
+      "publisert": null,
+      "utgave": "2026-10-27",
+      "lagt_til": "2026-10-27T08:28:50Z",
+      "tema": [
+        "Politikk og rammevilkår"
+      ],
+      "omrade": [
+        "Sogn"
+      ],
+      "type": "Debatt",
+      "prioritet": 3,
+      "betalingsmur": true,
+      "grunnlag": "tittel",
+      "nemner_sn": true,
+      "frist": null,
+      "frist_tekst": "",
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": null,
+      "bilete_kreditering": ""
+    },
+    {
+      "id": "2026-10-27-kpvest-okonomikurs",
+      "tittel": "KPVest held økonomikurs for bedriftsleiarar 3.–4. november",
+      "samandrag": "Kunnskapsparken Vestland arrangerer «Forstå tallene – styr bedriften» på Peak Sunnfjord. Dag ein tek grunnleggjande rekneskap og budsjett, dag to lønnsemd, investering og kostnaden ved nytilsetting. Målbedrifter i næringshageprogram kan få opptil 75 % innovasjonsstøtte.",
+      "kvifor": "Kompetansetilbod for lokale gründerar og småbedrifter, relevant for næringshageprogrammet.",
+      "kjelde": "Kunnskapsparken Vestland",
+      "url": "https://www.kpvest.no/nyheiter/okonomikurs2026",
+      "publisert": "2026-10-21",
+      "utgave": "2026-10-27",
+      "lagt_til": "2026-10-27T08:28:50Z",
+      "tema": [
+        "Gründer og innovasjon",
+        "Kompetanse og arbeidsliv"
+      ],
+      "omrade": [
+        "Vestland"
+      ],
+      "type": "Arrangement",
+      "prioritet": 3,
+      "betalingsmur": false,
+      "grunnlag": "heil sak",
+      "nemner_sn": false,
+      "frist": "2026-11-03",
+      "frist_tekst": "Økonomikurs KPVest",
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": null,
+      "bilete_kreditering": ""
+    },
+    {
+      "id": "2026-10-27-hydro-ardal-rekord",
+      "tittel": "Hydro Årdal med rekordresultat over milliarden",
+      "samandrag": "Porten melder at Hydro Årdal har levert eit historisk resultat som har runda ein milliard. Fabrikksjef Anveig Bjordal Halkjelsvik er nøgd. Statsministeren besøkte fabrikken veka før.",
+      "kvifor": "Hydro Årdal er hjørnesteinsbedrift for Årdal og indre Sogn.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/mK2dpq/hydro-aardal-med-rekordresultat-har-bikka-milliarden",
+      "publisert": null,
+      "utgave": "2026-10-27",
+      "lagt_til": "2026-10-27T08:28:50Z",
+      "tema": [
+        "Næringsliv og industri",
+        "Energi og kraft"
+      ],
+      "omrade": [
+        "Årdal"
+      ],
+      "type": "Nyheit",
+      "prioritet": 2,
+      "betalingsmur": true,
+      "grunnlag": "ingress",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": "",
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": "https://vcdn.polarismedia.no/c8039596-314e-34f3-9e03-4ca219f4306f?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Lasse Styve Andersen / Porten"
+    },
+    {
+      "id": "2026-10-27-naeringsloggen-ardal",
+      "tittel": "Næringsloggen: enkeltpersonføretak flyttar frå Førde til Årdal",
+      "samandrag": "Porten sin næringslogg melder at Roger Høgseth Vetti flyttar enkeltpersonføretaket sitt frå Førde til Øvre Årdal, saman med andre endringar i næringslivet.",
+      "kvifor": "Små tilflyttingar og nyetableringar viser at Årdal framleis trekkjer til seg verksemder.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/8G1jzG/roger-flyttar-verksemda-fraa-foerde-til-aardal-sjaa-fleire-endringar-i-naeringslivet",
+      "publisert": null,
+      "utgave": "2026-10-27",
+      "lagt_til": "2026-10-27T08:28:50Z",
+      "tema": [
+        "Næringsliv og industri"
+      ],
+      "omrade": [
+        "Årdal"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "betalingsmur": true,
+      "grunnlag": "ingress",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": "",
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": "https://vcdn.polarismedia.no/ee6eb75a-1ff4-3fb6-8dd2-a32a505c86a8?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Kristin Vee / Porten"
+    },
+    {
       "id": "2026-10-27-kraftlinje-420kv-debatt",
       "tittel": "Debatt om ny 420 kV-line frå Sogndal til Øvre Årdal og kraftpolitikken",
       "samandrag": "Eit debattinnlegg i Porten tek opp planar om ei ny 420 kV-line frå Sogndal til Øvre Årdal og meiner regionen produserer langt meir kraft enn han brukar. Innlegget koplar kraftpolitikken til distriktsutvikling og folketalsutviklinga i Årdal og Sogndal.",
@@ -147,6 +318,10 @@
         {
           "kjelde": "Porten: Imponert av Sogn Vekst",
           "url": "https://www.porten.no/nyheiter/n/L3L6LP/imponert-av-sogn-vekst-veldig-roerande"
+        },
+        {
+          "kjelde": "Porten",
+          "url": "https://www.porten.no/nyheiter/n/lKW64L/vindkraft-paa-land-er-den-laagast-hengjande-frukta"
         }
       ],
       "id": "2026-10-23-statsministeren-ardal",
@@ -957,6 +1132,10 @@
         {
           "kjelde": "Sogn Avis: alle datasentersaker",
           "url": "https://www.sognavis.no/datasenter"
+        },
+        {
+          "kjelde": "Porten",
+          "url": "https://www.porten.no/nyheiter/n/64MEke/ein-fullsett-sal-fekk-hoeyra-om-planane-eit-enormt-behov-for-informasjon"
         }
       ],
       "id": "2026-10-23-datasenter-gaupne",
