@@ -1,49 +1,49 @@
 {
- "status": {
-  "sist_oppdatert": "2026-10-23T22:40:00Z",
-  "siste_utgave": "2026-10-23",
-  "neste": "måndag 26. oktober kl. 07",
-  "tal_saker": 31,
-  "merknad": ""
- },
- "profil": {
-  "om": "Sogn Næring skal få ting til å skje i Sogn: hjelpe bedrifter og gründerar, styrkje tilbodet i regionen og gjere Sogn attraktivt for nye bedrifter, arbeidstakarar og tilbod. Radaren følgjer med på det som påverkar arbeidet vårt og næringslivet i Sogndal, Luster, Lærdal, Årdal, Aurland og Vik.",
-  "fokus": [
-   "Store næringssaker i indre Sogn: etableringar, investeringar, nedleggingar og arbeidsplassar – særleg Hydro Årdal, kraftselskapa og datasenterplanar.",
-   "Rammevilkår: statsbudsjett, Innovasjon Noreg, Siva, Forskingsrådet, fylkeskommunen, rente og kraftpris.",
-   "Samferdsel som rører ved næringslivet: Lærdalstunnelen, E16, rv. 5, rv. 13, rv. 52, ferjer og flyruter.",
-   "Reiseliv, kultur og arrangement: Flåm og verdsarvfjordane, festivalar, møteplassar, film- og TV-produksjon.",
-   "Mat og drikke: sider, frukt og bær, lokalmat og matprodusentar.",
-   "Kompetanse, rekruttering, folketal og attraktivitet, inkludert sjukehus, utdanning og bustad.",
-   "Natur og fjord: marint vern av Sognefjorden, arealplanar og grøn omstilling.",
-   "Sogn Næring, prosjekta våre og eigarane våre i media.",
-   "Forsking og analysar om distrikt og næringsutvikling."
-  ],
-  "prosjekt": [],
-  "kjelder": [
-   "Porten",
-   "Sogn Avis (berre overskrifter, sidan sakene er bak betalingsmur)",
-   "NRK Vestland",
-   "Bergens Tidende",
-   "Kommunane i indre Sogn",
-   "Vestland fylkeskommune",
-   "Statsforvaltaren i Vestland",
-   "Statens vegvesen",
-   "Regjeringa og Stortinget",
-   "Norges Bank, SSB og NAV",
-   "Innovasjon Noreg, Siva og Forskingsrådet",
-   "Kunnskapsparken Vestland",
-   "Vestlandsforsking og HVL",
-   "Hydro, Sognekraft og andre store verksemder",
-   "E24, TU, DN og Nationen"
-  ],
-  "laert": [],
-  "unnga": [
-   "Ulukker, krim og rettssaker utan næringsvinkel",
-   "Idrettsresultat og underhaldning",
-   "Rutinemeldingar om vegarbeid som ikkje rører ved næringslivet"
-  ]
- },
- "tips_skjema": null,
- "arkiv": []
+  "status": {
+    "sist_oppdatert": "2026-10-27T08:14:48Z",
+    "siste_utgave": "2026-10-27",
+    "neste": "onsdag 28. oktober kl. 07",
+    "tal_saker": 32,
+    "merknad": ""
+  },
+  "profil": {
+    "om": "Sogn Næring skal få ting til å skje i Sogn: hjelpe bedrifter og gründerar, styrkje tilbodet i regionen og gjere Sogn attraktivt for nye bedrifter, arbeidstakarar og tilbod. Radaren følgjer med på det som påverkar arbeidet vårt og næringslivet i Sogndal, Luster, Lærdal, Årdal, Aurland og Vik.",
+    "fokus": [
+      "Store næringssaker i indre Sogn: etableringar, investeringar, nedleggingar og arbeidsplassar – særleg Hydro Årdal, kraftselskapa og datasenterplanar.",
+      "Rammevilkår: statsbudsjett, Innovasjon Noreg, Siva, Forskingsrådet, fylkeskommunen, rente og kraftpris.",
+      "Samferdsel som rører ved næringslivet: Lærdalstunnelen, E16, rv. 5, rv. 13, rv. 52, ferjer og flyruter.",
+      "Reiseliv, kultur og arrangement: Flåm og verdsarvfjordane, festivalar, møteplassar, film- og TV-produksjon.",
+      "Mat og drikke: sider, frukt og bær, lokalmat og matprodusentar.",
+      "Kompetanse, rekruttering, folketal og attraktivitet, inkludert sjukehus, utdanning og bustad.",
+      "Natur og fjord: marint vern av Sognefjorden, arealplanar og grøn omstilling.",
+      "Sogn Næring, prosjekta våre og eigarane våre i media.",
+      "Forsking og analysar om distrikt og næringsutvikling."
+    ],
+    "prosjekt": [],
+    "kjelder": [
+      "Porten",
+      "Sogn Avis (berre overskrifter, sidan sakene er bak betalingsmur)",
+      "NRK Vestland",
+      "Bergens Tidende",
+      "Kommunane i indre Sogn",
+      "Vestland fylkeskommune",
+      "Statsforvaltaren i Vestland",
+      "Statens vegvesen",
+      "Regjeringa og Stortinget",
+      "Norges Bank, SSB og NAV",
+      "Innovasjon Noreg, Siva og Forskingsrådet",
+      "Kunnskapsparken Vestland",
+      "Vestlandsforsking og HVL",
+      "Hydro, Sognekraft og andre store verksemder",
+      "E24, TU, DN og Nationen"
+    ],
+    "laert": [],
+    "unnga": [
+      "Ulukker, krim og rettssaker utan næringsvinkel",
+      "Idrettsresultat og underhaldning",
+      "Rutinemeldingar om vegarbeid som ikkje rører ved næringslivet"
+    ]
+  },
+  "tips_skjema": null,
+  "arkiv": []
 }

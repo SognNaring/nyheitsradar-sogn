@@ -1,33 +1,62 @@
 {
- "utgaver": [
-  {
-   "dato": "2026-10-23",
-   "nr": 1,
-   "merknad": "Første utgåve. Her er saker frå dei siste vekene som er verdt å kjenne til. Frå no av kjem nye saker kvar vekedag før kl. 07.",
-   "viktigast": [
+  "utgaver": [
     {
-     "sak": "2026-10-23-marint-vern-hoyring",
-     "tekst": "Høyringsfristen for marint vern av Sognefjorden er 1. november – siste sjanse for innspel frå næringslivet."
+      "dato": "2026-10-23",
+      "nr": 1,
+      "merknad": "Første utgåve. Her er saker frå dei siste vekene som er verdt å kjenne til. Frå no av kjem nye saker kvar vekedag før kl. 07.",
+      "viktigast": [
+        {
+          "sak": "2026-10-23-marint-vern-hoyring",
+          "tekst": "Høyringsfristen for marint vern av Sognefjorden er 1. november – siste sjanse for innspel frå næringslivet."
+        },
+        {
+          "sak": "2026-10-23-laerdalstunnelen-oppstart",
+          "tekst": "Lærdalstunnelen blir nattestengd frå 16. november i to år, og næringslivet ber om andre stengetider."
+        },
+        {
+          "sak": "2026-10-23-datasenter-gaupne",
+          "tekst": "Datasenterplanane i Gaupne fylte salen på folkemøte – mange spørsmål står att."
+        },
+        {
+          "sak": "2026-10-23-statsbudsjett-verkemiddel",
+          "tekst": "Statsbudsjettet kuttar om lag 300 mill. kr i verkemiddelapparatet, og miljøteknologiordninga forsvinn."
+        },
+        {
+          "sak": "2026-10-23-hydro-q3",
+          "tekst": "Hydro melder rekordproduksjon ved dei norske metallverka i 3. kvartal."
+        }
+      ],
+      "tal_nye": 31,
+      "laga": "2026-10-23T21:30:00Z"
     },
     {
-     "sak": "2026-10-23-laerdalstunnelen-oppstart",
-     "tekst": "Lærdalstunnelen blir nattestengd frå 16. november i to år, og næringslivet ber om andre stengetider."
-    },
-    {
-     "sak": "2026-10-23-datasenter-gaupne",
-     "tekst": "Datasenterplanane i Gaupne fylte salen på folkemøte – mange spørsmål står att."
-    },
-    {
-     "sak": "2026-10-23-statsbudsjett-verkemiddel",
-     "tekst": "Statsbudsjettet kuttar om lag 300 mill. kr i verkemiddelapparatet, og miljøteknologiordninga forsvinn."
-    },
-    {
-     "sak": "2026-10-23-hydro-q3",
-     "tekst": "Hydro melder rekordproduksjon ved dei norske metallverka i 3. kvartal."
+      "dato": "2026-10-27",
+      "nr": 2,
+      "merknad": "Tynt med nye saker; fleire kjelder let seg ikkje opne i dag.",
+      "viktigast": [
+        {
+          "sak": "2026-10-23-hodlekve-mote",
+          "tekst": "Ope møte om Hodlekve i morgon, 28. oktober."
+        },
+        {
+          "sak": "2026-10-23-marint-vern-hoyring",
+          "tekst": "Høyringsfristen for marint vern av Sognefjorden er 1. november."
+        },
+        {
+          "sak": "2026-10-23-norges-bank-rente",
+          "tekst": "Rentemøte i Norges Bank 5. november."
+        },
+        {
+          "sak": "2026-10-23-laerdalstunnelen-oppstart",
+          "tekst": "Nattestenging av Lærdalstunnelen startar 16. november."
+        },
+        {
+          "sak": "2026-10-27-kraftlinje-420kv-debatt",
+          "tekst": "Debatt om ny 420 kV-line til Årdal og kraftpolitikken i regionen."
+        }
+      ],
+      "tal_nye": 1,
+      "laga": "2026-10-27T08:14:48Z"
     }
-   ],
-   "tal_nye": 31,
-   "laga": "2026-10-23T21:30:00Z"
-  }
- ]
+  ]
 }
