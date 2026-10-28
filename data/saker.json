@@ -1,6 +1,121 @@
 {
   "saker": [
     {
+      "id": "2026-10-28-ardal-ordforar-marint-vern",
+      "tittel": "Årdal-ordførar vil ha lokal styring dersom Sognefjorden blir verna",
+      "samandrag": "Ordførar Christian Sønstlien (Ap) i Årdal vil ha eit alternativ til marint vern av Sognefjorden. Blir vern innført likevel, krev han lokal styring i staden for avgjerder frå Oslo. Saka ligg bak betalingsmur; samandraget byggjer på ingress og biletetekst.",
+      "kvifor": "Vernet kan påverke fiskeri, havbruk, reiseliv og hamner, og høyringsfristen går ut 1. november.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/gdlngB/vil-ikkje-la-oslo-bestemme-det-verste-som-kan-skje",
+      "publisert": null,
+      "utgave": "2026-10-28",
+      "lagt_til": "2026-10-28T05:44:18Z",
+      "tema": [
+        "Politikk og rammevilkår",
+        "Natur, klima og fjord"
+      ],
+      "omrade": [
+        "Årdal",
+        "Sogn"
+      ],
+      "type": "Politikk og vedtak",
+      "prioritet": 2,
+      "betalingsmur": true,
+      "grunnlag": "ingress",
+      "nemner_sn": false,
+      "frist": "2026-11-01",
+      "frist_tekst": "Høyringsfrist marint vern",
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": "https://vcdn.polarismedia.no/0902636a-1962-30fb-95d1-787c95558cf7?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Lasse Styve Andersen / Porten"
+    },
+    {
+      "id": "2026-10-28-ardal-badstover",
+      "tittel": "Planar om to badstover i Årdal",
+      "samandrag": "Porten melder at det er planar om å få på plass to badstover i Årdal. Saka ligg bak betalingsmur og vi har berre lese overskrifta.",
+      "kvifor": "Nye tilbod for innbyggjarar og turistar kan styrkje Årdal som reisemål.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/mKn2vq/vil-faa-paa-plass-to-badstover-i-aardal-eg-trur-det-kan-bli-kjempebra",
+      "publisert": null,
+      "utgave": "2026-10-28",
+      "lagt_til": "2026-10-28T05:44:18Z",
+      "tema": [
+        "Reiseliv",
+        "Gründer og innovasjon"
+      ],
+      "omrade": [
+        "Årdal"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "betalingsmur": true,
+      "grunnlag": "tittel",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": null,
+      "bilete_kreditering": null
+    },
+    {
+      "id": "2026-10-28-bunnpris-ardal-oppussing",
+      "tittel": "Bunnpris i Årdal pussar opp for 8 millionar",
+      "samandrag": "Porten melder at Bunnpris i Årdal blir pussa opp for 8 millionar kroner, og at butikken held ope under ombygginga. Saka ligg bak betalingsmur; samandraget byggjer på overskrift og biletetekst.",
+      "kvifor": "Investering i lokal handel er eit teikn på tru på næringsgrunnlaget i Årdal.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/R5n56J/pussar-opp-for-8-millionar-alt-blir-nytt-fraa-golv-til-tak",
+      "publisert": null,
+      "utgave": "2026-10-28",
+      "lagt_til": "2026-10-28T05:44:18Z",
+      "tema": [
+        "Næringsliv og industri"
+      ],
+      "omrade": [
+        "Årdal"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "betalingsmur": true,
+      "grunnlag": "ingress",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": "https://vcdn.polarismedia.no/7c901068-2a50-3b6f-8fc8-0d248467ac95?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Sara Lie Hegre / Porten"
+    },
+    {
+      "id": "2026-10-28-laerdal-kommunestyre-29-okt",
+      "tittel": "Kommunestyremøte i Lærdal 29. oktober",
+      "samandrag": "Lærdal kommunestyre møtest torsdag 29. oktober kl. 09. Sakliste og dokument ligg på kommunen sine sider.",
+      "kvifor": "Her kan det kome vedtak som gjeld næringsliv og kommunal økonomi i Lærdal.",
+      "kjelde": "Lærdal kommune",
+      "url": "https://laerdal.kommune.no/aktuelt/kommunestyremote-torsdag-29-oktober-2026.6021.aspx",
+      "publisert": "2026-10-27",
+      "utgave": "2026-10-28",
+      "lagt_til": "2026-10-28T05:44:18Z",
+      "tema": [
+        "Politikk og rammevilkår"
+      ],
+      "omrade": [
+        "Lærdal"
+      ],
+      "type": "Arrangement",
+      "prioritet": 3,
+      "betalingsmur": false,
+      "grunnlag": "heil sak",
+      "nemner_sn": false,
+      "frist": "2026-10-29",
+      "frist_tekst": "Kommunestyremøte kl. 09",
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": null,
+      "bilete_kreditering": null
+    },
+    {
       "id": "2026-10-27-vik-naeringstilskot",
       "tittel": "Vik kommune opnar andre søknadsrunde for næringstilskot 2026",
       "samandrag": "Vik kommune handsamar søknader om næringstilskot to gonger i året. Andre frist for 2026 er 15. november. Dei som har søkt før treng ikkje søkje på nytt, og reviderte retningslinjer er lagde ut.",

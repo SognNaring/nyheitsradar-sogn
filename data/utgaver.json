@@ -57,6 +57,35 @@
       ],
       "tal_nye": 7,
       "laga": "2026-10-27T08:28:50Z"
+    },
+    {
+      "dato": "2026-10-28",
+      "nr": 3,
+      "merknad": "Rolig dag med få nye saker; Sogn Avis og NRK hadde ingen nye saker med høgare id enn førre utgåve.",
+      "viktigast": [
+        {
+          "sak": "2026-10-23-hodlekve-mote",
+          "tekst": "Ope møte om Hodlekve i dag, 28. oktober."
+        },
+        {
+          "sak": "2026-10-28-ardal-ordforar-marint-vern",
+          "tekst": "Årdal-ordføraren vil ha lokal styring over eit mogleg vern av Sognefjorden."
+        },
+        {
+          "sak": "2026-10-23-marint-vern-hoyring",
+          "tekst": "Høyringsfrist for marint vern er 1. november."
+        },
+        {
+          "sak": "2026-10-27-vik-naeringstilskot",
+          "tekst": "Frist 15. november for næringstilskot i Vik."
+        },
+        {
+          "sak": "2026-10-23-laerdalstunnelen-oppstart",
+          "tekst": "Lærdalstunnelen stenger frå 16. november."
+        }
+      ],
+      "tal_nye": 4,
+      "laga": "2026-10-28T05:44:18Z"
     }
   ]
 }
