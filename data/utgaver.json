@@ -86,6 +86,35 @@
       ],
       "tal_nye": 4,
       "laga": "2026-10-28T05:44:18Z"
+    },
+    {
+      "dato": "2026-10-29",
+      "nr": 4,
+      "merknad": "Rolig dag; mykje av stoffet var alt med i førre utgåve. Aurland kommune og Sogn Avis gav lite nytt.",
+      "viktigast": [
+        {
+          "sak": "2026-10-23-marint-vern-hoyring",
+          "tekst": "Høyringsfrist for marint vern av Sognefjorden er 1. november."
+        },
+        {
+          "sak": "2026-10-23-laerdalstunnelen-oppstart",
+          "tekst": "Lærdalstunnelen stenger kvar natt frå 16. november."
+        },
+        {
+          "sak": "2026-10-23-norges-bank-rente",
+          "tekst": "Neste rentemøte er 5. november; styringsrenta er 4,5 prosent."
+        },
+        {
+          "sak": "2026-10-27-vik-naeringstilskot",
+          "tekst": "Frist 15. november for næringstilskot i Vik."
+        },
+        {
+          "sak": "2026-10-29-gravdalen-kraftverk-forseinka",
+          "tekst": "Gravdalen kraftverk i Lærdal er om lag ni månader forseinka."
+        }
+      ],
+      "tal_nye": 3,
+      "laga": "2026-10-29T05:44:18Z"
     }
   ]
 }

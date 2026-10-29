@@ -1,6 +1,93 @@
 {
   "saker": [
     {
+      "id": "2026-10-29-gravdalen-kraftverk-forseinka",
+      "utgave": "2026-10-29",
+      "lagt_til": "2026-10-29T05:44:18Z",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": "",
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": "https://vcdn.polarismedia.no/465cec33-490f-3152-8537-03c71cb4c164?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Østfold Energi / Porten",
+      "tittel": "Gravdalen kraftverk i Lærdal er om lag ni månader forseinka",
+      "samandrag": "Kraftverkprosjektet i Gravdalen i Lærdal, omtalt som eit prosjekt til 500 millionar, ligg om lag ni månader etter planen. Vanskelege fjellforhold og krevjande vêr har gjort arbeidet seinare enn venta.",
+      "kvifor": "Forseinkinga rører ved kraftutbygging og anleggsaktivitet i Lærdal, som er viktig for leverandørar og lokal verdiskaping.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/X9XqpW/kraftverk-til-500-millionar-vert-forseinka",
+      "publisert": null,
+      "tema": [
+        "Energi og kraft",
+        "Næringsliv og industri"
+      ],
+      "omrade": [
+        "Lærdal"
+      ],
+      "type": "Nyheit",
+      "prioritet": 2,
+      "betalingsmur": true,
+      "grunnlag": "ingress"
+    },
+    {
+      "id": "2026-10-29-lufthamnssjef-sogndal",
+      "utgave": "2026-10-29",
+      "lagt_til": "2026-10-29T05:44:18Z",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": "",
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": null,
+      "bilete_kreditering": null,
+      "tittel": "Lufthamnssjefen i Sogndal gir seg og går til Førde (berre overskrift)",
+      "samandrag": "Sogn Avis melder i overskrifta at lufthamnssjefen i Sogndal gir seg. Berre overskrifta er lese.",
+      "kvifor": "Flytilbodet frå Haukåsen er viktig for næringslivet i indre Sogn, og leiarskifte kjem midt i debatten om framtidig rutetilbod.",
+      "kjelde": "Sogn Avis",
+      "url": "https://www.sognavis.no/gir-seg-som-lufthamnsjef/s/5-115-1462677",
+      "publisert": null,
+      "tema": [
+        "Samferdsel og infrastruktur"
+      ],
+      "omrade": [
+        "Sogndal"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "betalingsmur": true,
+      "grunnlag": "tittel"
+    },
+    {
+      "id": "2026-10-29-aurlandsfjellet-stengt-6-nov",
+      "utgave": "2026-10-29",
+      "lagt_til": "2026-10-29T05:44:18Z",
+      "nemner_sn": false,
+      "frist": "2026-11-06",
+      "frist_tekst": "Vegen opnar att etter 6. november",
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": null,
+      "bilete_kreditering": null,
+      "tittel": "Aurlandsfjellet stengt ved fjellgrøvene til 6. november",
+      "samandrag": "Fylkesveg 5627 over Aurlandsfjellet er stengd ved fjellgrøvene mellom Sluppen og Vardahaug frå 28. oktober til og med 6. november grunna vegarbeid. Fylkeskommunen vil òg stengje porten ved Grindaheim for vanleg trafikk frå 1. november.",
+      "kvifor": "Stenginga rører ved Nasjonal turistveg mellom Aurland og Lærdal, men sesongen er alt over for reiselivet.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/8G4ymE/varslar-om-stengt-veg",
+      "publisert": "2026-10-28",
+      "tema": [
+        "Samferdsel og infrastruktur",
+        "Reiseliv"
+      ],
+      "omrade": [
+        "Aurland",
+        "Lærdal"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "betalingsmur": false,
+      "grunnlag": "heil sak"
+    },
+    {
       "id": "2026-10-28-ardal-ordforar-marint-vern",
       "tittel": "Årdal-ordførar vil ha lokal styring dersom Sognefjorden blir verna",
       "samandrag": "Ordførar Christian Sønstlien (Ap) i Årdal vil ha eit alternativ til marint vern av Sognefjorden. Blir vern innført likevel, krev han lokal styring i staden for avgjerder frå Oslo. Saka ligg bak betalingsmur; samandraget byggjer på ingress og biletetekst.",
