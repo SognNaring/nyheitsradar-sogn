@@ -1,6 +1,70 @@
 {
   "saker": [
     {
+      "id": "2026-10-30-fylkesutvalet-nei-marint-vern",
+      "tittel": "Fylkesutvalet rår frå marint vern av Sognefjorden",
+      "samandrag": "Eit fleirtal i fylkesutvalet i Vestland gjekk 22. oktober imot å verne Sognefjorden. Dei grunngav det med lokalt sjølvstyre og vil ha ei utfyllande samfunns- og næringsanalyse samt ein tiltaksplan etter modell frå Oslofjorden. Høyringsfristen er 1. november, deretter går saka til Statsforvaltaren.",
+      "kvifor": "Eit vern kunne avgrense industri, oppdrett og utvikling langs fjorden, så fylkets signal er viktig for næringslivet i fleire Sogn-kommunar.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/d7VvwO/fylket-seier-tydeleg-nei-til-vern-av-sognefjorden",
+      "publisert": "2026-10-29",
+      "tema": [
+        "Natur, klima og fjord",
+        "Politikk og rammevilkår"
+      ],
+      "omrade": [
+        "Sogn",
+        "Vestland"
+      ],
+      "type": "Politikk og vedtak",
+      "prioritet": 1,
+      "betalingsmur": true,
+      "grunnlag": "ingress",
+      "nemner_sn": false,
+      "frist": "2026-11-01",
+      "frist_tekst": "Høyringsfrist marint vern",
+      "relaterte": [
+        {
+          "kjelde": "Porten",
+          "url": "https://www.porten.no/nyheiter/n/gdlngB/vil-ikkje-la-oslo-bestemme-det-verste-som-kan-skje"
+        }
+      ],
+      "bilete": "https://vcdn.polarismedia.no/6c12acc1-522b-3e5f-8d29-ef046639b12e?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Lasse Styve Andersen / Porten",
+      "utgave": "2026-10-30",
+      "lagt_til": "2026-10-30T05:44:29Z",
+      "fra_tips": false
+    },
+    {
+      "id": "2026-10-30-besoksbidrag-vagan",
+      "tittel": "Vågan først ute med godkjend plan for besøksbidrag",
+      "samandrag": "Regjeringa melder 28. oktober at Vågan i Lofoten er mellom dei første kommunane som får godkjend plan for besøksbidrag og kan innføre avgift frå 2027. Lova om besøksbidrag tok til å gjelde 1. juli 2026.",
+      "kvifor": "Reiselivskommunar som Aurland kan på sikt vurdere same ordning for å dekkje kostnader ved turisttrykk.",
+      "kjelde": "Regjeringa",
+      "url": "https://www.regjeringen.no/no/aktuelt/ny-side3/id3184413/",
+      "publisert": "2026-10-28",
+      "tema": [
+        "Reiseliv",
+        "Politikk og rammevilkår"
+      ],
+      "omrade": [
+        "Nasjonalt"
+      ],
+      "type": "Politikk og vedtak",
+      "prioritet": 3,
+      "betalingsmur": false,
+      "grunnlag": "tittel",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": "",
+      "relaterte": [],
+      "bilete": null,
+      "bilete_kreditering": "",
+      "utgave": "2026-10-30",
+      "lagt_til": "2026-10-30T05:44:29Z",
+      "fra_tips": false
+    },
+    {
       "id": "2026-10-29-gravdalen-kraftverk-forseinka",
       "utgave": "2026-10-29",
       "lagt_til": "2026-10-29T05:44:18Z",

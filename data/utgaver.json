@@ -115,6 +115,35 @@
       ],
       "tal_nye": 3,
       "laga": "2026-10-29T05:44:18Z"
+    },
+    {
+      "dato": "2026-10-30",
+      "nr": 5,
+      "merknad": "Rolig dag; Sogn Avis og NRK gav ingen nye saker over løpenummergrensa.",
+      "viktigast": [
+        {
+          "sak": "2026-10-30-fylkesutvalet-nei-marint-vern",
+          "tekst": "Fylkesutvalet seier nei til marint vern; høyringsfrist 1. november."
+        },
+        {
+          "sak": "2026-10-23-laerdalstunnelen-oppstart",
+          "tekst": "Lærdalstunnelen stenger kvar natt frå 16. november."
+        },
+        {
+          "sak": "2026-10-23-norges-bank-rente",
+          "tekst": "Neste rentemøte er 5. november."
+        },
+        {
+          "sak": "2026-10-27-vik-naeringstilskot",
+          "tekst": "Frist 15. november for næringstilskot i Vik."
+        },
+        {
+          "sak": "2026-10-23-nyskapingsfondet",
+          "tekst": "Nyskapingsfondet: søknadsfrist 22. november."
+        }
+      ],
+      "tal_nye": 2,
+      "laga": "2026-10-30T05:44:29Z"
     }
   ]
 }
