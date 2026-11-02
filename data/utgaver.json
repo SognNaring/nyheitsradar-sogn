@@ -144,6 +144,35 @@
       ],
       "tal_nye": 2,
       "laga": "2026-10-30T05:44:29Z"
+    },
+    {
+      "dato": "2026-11-02",
+      "nr": 6,
+      "merknad": "Måndagsutgåva dekkjer helga; Sogn Avis og NRK gav ingen nye saker over løpenummergrensa.",
+      "viktigast": [
+        {
+          "sak": "2026-10-23-norges-bank-rente",
+          "tekst": "Rentemøte torsdag 5. november kl. 10."
+        },
+        {
+          "sak": "2026-11-02-gaupne-datapark-forklart",
+          "tekst": "Gaupne Datapark: oversyn over datasenterplanane i Luster."
+        },
+        {
+          "sak": "2026-11-02-alle-parti-stopp-datasenter",
+          "tekst": "Stortinget vil bremse datasentera, regjeringa nølar."
+        },
+        {
+          "sak": "2026-10-23-laerdalstunnelen-oppstart",
+          "tekst": "Lærdalstunnelen stenger kvar natt frå 16. november."
+        },
+        {
+          "sak": "2026-10-27-vik-naeringstilskot",
+          "tekst": "Frist 15. november for næringstilskot i Vik."
+        }
+      ],
+      "tal_nye": 5,
+      "laga": "2026-11-02T05:43:31Z"
     }
   ]
 }

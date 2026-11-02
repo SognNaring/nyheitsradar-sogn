@@ -1,6 +1,150 @@
 {
   "saker": [
     {
+      "id": "2026-11-02-gaupne-datapark-forklart",
+      "tittel": "Oversyn over Gaupne Datapark-planane",
+      "samandrag": "Sogn Utvikling vil etablere eit datasenter på Gaupnegrandane i Luster. Porten har laga ei forklaringssak om prosjektet, med bilete frå folkemøtet på Gaupne skule.",
+      "kvifor": "Datasenterplanane i Luster gjeld kraftbruk, arbeidsplassar og kommuneinntekter, og er ei av dei største næringssakene i Sogn no.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/i/R5nvm2/dette-maa-du-vita-om-gaupne-datapark",
+      "publisert": null,
+      "tema": [
+        "Næringsliv og industri",
+        "Energi og kraft"
+      ],
+      "omrade": [
+        "Luster"
+      ],
+      "type": "Nyheit",
+      "prioritet": 2,
+      "betalingsmur": true,
+      "grunnlag": "ingress",
+      "nemner_sn": false,
+      "frist": null,
+      "relaterte": [],
+      "bilete": "https://vcdn.polarismedia.no/376b4a43-8f57-3576-869d-111ddb1df6c7?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Lasse Styve Andersen / Porten",
+      "utgave": "2026-11-02",
+      "lagt_til": "2026-11-02T05:43:31Z",
+      "fra_tips": false,
+      "frist_tekst": null
+    },
+    {
+      "id": "2026-11-02-datasenter-kontroll-luster",
+      "tittel": "Luster vil ha reell kontroll over datasenter-sak",
+      "samandrag": "Porten melder at kommunen tek grep i datasaka etter folkemøtet om Gaupne Datapark; ordføraren sa at det må vere reell kontroll. Resten av saka ligg bak betalingsmur.",
+      "kvifor": "Korleis Luster styrer datasenteretableringar avgjer kva dei kan bety for næringslivet og kraftbruken.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/ylqWxE/tek-grep-i-datasenter-sak-maa-ha-reell-kontroll",
+      "publisert": null,
+      "tema": [
+        "Politikk og rammevilkår",
+        "Næringsliv og industri"
+      ],
+      "omrade": [
+        "Luster"
+      ],
+      "type": "Politikk og vedtak",
+      "prioritet": 3,
+      "betalingsmur": true,
+      "grunnlag": "tittel",
+      "nemner_sn": false,
+      "frist": null,
+      "relaterte": [],
+      "bilete": "https://vcdn.polarismedia.no/cabfcd94-3a14-3c47-a4ce-7cad9e584057?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Lasse Styve Andersen / Porten",
+      "utgave": "2026-11-02",
+      "lagt_til": "2026-11-02T05:43:31Z",
+      "fra_tips": false,
+      "frist_tekst": null
+    },
+    {
+      "id": "2026-11-02-alle-parti-stopp-datasenter",
+      "tittel": "Partia vil stoppe datasentera, men regjeringa nølar",
+      "samandrag": "Ifølgje Porten press frå Stortinget om å bremse nye datasenter, medan regjeringa med Støre ikkje har gått med på det.",
+      "kvifor": "Nasjonal politikk om datasenter kan avgjere om planane i Luster og Årdal blir verande realistiske.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/GrVVMl/alle-parti-vil-stoppe-datasentera-regjeringa-noeler",
+      "publisert": null,
+      "tema": [
+        "Politikk og rammevilkår",
+        "Energi og kraft"
+      ],
+      "omrade": [
+        "Nasjonalt",
+        "Sogn"
+      ],
+      "type": "Politikk og vedtak",
+      "prioritet": 2,
+      "betalingsmur": true,
+      "grunnlag": "ingress",
+      "nemner_sn": false,
+      "frist": null,
+      "relaterte": [],
+      "bilete": "https://vcdn.polarismedia.no/a5de5924-1f55-3187-8246-110edde8984d?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Lasse Styve Andersen / Porten",
+      "utgave": "2026-11-02",
+      "lagt_til": "2026-11-02T05:43:31Z",
+      "fra_tips": false,
+      "frist_tekst": null
+    },
+    {
+      "id": "2026-11-02-vegvesenet-nye-analysar",
+      "tittel": "Kritikk: Vegvesenet har endra regimet, krev nye analysar",
+      "samandrag": "Porten har ei sak der Vegvesenet blir skulda for å ha endra regimet, slik at det må gjerast nye analysar. Innhaldet er bak betalingsmur, så detaljar manglar.",
+      "kvifor": "Vegprosjekt påverkar transport og tilgang for næringslivet i Sogn.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/n9q58a/meiner-vegvesenet-har-endra-regimet-maa-gjera-nye-analysar",
+      "publisert": null,
+      "tema": [
+        "Samferdsel og infrastruktur"
+      ],
+      "omrade": [
+        "Sogn"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "betalingsmur": true,
+      "grunnlag": "tittel",
+      "nemner_sn": false,
+      "frist": null,
+      "relaterte": [],
+      "bilete": "https://vcdn.polarismedia.no/fd0f3c98-ca87-3c5f-b11c-7d80c3b7cf31?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Karoline Guldbæk / Porten",
+      "utgave": "2026-11-02",
+      "lagt_til": "2026-11-02T05:43:31Z",
+      "fra_tips": false,
+      "frist_tekst": null
+    },
+    {
+      "id": "2026-11-02-sognefjellet-stengt",
+      "tittel": "Sognefjellet stengt på grunn av uver",
+      "samandrag": "Porten melder at Sognefjellet er stengt grunna uvêr.",
+      "kvifor": "Stengde fjellovergangar råkar frakt og turisttrafikk mellom Sogn og Austlandet.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/d7AJ8B/sognefjellet-er-stengt-grunna-uver",
+      "publisert": null,
+      "tema": [
+        "Samferdsel og infrastruktur"
+      ],
+      "omrade": [
+        "Luster"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "betalingsmur": true,
+      "grunnlag": "tittel",
+      "nemner_sn": false,
+      "frist": null,
+      "relaterte": [],
+      "bilete": null,
+      "bilete_kreditering": null,
+      "utgave": "2026-11-02",
+      "lagt_til": "2026-11-02T05:43:31Z",
+      "fra_tips": false,
+      "frist_tekst": null
+    },
+    {
       "id": "2026-10-30-fylkesutvalet-nei-marint-vern",
       "tittel": "Fylkesutvalet rår frå marint vern av Sognefjorden",
       "samandrag": "Eit fleirtal i fylkesutvalet i Vestland gjekk 22. oktober imot å verne Sognefjorden. Dei grunngav det med lokalt sjølvstyre og vil ha ei utfyllande samfunns- og næringsanalyse samt ein tiltaksplan etter modell frå Oslofjorden. Høyringsfristen er 1. november, deretter går saka til Statsforvaltaren.",
