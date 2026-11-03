@@ -1,6 +1,152 @@
 {
   "saker": [
     {
+      "id": "2026-11-03-menon-datasenter-rapport",
+      "tittel": "Ny Menon-rapport: datasenter kan bruke 17–37 TWh i 2035",
+      "samandrag": "Ei rapport frå Menon Economics for departementet om økonomiske sider ved datasenternæringa viser at straumforbruket kan stige til 17–37 TWh i 2035. Nettkapasitet kan setje grenser for veksten dei næraste åra.",
+      "kvifor": "Gir bakgrunn for debatten om Gaupne Datapark og kraftbruk i Luster.",
+      "kjelde": "Regjeringa",
+      "url": "https://www.regjeringen.no/no/aktuelt/ny-rapport-okonomiske-sider-ved-datasentersenternaringen/id3186921/",
+      "publisert": null,
+      "utgave": "2026-11-03",
+      "lagt_til": "2026-11-03T05:44:31Z",
+      "tema": [
+        "Energi og kraft",
+        "Politikk og rammevilkår"
+      ],
+      "omrade": [
+        "Nasjonalt",
+        "Luster"
+      ],
+      "type": "Rapport og analyse",
+      "prioritet": 1,
+      "betalingsmur": false,
+      "grunnlag": "ingress",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": null,
+      "bilete_kreditering": null
+    },
+    {
+      "id": "2026-11-03-helseutval-sjukehusa",
+      "tittel": "Helseutval vil leggje ned helseregionane og la staten styre sjukehusa",
+      "samandrag": "Eit utval leia av Gunnar Bovim har levert tilrådingar til helseministeren om å fjerne dei regionale helseføretaka og gi staten direkte ansvar for sjukehusa.",
+      "kvifor": "Kan påverke framtida til Lærdal sjukehus og helsetilbodet i Sogn.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/oK5r2R/helseutval-vil-bli-kvitt-helseregionane-staten-faar-ansvar-for-sjukehusa",
+      "publisert": null,
+      "utgave": "2026-11-03",
+      "lagt_til": "2026-11-03T05:44:31Z",
+      "tema": [
+        "Politikk og rammevilkår",
+        "Kompetanse og arbeidsliv"
+      ],
+      "omrade": [
+        "Nasjonalt",
+        "Lærdal"
+      ],
+      "type": "Politikk og vedtak",
+      "prioritet": 2,
+      "betalingsmur": true,
+      "grunnlag": "ingress",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": "https://vcdn.polarismedia.no/b75d7e03-2710-35d9-8e55-6f5a2a2ddda2?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Stian Lysberg Solum / NTB / Porten"
+    },
+    {
+      "id": "2026-11-03-tyin-naeringsdrivande",
+      "tittel": "Næringsdrivande på Tyin slår alarm i møte med Frp-politikar",
+      "samandrag": "Dagleg leiar i Intersport Filefjell og Joker Tyinkrysset møtte stortingsrepresentant Lars Rem (Frp) og varsla at området har mista nok. Saka er bak betalingsmur, så detaljane er ikkje lesne.",
+      "kvifor": "Viser bekymring for næringsgrunnlaget langs fjellovergangen mellom Sogn og Austlandet.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/n9qlGB/slaar-alarm-om-tyin-me-har-mista-nok",
+      "publisert": null,
+      "utgave": "2026-11-03",
+      "lagt_til": "2026-11-03T05:44:31Z",
+      "tema": [
+        "Næringsliv og industri",
+        "Samferdsel og infrastruktur"
+      ],
+      "omrade": [
+        "Årdal"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "betalingsmur": true,
+      "grunnlag": "ingress",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": "https://vcdn.polarismedia.no/f68765be-0855-38ac-b36d-7dfa9953f5b6?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Lasse Styve Andersen / Porten"
+    },
+    {
+      "id": "2026-11-03-jostedal-industrier-bygg",
+      "tittel": "Jostedal Industrier vil kjøpe bygg av Luster kommune",
+      "samandrag": "Jostedal Industrier AS ønskjer å kjøpe eit bygg som Luster kommune eig. Overskrifta omtalar saka som ei «frisk satsing».",
+      "kvifor": "Etablert industriverksemd i Luster som utvidar eller tek over lokale.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/WgMzo2/positive-til-sal-frisk-satsing",
+      "publisert": null,
+      "utgave": "2026-11-03",
+      "lagt_til": "2026-11-03T05:44:31Z",
+      "tema": [
+        "Næringsliv og industri"
+      ],
+      "omrade": [
+        "Luster"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "betalingsmur": true,
+      "grunnlag": "ingress",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": "https://vcdn.polarismedia.no/eac7ec10-7d79-3ec2-9680-0b04f20c20b9?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Inger Helgestad / Porten"
+    },
+    {
+      "id": "2026-11-03-hydro-investor-day",
+      "tittel": "Hydro held Investor Day i London 25. november",
+      "samandrag": "Hydro har varsla at Investor Day blir halden i London 25. november 2026.",
+      "kvifor": "Gir signal om strategi og investeringar som kan røre ved Årdal.",
+      "kjelde": "Inderes / Hydro",
+      "url": "https://www.inderes.se/releases/norsk-hydro-save-the-date-investor-day-to-be-held-in-london-on-november-25-2026",
+      "publisert": "2026-06-09",
+      "utgave": "2026-11-03",
+      "lagt_til": "2026-11-03T05:44:31Z",
+      "tema": [
+        "Næringsliv og industri"
+      ],
+      "omrade": [
+        "Årdal",
+        "Internasjonalt"
+      ],
+      "type": "Arrangement",
+      "prioritet": 3,
+      "betalingsmur": false,
+      "grunnlag": "tittel",
+      "nemner_sn": false,
+      "frist": "2026-11-25",
+      "frist_tekst": "Hydro Investor Day",
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": null,
+      "bilete_kreditering": null
+    },
+    {
       "id": "2026-11-02-gaupne-datapark-forklart",
       "tittel": "Oversyn over Gaupne Datapark-planane",
       "samandrag": "Sogn Utvikling vil etablere eit datasenter på Gaupnegrandane i Luster. Porten har laga ei forklaringssak om prosjektet, med bilete frå folkemøtet på Gaupne skule.",
