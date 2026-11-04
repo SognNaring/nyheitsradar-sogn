@@ -1,6 +1,178 @@
 {
   "saker": [
     {
+      "id": "2026-11-04-hydro-800-mill",
+      "tittel": "Hydro Årdal har investeringsprosjekt for 800 millionar i kø",
+      "samandrag": "Fabrikksjef Anveig Halkjelsvik presenterte investeringsplanane ved Hydro Årdal på eit nesten fullbooka arrangement, saman med Per Gullaksen frå Hydro Energi Sogn. Overskrifta seier at prosjekt for 800 millionar kroner ligg i kø.",
+      "kvifor": "Store industriinvesteringar i Årdal gir oppdrag og trygge arbeidsplassar for leverandørar i heile Sogn.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/jvRAd9/hydro-har-investeringsprosjekt-for-800-millionar-kroner-i-koe",
+      "publisert": null,
+      "utgave": "2026-11-04",
+      "lagt_til": "2026-11-04T05:50:00Z",
+      "tema": [
+        "Næringsliv og industri",
+        "Energi og kraft"
+      ],
+      "omrade": [
+        "Årdal"
+      ],
+      "type": "Nyheit",
+      "prioritet": 2,
+      "betalingsmur": true,
+      "grunnlag": "ingress",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": "https://vcdn.polarismedia.no/7984377e-2589-3490-ad3b-0705ce715669?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Lasse Styve Andersen / Porten"
+    },
+    {
+      "id": "2026-11-04-utladalen-bilverkstad",
+      "tittel": "Armand (41) har bygd eigen bilverkstad i eit lager i Utladalen",
+      "samandrag": "Armand-Geo Pintilie har brukt månadar på å byggje om eit lager i Utladalen til eigen bilverkstad og har starta for seg sjølv. Overskrifta siterer at ingen trudde på han.",
+      "kvifor": "Døme på gründarskap i Luster som kan nyttast i arbeidet med å byggje gründarkultur.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/Qg10Mq/armand-41-har-starta-for-seg-sjoelv-ingen-trudde-paa-meg",
+      "publisert": null,
+      "utgave": "2026-11-04",
+      "lagt_til": "2026-11-04T05:50:00Z",
+      "tema": [
+        "Gründer og innovasjon"
+      ],
+      "omrade": [
+        "Luster"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "betalingsmur": true,
+      "grunnlag": "ingress",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": "https://vcdn.polarismedia.no/7d6d91a6-802e-38e9-a218-fad4431c28a9?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Karoline Guldbæk / Porten"
+    },
+    {
+      "id": "2026-11-04-sogn-kompetanse-undervising",
+      "tittel": "Sogn Kompetanse med undervisingsform som er første av sitt slag i Noreg",
+      "samandrag": "Dagleg leiar i Sogn Kompetanse vil tilby den nye undervisingsforma til andre utdanningsinstitusjonar i regionen. Berre overskrift og biletetekst er lesne; sjølve saka ligg bak betalingsmur.",
+      "kvifor": "Kompetansetilbod lokalt er viktig for rekruttering og kompetanse i næringslivet.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/0BR832/foerste-av-sitt-slag-i-noreg-kjempestas",
+      "publisert": null,
+      "utgave": "2026-11-04",
+      "lagt_til": "2026-11-04T05:50:00Z",
+      "tema": [
+        "Kompetanse og arbeidsliv"
+      ],
+      "omrade": [
+        "Sogn"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "betalingsmur": true,
+      "grunnlag": "tittel",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": "https://vcdn.polarismedia.no/23ff6400-62d8-329f-a9d6-474c373dd33e?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Sofie Moen / Porten"
+    },
+    {
+      "id": "2026-11-04-fjordavegen-stengt",
+      "tittel": "Fv. 5600 Fjordavegen ved Vik: stengt kvardagar til 13. november",
+      "samandrag": "Vegen mellom Vik, Framfjord og Arnafjord er stengd kvardagar 07–19 (fredag til 18), med kolonnekøyring ein gong i timen. Arbeidet på 285 meter vegstrekning skal vere ferdig 13. november.",
+      "kvifor": "Påverkar transport og tilgjenge for verksemder og pendlarar i Vik.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/p1qzRE/stengjer-delar-av-fjordavegen",
+      "publisert": "2026-11-02",
+      "utgave": "2026-11-04",
+      "lagt_til": "2026-11-04T05:50:00Z",
+      "tema": [
+        "Samferdsel og infrastruktur"
+      ],
+      "omrade": [
+        "Vik"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "betalingsmur": true,
+      "grunnlag": "ingress",
+      "nemner_sn": false,
+      "frist": "2026-11-13",
+      "frist_tekst": "Fjordavegen ferdig",
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": null,
+      "bilete_kreditering": null
+    },
+    {
+      "id": "2026-11-04-nav-julejobb-vestland",
+      "tittel": "NAV: 5 475 heilt ledige i Vestland, Aurland har høgast ledigheit",
+      "samandrag": "NAV Vestland tel 5 475 heilt ledige (1,6 %) mot 5 833 i fjor, og 4 095 utlyste stillingar. Aurland har fylkets høgaste ledigheit, 2,6 %. Arbeidsplassen.no har fått eit filter for julejobbar.",
+      "kvifor": "Gir oppdatert biletet av arbeidsmarknaden og tilgang på arbeidskraft i Sogn.",
+      "kjelde": "NAV Vestland",
+      "url": "https://www.nav.no/no/lokalt/vestland/pressemeldinger/julejobb-kan-gje-nye-mogelgheiter",
+      "publisert": "2026-10-30",
+      "utgave": "2026-11-04",
+      "lagt_til": "2026-11-04T05:50:00Z",
+      "tema": [
+        "Kompetanse og arbeidsliv"
+      ],
+      "omrade": [
+        "Aurland",
+        "Vestland"
+      ],
+      "type": "Statistikk",
+      "prioritet": 2,
+      "betalingsmur": false,
+      "grunnlag": "heil sak",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": null,
+      "bilete_kreditering": null
+    },
+    {
+      "id": "2026-11-04-nrk-datasenter-116-soknader",
+      "tittel": "NRK: veksande motstand mot datasenter, 116 søknader til handsaming",
+      "samandrag": "Berre overskrift er lesen (NRK kan ikkje opnast): saka handlar om aukande motstand mot datasenter i Noreg og at 116 søknader ligg til handsaming. Marker: berre overskrift.",
+      "kvifor": "Set Gaupne Datapark og andre sogningar sine datasenterplanar i nasjonal samanheng.",
+      "kjelde": "NRK Vestland",
+      "url": "https://www.nrk.no/vestland/veksande-motstand-mot-datasenter-i-noreg_-116-soknader-ligg-til-behandling-1.17989950",
+      "publisert": null,
+      "utgave": "2026-11-04",
+      "lagt_til": "2026-11-04T05:50:00Z",
+      "tema": [
+        "Energi og kraft",
+        "Politikk og rammevilkår"
+      ],
+      "omrade": [
+        "Nasjonalt",
+        "Luster"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "betalingsmur": false,
+      "grunnlag": "tittel",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": null,
+      "bilete_kreditering": null
+    },
+    {
       "id": "2026-11-03-menon-datasenter-rapport",
       "tittel": "Ny Menon-rapport: datasenter kan bruke 17–37 TWh i 2035",
       "samandrag": "Ei rapport frå Menon Economics for departementet om økonomiske sider ved datasenternæringa viser at straumforbruket kan stige til 17–37 TWh i 2035. Nettkapasitet kan setje grenser for veksten dei næraste åra.",
@@ -1277,6 +1449,10 @@
         {
           "kjelde": "Porten (mai): Investerer over ein milliard",
           "url": "https://www.porten.no/nyheiter/n/5pb0ve/investerer-over-ein-milliard-i-aardal"
+        },
+        {
+          "kjelde": "NRK Vestland",
+          "url": "https://www.nrk.no/vestland/milliardinvestering-i-sogn-skal-gi-50-arbeidsplassar--1.17989594"
         }
       ],
       "id": "2026-10-23-milliard-ardal",

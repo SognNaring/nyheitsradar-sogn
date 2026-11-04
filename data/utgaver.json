@@ -202,6 +202,35 @@
       ],
       "tal_nye": 5,
       "laga": "2026-11-03T05:44:31Z"
+    },
+    {
+      "dato": "2026-11-04",
+      "nr": 8,
+      "merknad": "Sogn Avis og NRK gav få nye saker; Porten-oversikta viste ikkje datoar.",
+      "viktigast": [
+        {
+          "sak": "2026-10-23-norges-bank-rente",
+          "tekst": "Rentemøte torsdag 5. november kl. 10."
+        },
+        {
+          "sak": "2026-11-04-hydro-800-mill",
+          "tekst": "Hydro Årdal har investeringsprosjekt for 800 mill. i kø."
+        },
+        {
+          "sak": "2026-10-23-laerdalstunnelen-oppstart",
+          "tekst": "Lærdalstunnelen stenger kvar natt frå 16. november."
+        },
+        {
+          "sak": "2026-10-27-vik-naeringstilskot",
+          "tekst": "Frist 15. november for næringstilskot i Vik."
+        },
+        {
+          "sak": "2026-11-04-nav-julejobb-vestland",
+          "tekst": "Aurland har fylkets høgaste ledigheit, 2,6 %."
+        }
+      ],
+      "tal_nye": 6,
+      "laga": "2026-11-04T05:50:00Z"
     }
   ]
 }
