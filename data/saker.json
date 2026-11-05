@@ -1,6 +1,64 @@
 {
   "saker": [
     {
+      "id": "2026-11-05-aurlandsskoen-ny-eigar",
+      "tittel": "Aurlandsskoen får nye eigarar – Ultimate Nordic tek over",
+      "samandrag": "Skomerket Aurlandsskoen har fått nye eigarar. Ultimate Nordic overtek frå reiselivskonsernet Norway's best Group, og Porten skriv at det kan gi store endringar for verksemda.",
+      "kvifor": "Eigarskifte i ein kjend lokal produsent kan påverke arbeidsplassar og lokal produksjon i Aurland.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/1omewK/etter-18-aar-er-det-slutt-har-selt-merkevara",
+      "publisert": null,
+      "utgave": "2026-11-05",
+      "lagt_til": "2026-11-05T05:50:00Z",
+      "tema": [
+        "Næringsliv og industri",
+        "Reiseliv"
+      ],
+      "omrade": [
+        "Aurland"
+      ],
+      "type": "Nyheit",
+      "prioritet": 2,
+      "betalingsmur": true,
+      "grunnlag": "ingress",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": null,
+      "bilete_kreditering": null
+    },
+    {
+      "id": "2026-11-05-motor-hotel-sal",
+      "tittel": "Eigarane av Lærdalsøren Motor Hotel vil selje og slutte etter 2027-sesongen",
+      "samandrag": "Johannes Einemo og Elin Partenyi planlegg å selje Lærdalsøren Motor Hotel og avslutte etter sesongen i 2027, etter ti år som drivarar.",
+      "kvifor": "Generasjonsskifte i lokalt reiseliv er ei moglegheit for nye eigarar og ein jobb for næringsapparatet å følgje opp.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/eG9ogO/elin-og-johannes-gir-seg-etter-ti-aar-vi-har-faatt-til-saa-mykje-galskap",
+      "publisert": null,
+      "utgave": "2026-11-05",
+      "lagt_til": "2026-11-05T05:50:00Z",
+      "tema": [
+        "Reiseliv",
+        "Næringsliv og industri"
+      ],
+      "omrade": [
+        "Lærdal"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "betalingsmur": true,
+      "grunnlag": "ingress",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": "https://vcdn.polarismedia.no/d8174260-4eb4-3918-9e1d-6744854ef70d?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Lasse Styve Andersen / Porten"
+    },
+    {
       "id": "2026-11-04-hydro-800-mill",
       "tittel": "Hydro Årdal har investeringsprosjekt for 800 millionar i kø",
       "samandrag": "Fabrikksjef Anveig Halkjelsvik presenterte investeringsplanane ved Hydro Årdal på eit nesten fullbooka arrangement, saman med Per Gullaksen frå Hydro Energi Sogn. Overskrifta seier at prosjekt for 800 millionar kroner ligg i kø.",

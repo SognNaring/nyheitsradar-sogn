@@ -231,6 +231,31 @@
       ],
       "tal_nye": 6,
       "laga": "2026-11-04T05:50:00Z"
+    },
+    {
+      "dato": "2026-11-05",
+      "nr": 9,
+      "merknad": "Rolig dag: dei fleste kjeldene hadde ingen nye saker; Norges Bank-vedtaket kjem kl. 10.",
+      "viktigast": [
+        {
+          "sak": "2026-10-23-norges-bank-rente",
+          "tekst": "Rentemøte i dag kl. 10."
+        },
+        {
+          "sak": "2026-10-23-laerdalstunnelen-oppstart",
+          "tekst": "Lærdalstunnelen stenger kvar natt frå 16. november."
+        },
+        {
+          "sak": "2026-11-05-aurlandsskoen-ny-eigar",
+          "tekst": "Aurlandsskoen har fått nye eigarar."
+        },
+        {
+          "sak": "2026-10-27-vik-naeringstilskot",
+          "tekst": "Frist 15. november for næringstilskot i Vik."
+        }
+      ],
+      "tal_nye": 2,
+      "laga": "2026-11-05T05:50:00Z"
     }
   ]
 }
