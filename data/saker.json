@@ -1,6 +1,97 @@
 {
   "saker": [
     {
+      "id": "2026-11-06-norges-bank-held-renta",
+      "tittel": "Norges Bank held styringsrenta uendra på 4,5 prosent",
+      "samandrag": "Rentekomiteen vedtok einstemmig å halde renta uendra på 4,5 prosent. Sentralbanksjefen seier renta truleg må vere høg ei tid framover, og at banken er førebudd på å setje henne opp igjen om inflasjonen krev det. Neste rentemøte med nye prognosar er i desember.",
+      "kvifor": "Høg rente held finansieringskostnadene oppe for bedrifter og investeringar i Sogn.",
+      "kjelde": "Norges Bank",
+      "url": "https://www.norges-bank.no/en/news-events/news/Press-releases/2026/2026-11-05-rate/",
+      "publisert": "2026-11-05",
+      "utgave": "2026-11-06",
+      "lagt_til": "2026-11-06T05:44:37Z",
+      "tema": [
+        "Politikk og rammevilkår"
+      ],
+      "omrade": [
+        "Nasjonalt"
+      ],
+      "type": "Politikk og vedtak",
+      "prioritet": 2,
+      "betalingsmur": false,
+      "grunnlag": "ingress",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [
+        {
+          "kjelde": "NRK",
+          "url": "https://www.nrk.no/nyheter/norges-bank-holder-styringsrenta-uendret-1.18074182"
+        }
+      ],
+      "bilete": null,
+      "bilete_kreditering": null
+    },
+    {
+      "id": "2026-11-06-hydro-ardal-sterkt-kvartal",
+      "tittel": "Hydro Årdal med historisk sterkt kvartal",
+      "samandrag": "Sogn Avis melder at Hydro Årdal hadde eit driftsresultat på 965 millionar kroner i eit kvartal i 2026, meir enn dobbelt så mykje som året før. Berre overskrifta og søkjeutdraget er lese.",
+      "kvifor": "Resultatet til Hydro Årdal er avgjerande for industri og arbeidsplassar i indre Sogn.",
+      "kjelde": "Sogn Avis",
+      "url": "https://www.sognavis.no/eit-av-dei-historisk-sterkaste-kvartala-for-hydro-ardal/s/5-115-1465020",
+      "publisert": null,
+      "utgave": "2026-11-06",
+      "lagt_til": "2026-11-06T05:44:37Z",
+      "tema": [
+        "Næringsliv og industri",
+        "Energi og kraft"
+      ],
+      "omrade": [
+        "Årdal"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "betalingsmur": true,
+      "grunnlag": "tittel",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": null,
+      "bilete_kreditering": null
+    },
+    {
+      "id": "2026-11-06-nytt-helse-omsorgssenter-storaktorar",
+      "tittel": "Fire storaktørar vil bygge nytt helse- og omsorgssenter",
+      "samandrag": "Porten melder at fire store aktørar ønskjer å byggje eit nytt helse- og omsorgssenter. Saka er bak betalingsmur, og berre overskrifta er lese.",
+      "kvifor": "Store bygg- og omsorgsprosjekt gir oppdrag til lokalt næringsliv.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/ylkw0E/fire-storaktoerar-vil-bygge-nytt-helse-og-omsorgssenter",
+      "publisert": null,
+      "utgave": "2026-11-06",
+      "lagt_til": "2026-11-06T05:44:37Z",
+      "tema": [
+        "Næringsliv og industri",
+        "Kompetanse og arbeidsliv"
+      ],
+      "omrade": [
+        "Sogn"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "betalingsmur": true,
+      "grunnlag": "tittel",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": null,
+      "bilete_kreditering": null
+    },
+    {
       "id": "2026-11-05-aurlandsskoen-ny-eigar",
       "tittel": "Aurlandsskoen får nye eigarar – Ultimate Nordic tek over",
       "samandrag": "Skomerket Aurlandsskoen har fått nye eigarar. Ultimate Nordic overtek frå reiselivskonsernet Norway's best Group, og Porten skriv at det kan gi store endringar for verksemda.",
@@ -397,7 +488,12 @@
       "grunnlag": "ingress",
       "nemner_sn": false,
       "frist": null,
-      "relaterte": [],
+      "relaterte": [
+        {
+          "kjelde": "Luster kommune",
+          "url": "https://www.luster.kommune.no/nyheiter/datasenter-i-gaupne.13558.aspx"
+        }
+      ],
       "bilete": "https://vcdn.polarismedia.no/376b4a43-8f57-3576-869d-111ddb1df6c7?fit=crop&q=80&tight=false&w=1200&h=675",
       "bilete_kreditering": "Lasse Styve Andersen / Porten",
       "utgave": "2026-11-02",
