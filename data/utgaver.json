@@ -281,6 +281,31 @@
       ],
       "tal_nye": 3,
       "laga": "2026-11-06T05:44:37Z"
+    },
+    {
+      "dato": "2026-11-09",
+      "nr": 11,
+      "merknad": "Måndagsutgåva dekkjer helga. Rolig: fire nye saker.",
+      "viktigast": [
+        {
+          "sak": "2026-11-09-luster-datasenter-gaupne-sporsmal",
+          "tekst": "Luster kommune med spørsmål og svar om datasenter i Gaupne."
+        },
+        {
+          "sak": "2026-10-23-laerdalstunnelen-oppstart",
+          "tekst": "Lærdalstunnelen stenger kvar natt frå 16. november."
+        },
+        {
+          "sak": "2026-10-27-vik-naeringstilskot",
+          "tekst": "Frist 15. november for næringstilskot i Vik."
+        },
+        {
+          "sak": "2026-11-09-aurland-kokepabod",
+          "tekst": "Kokepåbod i Aurlandsvangen minst til 11. november."
+        }
+      ],
+      "tal_nye": 4,
+      "laga": "2026-11-09T05:44:40Z"
     }
   ]
 }

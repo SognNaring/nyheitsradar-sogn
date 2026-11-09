@@ -1,6 +1,138 @@
 {
   "saker": [
     {
+      "id": "2026-11-09-luster-datasenter-gaupne-sporsmal",
+      "tittel": "Luster kommune har lagt ut spørsmål og svar om datasenter i Gaupne",
+      "samandrag": "Luster kommune har publisert ei sak med spørsmål og svar om å etablere eit datasenter i Gaupne. Saka kjem like etter folkemøtet og formannskapsmøtet 4. november. Berre overskrift og kort omtale er lesne.",
+      "kvifor": "Datasenterplanane i Gaupne er ei av dei største næringssakene i indre Sogn og påverkar kraft, tomter og arbeidsplassar.",
+      "kjelde": "Luster kommune",
+      "url": "https://www.luster.kommune.no/nyheiter/datasenter-i-gaupne.13558.aspx",
+      "publisert": null,
+      "utgave": "2026-11-09",
+      "lagt_til": "2026-11-09T05:44:40Z",
+      "tema": [
+        "Energi og kraft",
+        "Næringsliv og industri"
+      ],
+      "omrade": [
+        "Luster"
+      ],
+      "type": "Nyheit",
+      "prioritet": 2,
+      "betalingsmur": false,
+      "grunnlag": "ingress",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": "",
+      "fra_tips": false,
+      "relaterte": [
+        {
+          "kjelde": "Porten",
+          "url": "https://www.porten.no/nyheiter/i/R5nvm2/dette-maa-du-vita-om-gaupne-datapark"
+        }
+      ],
+      "bilete": null,
+      "bilete_kreditering": null
+    },
+    {
+      "id": "2026-11-09-aurland-kokepabod",
+      "tittel": "Kokepåbod for store delar av Aurlandsvangen etter funn av bakteriar",
+      "samandrag": "Aurland kommune har gitt kokepåbod for det meste av Aurlandsvangen og område opp til Høydalen, Kvitt og Sogn jord- og hagebruksskule etter at det vart funne bakteriar i rutineprøver. Påbodet varer minst til onsdag 11. november og blir ikkje oppheva før to reine prøver er tekne.",
+      "kvifor": "Kokepåbod rører ved serveringsstader, overnatting og matverksemder i området.",
+      "kjelde": "NRK Vestland",
+      "url": "https://www.nrk.no/vestland/kokepabod-for-store-delar-av-aurlandsvangen-1.18074885",
+      "publisert": "2026-11-05",
+      "utgave": "2026-11-09",
+      "lagt_til": "2026-11-09T05:44:40Z",
+      "tema": [
+        "Næringsliv og industri",
+        "Natur, klima og fjord"
+      ],
+      "omrade": [
+        "Aurland"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "betalingsmur": false,
+      "grunnlag": "heil sak",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": "",
+      "fra_tips": false,
+      "relaterte": [
+        {
+          "kjelde": "Porten",
+          "url": "https://www.porten.no/nyheiter/n/d7oOKO/maa-koka-vatnet-etter-funn-av-bakteriar"
+        }
+      ],
+      "bilete": null,
+      "bilete_kreditering": null
+    },
+    {
+      "id": "2026-11-09-politi-sabotasje-beredskap",
+      "tittel": "Politiet uroa for manglande beredskap mot sabotasje i Vestland",
+      "samandrag": "Porten melder at politiet er uroa for manglande beredskap mot sabotasje i Vestland, og viser Hydro på Årdalstangen i illustrasjonen. Saka er bak betalingsmur, så innhaldet er ikkje lese.",
+      "kvifor": "Beredskap rundt kritisk infrastruktur og industri som Hydro Årdal er viktig for tryggleiken til næringslivet.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/El0EQP/vestland-politiet-er-uroa-for-manglande-beredskap-mot-sabotasje",
+      "publisert": null,
+      "utgave": "2026-11-09",
+      "lagt_til": "2026-11-09T05:44:40Z",
+      "tema": [
+        "Næringsliv og industri",
+        "Politikk og rammevilkår"
+      ],
+      "omrade": [
+        "Vestland",
+        "Årdal"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "betalingsmur": true,
+      "grunnlag": "tittel",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": "",
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": "https://vcdn.polarismedia.no/ac1a2bfd-35d2-3d0e-847a-a326c7a1921a?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Karoline Guldbæk / Porten"
+    },
+    {
+      "id": "2026-11-09-elevbedrifter-ardal-sogndal",
+      "tittel": "Elevbedrifter i Sogn er i gang: Gjenbroki vil selje brukte klede",
+      "samandrag": "Porten omtalar elevbedrifter ved vidaregåande skular i regionen. Gjenbroki vil gjere gamle klede til butikk, og ei anna elevbedrift fortel at ho alt har hatt mange kundar. Berre overskrifter og bildetekstar er lesne.",
+      "kvifor": "Ungt Entreprenørskap-bedrifter er ein tidleg arena for gründerkultur, som Grunderløftet bygger vidare på.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/L3VKVP/desse-jentene-vil-gjere-gamle-klede-til-butikk",
+      "publisert": null,
+      "utgave": "2026-11-09",
+      "lagt_til": "2026-11-09T05:44:40Z",
+      "tema": [
+        "Gründer og innovasjon",
+        "Kompetanse og arbeidsliv"
+      ],
+      "omrade": [
+        "Sogn"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "betalingsmur": true,
+      "grunnlag": "tittel",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": "",
+      "fra_tips": false,
+      "relaterte": [
+        {
+          "kjelde": "Porten",
+          "url": "https://www.porten.no/nyheiter/n/Abomon/me-har-hatt-mange-kundar-allereie"
+        }
+      ],
+      "bilete": "https://vcdn.polarismedia.no/1db9e987-f5d6-3a6d-bcc2-1acb2ace9fc6?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Sara Lie Hegre / Porten"
+    },
+    {
       "id": "2026-11-06-norges-bank-held-renta",
       "tittel": "Norges Bank held styringsrenta uendra på 4,5 prosent",
       "samandrag": "Rentekomiteen vedtok einstemmig å halde renta uendra på 4,5 prosent. Sentralbanksjefen seier renta truleg må vere høg ei tid framover, og at banken er førebudd på å setje henne opp igjen om inflasjonen krev det. Neste rentemøte med nye prognosar er i desember.",
