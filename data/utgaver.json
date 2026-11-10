@@ -306,6 +306,31 @@
       ],
       "tal_nye": 4,
       "laga": "2026-11-09T05:44:40Z"
+    },
+    {
+      "dato": "2026-11-10",
+      "nr": 12,
+      "merknad": "Tysdagsutgåva: datasenter og kraft dominerer.",
+      "viktigast": [
+        {
+          "sak": "2026-11-10-laerdal-hoyring-datasenter-habakken",
+          "tekst": "Høyringsfrist 16. november for datasenter-endring i Lærdal."
+        },
+        {
+          "sak": "2026-11-10-statnett-stoppar-kraftreservasjon-datasenter",
+          "tekst": "Statnett stansar kraftreservasjon til datasenter og varslar strengare krav."
+        },
+        {
+          "sak": "2026-10-23-laerdalstunnelen-oppstart",
+          "tekst": "Lærdalstunnelen stenger kvar natt frå 16. november."
+        },
+        {
+          "sak": "2026-10-27-vik-naeringstilskot",
+          "tekst": "Frist 15. november for næringstilskot i Vik."
+        }
+      ],
+      "tal_nye": 6,
+      "laga": "2026-11-10T05:44:30Z"
     }
   ]
 }
