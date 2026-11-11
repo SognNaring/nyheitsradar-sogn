@@ -1,6 +1,214 @@
 {
   "saker": [
     {
+      "utgave": "2026-11-11",
+      "lagt_til": "2026-11-11T05:46:48Z",
+      "betalingsmur": false,
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [
+        {
+          "kjelde": "Porten",
+          "url": "https://www.porten.no/nyheiter/n/wdEBjP/strammar-inn-for-datasenter-kva-tyder-det-for-sogn"
+        }
+      ],
+      "bilete": null,
+      "bilete_kreditering": null,
+      "id": "2026-11-11-regjeringa-konsesjon-datasenter",
+      "tittel": "Regjeringa vil innføre konsesjonsordning for datasenter – både nye og eksisterande",
+      "samandrag": "Regjeringa varslar ei konsesjonsordning som skal gje kontrollert vekst av samfunnsnyttige datasenter, med overgangsordningar for eksisterande anlegg. Kryptodrift skal ikkje reknast som samfunnsnyttig, og staten vil greie ut eigarskap i særleg nyttige prosjekt. Hovudprinsippa kjem seinare.",
+      "kvifor": "Avgjer rammene for datasenterplanane i Gaupne, Lærdal og Årdal og dermed kraft, areal og arbeidsplassar i Sogn.",
+      "kjelde": "Regjeringa",
+      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-vil-ha-en-kontrollert-vekst-av-samfunnsnyttige-datasentre-i-norge/id3192054/",
+      "publisert": "2026-11-09",
+      "tema": [
+        "Energi og kraft",
+        "Politikk og rammevilkår"
+      ],
+      "omrade": [
+        "Nasjonalt",
+        "Sogn"
+      ],
+      "type": "Politikk og vedtak",
+      "prioritet": 1,
+      "grunnlag": "ingress"
+    },
+    {
+      "utgave": "2026-11-11",
+      "lagt_til": "2026-11-11T05:46:48Z",
+      "betalingsmur": true,
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": "https://vcdn.polarismedia.no/e3b8cb33-c8e5-3a31-949a-cb101097245d?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Inger Helgestad / Porten",
+      "id": "2026-11-11-sognatinget-vanskelege-diskusjonar",
+      "tittel": "Sognatinget samla i Øvre Årdal: deltakarar etterlyser fleire vanskelege diskusjonar",
+      "samandrag": "Sognatinget møttest i Øvre Årdal måndag 9. november. Ifølgje Porten etterlyste fleire deltakarar mot til å ta vanskelege diskusjonar og tydelegare prioriteringar i regionen. Saka er bak betalingsmur.",
+      "kvifor": "Sognatinget set retning for det regionale samarbeidet som Sogn Næring er tett kopla til.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/wdEq45/etterlyste-fleire-vanskelege-diskusjonar-me-maa-tora",
+      "publisert": null,
+      "tema": [
+        "Politikk og rammevilkår"
+      ],
+      "omrade": [
+        "Sogn",
+        "Årdal"
+      ],
+      "type": "Nyheit",
+      "prioritet": 2,
+      "grunnlag": "ingress"
+    },
+    {
+      "utgave": "2026-11-11",
+      "lagt_til": "2026-11-11T05:46:48Z",
+      "betalingsmur": false,
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": "https://www.sogndal.kommune.no/images/200.c02152d1a1a197816134d9/1794323182551/Komdir.jpg",
+      "bilete_kreditering": "Mariann Skau / Sogndal kommune",
+      "id": "2026-11-11-ny-kommunedirektor-sogndal",
+      "tittel": "Anne Karin Hamre har teke til som kommunedirektør i Sogndal",
+      "samandrag": "Anne Karin Hamre starta som kommunedirektør i Sogndal 9. november. Ho har leia Vestlandsforsking, vore ekspedisjonssjef i Kommunal- og distriktsdepartementet og fylkesmann i Sogn og Fjordane 2011–2018, og har styreerfaring frå mellom anna Helse Vest og Forskingsrådet.",
+      "kvifor": "Ny administrativ leiar i den største eigarkommunen, med brei erfaring frå forsking, distriktspolitikk og innovasjon.",
+      "kjelde": "Sogndal kommune",
+      "url": "https://www.sogndal.kommune.no/aktuelt/2026-11-10-ny-kommunedirektor-er-pa-plass",
+      "publisert": "2026-11-10",
+      "tema": [
+        "Politikk og rammevilkår"
+      ],
+      "omrade": [
+        "Sogndal"
+      ],
+      "type": "Nyheit",
+      "prioritet": 2,
+      "grunnlag": "heil sak"
+    },
+    {
+      "utgave": "2026-11-11",
+      "lagt_til": "2026-11-11T05:46:48Z",
+      "betalingsmur": false,
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": "https://www.hydro.com/globalassets/07-media/news/2026/11-november/mercedes-benz-cla-at-hydro-aardal-smelter.jpg",
+      "bilete_kreditering": "Anders Vindegg / Hydro",
+      "id": "2026-11-11-hydro-mercedes-avtale",
+      "tittel": "Hydro og Mercedes-Benz inngår ny langsiktig avtale om lågkarbon-aluminium",
+      "samandrag": "Hydro skal levere minst 10 prosent av aluminiumsbehovet til Mercedes-Benz i ein avtale som varer forbi 2030. Karbonavtrykket for REDUXA skal ned til 3,5 kg CO2e/kg innan 2028, og resirkulert CIRCAL skal brukast frå 2027. Hydro viser fram avtalen med bilete frå elektrolysehallen i Årdal.",
+      "kvifor": "Langsiktige kundeavtalar for lågkarbon-aluminium styrkjer grunnlaget for verket i Årdal og leverandørane rundt.",
+      "kjelde": "Hydro",
+      "url": "https://www.hydro.com/en/global/media/news/2026/hydro-and-mercedes-benz-take-next-step-in-partnership-with-new-long-term-agreement-for-low-carbon-aluminium/",
+      "publisert": "2026-11-10",
+      "tema": [
+        "Næringsliv og industri",
+        "Energi og kraft"
+      ],
+      "omrade": [
+        "Årdal",
+        "Internasjonalt"
+      ],
+      "type": "Nyheit",
+      "prioritet": 2,
+      "grunnlag": "heil sak"
+    },
+    {
+      "utgave": "2026-11-11",
+      "lagt_til": "2026-11-11T05:46:48Z",
+      "betalingsmur": true,
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": "https://vcdn.polarismedia.no/cf8c747d-7bdd-3cf5-823e-96e1f4337759?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Lasse Styve Andersen / Porten",
+      "id": "2026-11-11-fagveke-ardal-robotar-kraft",
+      "tittel": "Fagveke i Årdal samlar fagfolk – frå robotar til kraftdebatt",
+      "samandrag": "Porten melder at fagfolk blir samla i Årdal til ei veke med teknologi og faglege diskusjonar, frå robotar til kraftdebatt. Detaljane er bak betalingsmur.",
+      "kvifor": "Fagmiljøet rundt industrien i Årdal er viktig for kompetanse og rekruttering i regionen.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/mM6qqO/samlar-fagfolka-i-aardal-fraa-robotar-til-kraftdebatt",
+      "publisert": null,
+      "tema": [
+        "Kompetanse og arbeidsliv",
+        "Næringsliv og industri"
+      ],
+      "omrade": [
+        "Årdal"
+      ],
+      "type": "Arrangement",
+      "prioritet": 3,
+      "grunnlag": "tittel"
+    },
+    {
+      "utgave": "2026-11-11",
+      "lagt_til": "2026-11-11T05:46:48Z",
+      "betalingsmur": false,
+      "nemner_sn": false,
+      "frist": "2026-11-16",
+      "frist_tekst": "Kameraparkering startar",
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": "https://www.sogndal.kommune.no/images/18.4bf135121a1a1838e403ddc/1794317982686/p-hus%20shos.JPG",
+      "bilete_kreditering": "Sogndal kommune",
+      "id": "2026-11-11-sogndal-kameraparkering",
+      "tittel": "Sogndal innfører kameraparkering frå 16. november",
+      "samandrag": "Frå 16. november blir det kameraparkering i SHOS-garasjen og på Nedrehagen U1 og U2, og ei ny takstsone ved Ingafossen. Tolv automatar blir oppgraderte til kontaktlaus betaling, og myntbetaling blir fasa ut.",
+      "kvifor": "Endringa påverkar kundar og tilsette som parkerer for å handle og arbeide i Sogndal sentrum.",
+      "kjelde": "Sogndal kommune",
+      "url": "https://www.sogndal.kommune.no/aktuelt/2026-11-10-sogndal-kommune-moderniserer-parkeringstilbodet",
+      "publisert": "2026-11-10",
+      "tema": [
+        "Samferdsel og infrastruktur"
+      ],
+      "omrade": [
+        "Sogndal"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "grunnlag": "heil sak"
+    },
+    {
+      "utgave": "2026-11-11",
+      "lagt_til": "2026-11-11T05:46:48Z",
+      "betalingsmur": false,
+      "nemner_sn": false,
+      "frist": "2026-11-17",
+      "frist_tekst": "Storsamling Grøn region Vestland",
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": null,
+      "bilete_kreditering": null,
+      "id": "2026-11-11-gron-region-vestland-storsamling",
+      "tittel": "Grøn region Vestland lanserast med storsamling i Bergen 17. november",
+      "samandrag": "Storsamlinga for Grøn region Vestland er flytt til tysdag 17. november på Grand Hotel Terminus i Bergen. Programmet tek for seg sirkulær økonomi, karbonfangst, verdiskaping frå havet, investorar i klimateknologi og grøn industriomstilling. Alle som arbeider med grøn omstilling i Vestland er velkomne.",
+      "kvifor": "Møteplass for grøn omstilling der prosjekt som Green Hydra og Grøn fredag kan knyte kontaktar.",
+      "kjelde": "Vestland fylkeskommune",
+      "url": "https://www.vestlandfylke.no/kalender/2026/gron-region-vestland-storsamling/",
+      "publisert": null,
+      "tema": [
+        "Natur, klima og fjord",
+        "Gründer og innovasjon"
+      ],
+      "omrade": [
+        "Vestland"
+      ],
+      "type": "Arrangement",
+      "prioritet": 3,
+      "grunnlag": "heil sak"
+    },
+    {
       "id": "2026-11-10-laerdal-hoyring-datasenter-habakken",
       "tittel": "Lærdal kommune har endring av reguleringsplan for datasenter ute til høyring",
       "samandrag": "Lærdal kommune har sendt framlegg om endring av detaljreguleringa for Håbakken 2 på høyring. Endringa skal opne for datasenter i område som alt er regulert til næring, og ho endrar òg tillaten byggjehøgd. Fristen er utvida til måndag 16. november.",

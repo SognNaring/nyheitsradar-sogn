@@ -331,6 +331,35 @@
       ],
       "tal_nye": 6,
       "laga": "2026-11-10T05:44:30Z"
+    },
+    {
+      "dato": "2026-11-11",
+      "nr": 13,
+      "merknad": "Onsdagsutgåva: regjeringa strammar inn på datasenter.",
+      "viktigast": [
+        {
+          "sak": "2026-11-11-regjeringa-konsesjon-datasenter",
+          "tekst": "Regjeringa vil ha konsesjonsordning for alle datasenter – avgjerande for planane i Sogn."
+        },
+        {
+          "sak": "2026-11-10-laerdal-hoyring-datasenter-habakken",
+          "tekst": "Høyringsfrist 16. november for datasenter-endring i Lærdal."
+        },
+        {
+          "sak": "2026-10-23-laerdalstunnelen-oppstart",
+          "tekst": "Lærdalstunnelen stenger kvar natt frå måndag 16. november."
+        },
+        {
+          "sak": "2026-11-11-sognatinget-vanskelege-diskusjonar",
+          "tekst": "Sognatinget i Årdal: deltakarar vil ha tydelegare prioriteringar."
+        },
+        {
+          "sak": "2026-10-27-vik-naeringstilskot",
+          "tekst": "Frist 15. november for næringstilskot i Vik."
+        }
+      ],
+      "tal_nye": 7,
+      "laga": "2026-11-11T05:46:48Z"
     }
   ]
 }
