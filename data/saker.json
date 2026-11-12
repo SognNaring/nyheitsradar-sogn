@@ -1,6 +1,174 @@
 {
   "saker": [
     {
+      "utgave": "2026-11-12",
+      "lagt_til": "2026-11-12T05:46:55Z",
+      "betalingsmur": true,
+      "nemner_sn": false,
+      "frist": "2026-11-16",
+      "frist_tekst": "Nattestenging startar",
+      "fra_tips": false,
+      "relaterte": [
+        {
+          "kjelde": "Statens vegvesen",
+          "url": "https://www.vegvesen.no/nn/vegprosjekt/prosjekt/e16lardalstunnelen/"
+        },
+        {
+          "kjelde": "Sogn Avis (berre overskrift)",
+          "url": "https://www.sognavis.no/mandag-startar-nattestenginga-av-lardalstunnelen-utfordrande/s/80-115-36304"
+        }
+      ],
+      "bilete": "https://vcdn.polarismedia.no/f1171181-8f74-38b1-b586-12ae268b4ea4?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Karoline Guldbæk / Porten",
+      "id": "2026-11-12-laerdalstunnelen-ko-for-stenging",
+      "tittel": "Kø i Lærdalstunnelen alt før nattestenginga startar 16. november",
+      "samandrag": "Bilistar må allereie vente i Lærdalstunnelen fem dagar før dei 12-timars nattestengingane tek til. Den 24,5 km lange tunnelen får nytt lys, betre ventilasjon og fleire havarinisjer. Frå måndag 16. november er tunnelen stengd kl. 18–06, med busstilbod mellom Aurland og Lærdal.",
+      "kvifor": "Stenginga rammar transport, pendling, reiseliv og leveransar mellom Sogn og Austlandet i fleire år.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/vkm00w/fem-dagar-foer-storstenginga-maa-bilistane-allereie-vente-dette-er-grunnen",
+      "publisert": null,
+      "tema": [
+        "Samferdsel og infrastruktur",
+        "Næringsliv og industri"
+      ],
+      "omrade": [
+        "Lærdal",
+        "Aurland",
+        "Sogn"
+      ],
+      "type": "Nyheit",
+      "prioritet": 1,
+      "grunnlag": "ingress"
+    },
+    {
+      "utgave": "2026-11-12",
+      "lagt_til": "2026-11-12T05:46:55Z",
+      "betalingsmur": true,
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [
+        {
+          "kjelde": "NRK (berre overskrift)",
+          "url": "https://www.nrk.no/artikkel/tek-datasenter-stopp-med-knusande-ro-vil-berre-ta-litt-lengre-tid-1532543"
+        }
+      ],
+      "bilete": "https://vcdn.polarismedia.no/2ddfc4d1-99ea-3aa1-b5c7-3b886aa7695c?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Inger Helgestad / Porten",
+      "id": "2026-11-12-luster-kontroll-datasenter",
+      "tittel": "Luster-leiinga vil sikre kommunal kontroll i datasenter-saka",
+      "samandrag": "Porten skriv om korleis ordførar Andreas Wollnick Wiese (Sp) og varaordførar Geir Arve Sandvik (H) vil sikre kontroll i datasenter-saka i Luster. Berre overskrift og biletetekst er lesne.",
+      "kvifor": "Korleis kommunen styrer datasenterplanen i Gaupne avgjer kraftbruk, areal og arbeidsplassar i regionen.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/OynAVk/slik-vil-dei-sikra-kontroll-i-datasenter-saka",
+      "publisert": null,
+      "tema": [
+        "Energi og kraft",
+        "Politikk og rammevilkår"
+      ],
+      "omrade": [
+        "Luster"
+      ],
+      "type": "Nyheit",
+      "prioritet": 1,
+      "grunnlag": "tittel"
+    },
+    {
+      "utgave": "2026-11-12",
+      "lagt_til": "2026-11-12T05:46:55Z",
+      "betalingsmur": false,
+      "nemner_sn": false,
+      "frist": "2027-01-14",
+      "frist_tekst": "Høyringsfrist",
+      "fra_tips": false,
+      "relaterte": [
+        {
+          "kjelde": "NTB Kommunikasjon",
+          "url": "https://kommunikasjon.ntb.no/pressemelding/19133863/forslag-til-ny-lov-om-data-fra-korttidsutleige-pa-hoyring?publisherId=14943704"
+        }
+      ],
+      "bilete": null,
+      "bilete_kreditering": null,
+      "id": "2026-11-12-korttidsutleige-hoyring",
+      "tittel": "Ny lov om data frå korttidsutleige på høyring – frist 14. januar",
+      "samandrag": "Nærings- og fiskeridepartementet har sendt på høyring ei lov som gjennomfører EU-reglar om innsamling og deling av data frå korttidsutleige. Forslaget innfører ikkje i seg sjølv registreringsplikt. Regjeringa minner om at kommunar kan krevje inn overnattingsavgift frå 2027, og varslar ein heilskapleg reiselivsplan etter nyttår.",
+      "kvifor": "Rammene for korttidsutleige og besøksbidrag rører ved reiselivet i Flåm, Aurland og resten av Sogn.",
+      "kjelde": "Regjeringa",
+      "url": "https://www.regjeringen.no/no/aktuelt/forslag-til-ny-lov-om-data-fra-korttidsutleige-pa-hoyring/id3191983/",
+      "publisert": "2026-11-06",
+      "tema": [
+        "Reiseliv",
+        "Politikk og rammevilkår"
+      ],
+      "omrade": [
+        "Nasjonalt",
+        "Aurland"
+      ],
+      "type": "Høyring",
+      "prioritet": 2,
+      "grunnlag": "heil sak"
+    },
+    {
+      "utgave": "2026-11-12",
+      "lagt_til": "2026-11-12T05:46:55Z",
+      "betalingsmur": true,
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": "https://vcdn.polarismedia.no/3bbf2e3f-a45c-3886-8637-8409135093a8?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Karoline Guldbæk / Porten",
+      "id": "2026-11-12-podkast-grunderskap-distrikt",
+      "tittel": "Ny podkast om gründerskap i distrikta testa for full sal",
+      "samandrag": "Torunn Todal Laberg og Yvonne Aga Romøren vil få fleire til å investere i distrikta, og lanserer ein podkast om gründerskap til våren. Ein testversjon samla full sal. Berre overskrift og biletetekst er lesne.",
+      "kvifor": "Eit nytt lokalt tiltak for gründerkultur som kan koplast til Grunderløftet og arbeidet med gründerar i Sogn.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/kMa5B6/full-sal-daa-torunn-og-yvonne-testa-den-nye-podkasten-det-vart-veldig-bra",
+      "publisert": null,
+      "tema": [
+        "Gründer og innovasjon",
+        "Kultur og arrangement"
+      ],
+      "omrade": [
+        "Sogn"
+      ],
+      "type": "Nyheit",
+      "prioritet": 2,
+      "grunnlag": "tittel"
+    },
+    {
+      "utgave": "2026-11-12",
+      "lagt_til": "2026-11-12T05:46:55Z",
+      "betalingsmur": true,
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": "https://vcdn.polarismedia.no/73cd2daf-f02a-3658-abf7-65f4485119b4?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Inger Helgestad / Porten",
+      "id": "2026-11-12-sognatinget-vgs-diskusjon",
+      "tittel": "Sognatinget tok opp att debatten om vidaregåande skule",
+      "samandrag": "Vidaregåande skule var igjen tema på Sognatinget måndag, der mellom andre Anne Kauppi (Årdal Ap) deltok. Overskrifta seier at situasjonen er «litt skummel». Berre overskrift og biletetekst er lesne.",
+      "kvifor": "Skulestrukturen påverkar rekruttering, fagarbeidarar og attraktiviteten til kommunane i Sogn.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/53V5Ob/nok-ein-diskusjon-om-vgs-det-er-litt-skummelt",
+      "publisert": null,
+      "tema": [
+        "Kompetanse og arbeidsliv",
+        "Politikk og rammevilkår"
+      ],
+      "omrade": [
+        "Årdal",
+        "Sogn"
+      ],
+      "type": "Politikk og vedtak",
+      "prioritet": 2,
+      "grunnlag": "tittel"
+    },
+    {
       "utgave": "2026-11-11",
       "lagt_til": "2026-11-11T05:46:48Z",
       "betalingsmur": false,
@@ -263,7 +431,12 @@
       "frist": null,
       "frist_tekst": null,
       "fra_tips": false,
-      "relaterte": [],
+      "relaterte": [
+        {
+          "kjelde": "Sogn Avis (berre overskrift)",
+          "url": "https://www.sognavis.no/mellombels-kraftstopp-til-datasenter/s/80-115-35022"
+        }
+      ],
       "bilete": "https://vcdn.polarismedia.no/c43949dd-891e-3c48-bc51-36b0295136cc?fit=crop&q=80&tight=false&w=1200&h=675",
       "bilete_kreditering": "Lasse Styve Andersen / Porten"
     },
@@ -785,7 +958,12 @@
       "frist": "2026-11-13",
       "frist_tekst": "Fjordavegen ferdig",
       "fra_tips": false,
-      "relaterte": [],
+      "relaterte": [
+        {
+          "kjelde": "Vik kommune",
+          "url": "https://www.vik.kommune.no/aktuelt/informasjon-om-videre-vedlikehald-pa-fv-5600-fjordavegen.6868.aspx"
+        }
+      ],
       "bilete": null,
       "bilete_kreditering": null
     },
