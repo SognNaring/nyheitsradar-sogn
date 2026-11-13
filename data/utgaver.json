@@ -389,6 +389,35 @@
       ],
       "tal_nye": 5,
       "laga": "2026-11-12T05:46:55Z"
+    },
+    {
+      "dato": "2026-11-13",
+      "nr": 15,
+      "merknad": "Fredagsutgåva: Lærdalstunnelen blir nattestengd frå måndag.",
+      "viktigast": [
+        {
+          "sak": "2026-11-12-laerdalstunnelen-ko-for-stenging",
+          "tekst": "Lærdalstunnelen blir nattestengd kl. 18–06 frå måndag 16. november."
+        },
+        {
+          "sak": "2026-11-13-tunnelbuss-laerdal-aurland",
+          "tekst": "Tunnelbussen Lærdal–Aurland må bestillast innan kl. 14 same dag – sjå rutetidene."
+        },
+        {
+          "sak": "2026-11-13-luster-kommunestyre-sognekraft",
+          "tekst": "Luster kommunestyre gjorde vedtak i tråd med ønsket til Sognekraft-sjefen."
+        },
+        {
+          "sak": "2026-11-10-laerdal-hoyring-datasenter-habakken",
+          "tekst": "Høyringsfrist måndag 16. november for datasenter-endring i Lærdal."
+        },
+        {
+          "sak": "2026-11-13-fjordalg-industripilot-ardal",
+          "tekst": "FjordAlg har fått industripiloten i drift i Øvre Årdal."
+        }
+      ],
+      "tal_nye": 5,
+      "laga": "2026-11-13T05:48:03Z"
     }
   ]
 }

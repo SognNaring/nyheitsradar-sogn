@@ -1,6 +1,176 @@
 {
   "saker": [
     {
+      "utgave": "2026-11-13",
+      "lagt_til": "2026-11-13T05:48:03Z",
+      "betalingsmur": false,
+      "nemner_sn": false,
+      "frist": "2026-11-16",
+      "frist_tekst": "Tunnelbussen startar",
+      "fra_tips": false,
+      "relaterte": [
+        {
+          "kjelde": "Statens vegvesen",
+          "url": "https://www.vegvesen.no/nn/vegprosjekt/prosjekt/e16lardalstunnelen/"
+        }
+      ],
+      "bilete": "https://laerdal.kommune.no/handlers/bv.ashx/ifb72f30f-b287-4777-bac6-fe0cf4ea0fa3/w1200/q1245/k49c9a58d2415/lardalstunnelen3.jpg",
+      "bilete_kreditering": "Ole Ramshus Sælthun / Lærdal kommune",
+      "publisert": "2026-11-12",
+      "id": "2026-11-13-tunnelbuss-laerdal-aurland",
+      "tittel": "Rutetider klare for tunnelbussen mellom Lærdal og Aurland under nattestenginga",
+      "samandrag": "Statens vegvesen set opp buss gjennom Lærdalstunnelen medan tunnelen er stengd kl. 18–06. Bussen går tre gonger kvar veg om kvelden alle dagar unntatt laurdag, kostar 20 kr og må bestillast innan kl. 14 same dag, elles blir avgangen innstilt. Det er ikkje rutetilbod 19. desember–2. januar.",
+      "kvifor": "Kveldspendlarar, tilsette i reiseliv og helse og bedrifter på begge sider av tunnelen må planleggje etter avgangane frå måndag.",
+      "kjelde": "Lærdal kommune",
+      "url": "https://laerdal.kommune.no/aktuelt/tunnelbuss-mellom-lardal-og-aurland-i-lardalstunnelen.6125.aspx",
+      "tema": [
+        "Samferdsel og infrastruktur",
+        "Kompetanse og arbeidsliv"
+      ],
+      "omrade": [
+        "Lærdal",
+        "Aurland"
+      ],
+      "type": "Nyheit",
+      "prioritet": 2,
+      "grunnlag": "heil sak"
+    },
+    {
+      "utgave": "2026-11-13",
+      "lagt_til": "2026-11-13T05:48:03Z",
+      "betalingsmur": true,
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": "",
+      "fra_tips": false,
+      "relaterte": [
+        {
+          "kjelde": "Luster kommune",
+          "url": "https://www.luster.kommune.no/nyheiter/kommunestyremote.13559.aspx"
+        }
+      ],
+      "bilete": "https://vcdn.polarismedia.no/4e56c13e-ed92-35ce-b868-909ec5a023cd?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Inger Helgestad / Porten",
+      "publisert": null,
+      "id": "2026-11-13-luster-kommunestyre-sognekraft",
+      "tittel": "Luster kommunestyre gjorde vedtak i tråd med ønsket til Sognekraft-sjefen",
+      "samandrag": "Porten melder at vedtaket i kommunestyret i Luster torsdag gjekk Terje Bakke Nævdal sin veg, og at han kallar prosessen omfattande, men god. Nævdal er dagleg leiar i Sognekraft. Kva vedtaket gjaldt, går ikkje fram av det som er ope.",
+      "kvifor": "Sognekraft står bak datasenterplanane i Gaupne, og ordføraren har vist til kommunestyremøtet 12. november for reguleringsplanen – saka kan vere avgjerande for prosjektet.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/ez8WXy/vedtaket-gjekk-terje-sin-veg-ein-omfattande-men-god-prosess",
+      "tema": [
+        "Energi og kraft",
+        "Politikk og rammevilkår",
+        "Næringsliv og industri"
+      ],
+      "omrade": [
+        "Luster"
+      ],
+      "type": "Politikk og vedtak",
+      "prioritet": 2,
+      "grunnlag": "tittel"
+    },
+    {
+      "utgave": "2026-11-13",
+      "lagt_til": "2026-11-13T05:48:03Z",
+      "betalingsmur": true,
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": "",
+      "fra_tips": false,
+      "relaterte": [
+        {
+          "kjelde": "Porten",
+          "url": "https://www.porten.no/nyheiter/n/g37P9a/ordfoeraren-om-fjordalg-haapar-dette-foerer-til-fleire-arbeidsplassar"
+        }
+      ],
+      "bilete": "https://vcdn.polarismedia.no/00eaf32a-ea74-3889-b160-04eed1d25ab4?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Lasse Styve Andersen / Porten",
+      "publisert": "2026-11-13",
+      "id": "2026-11-13-fjordalg-industripilot-ardal",
+      "tittel": "FjordAlg har fått industripiloten i drift i Øvre Årdal",
+      "samandrag": "Algeselskapet FjordAlg i Teknologiparken i Øvre Årdal har etter fleire års utvikling fått den nye industripiloten i drift, eit steg mot større produksjon i Årdal. Ordføraren gratulerte selskapet under Teknologiveka og håpar det fører til fleire arbeidsplassar.",
+      "kvifor": "Ei ny industrietablering i Årdal utanom Hydro er eit døme på grøn omstilling og gründerkraft som kan gi nye arbeidsplassar i regionen.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/2vGn0v/fjordalg-har-naadd-ein-milepaale-no-er-industripiloten-i-drift",
+      "tema": [
+        "Gründer og innovasjon",
+        "Næringsliv og industri",
+        "Mat, drikke og landbruk"
+      ],
+      "omrade": [
+        "Årdal"
+      ],
+      "type": "Nyheit",
+      "prioritet": 2,
+      "grunnlag": "ingress"
+    },
+    {
+      "utgave": "2026-11-13",
+      "lagt_til": "2026-11-13T05:48:03Z",
+      "betalingsmur": false,
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": "",
+      "fra_tips": false,
+      "relaterte": [
+        {
+          "kjelde": "Sogn og Fjordane Næringsråd (høyringsuttale)",
+          "url": "https://www.statsforvalteren.no/siteassets/vestland/miljo/hoyringsinnspel-sognefjorden/sogn-og-fjordane-naringsrad---hoyringsuttale-til-marin-verneplan-for-sognefjorden.pdf"
+        }
+      ],
+      "bilete": null,
+      "bilete_kreditering": "",
+      "publisert": null,
+      "id": "2026-11-13-marint-vern-hoyringsinnspel",
+      "tittel": "Om lag 200 høyringsinnspel om marint vern av Sognefjorden er no publiserte",
+      "samandrag": "Statsforvaltaren har lagt ut høyringsinnspela til forslaget om marint vern av Sognefjorden. Mellom dei som har svart er Aurland, Vik og Sogndal kommune, Vestland fylkeskommune, NHO Vestland, Norsk Industri, Sjømat Norge og Vestland Bondelag. Sogn og Fjordane Næringsråd seier nei til verneplanen og vil heller ha ein heilskapleg tiltaksplan.",
+      "kvifor": "Innspela viser kor næringslivet og kommunane i Sogn står før Statsforvaltaren gjer sitt vidare arbeid med vernegrensene.",
+      "kjelde": "Statsforvaltaren i Vestland",
+      "url": "https://www.statsforvalteren.no/vestland/hoyringar/2026/11/forslag-om-marint-vern-av-sognefjorden/",
+      "tema": [
+        "Natur, klima og fjord",
+        "Politikk og rammevilkår"
+      ],
+      "omrade": [
+        "Sogn",
+        "Vestland"
+      ],
+      "type": "Høyring",
+      "prioritet": 2,
+      "grunnlag": "ingress"
+    },
+    {
+      "utgave": "2026-11-13",
+      "lagt_til": "2026-11-13T05:48:03Z",
+      "betalingsmur": false,
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": "",
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": null,
+      "bilete_kreditering": "",
+      "publisert": "2026-11-12",
+      "id": "2026-11-13-lyngen-besoksbidrag",
+      "tittel": "Lyngen fekk godkjent besøksbidrag – kan krevje avgift frå 1. januar 2027",
+      "samandrag": "Regjeringa har godkjent planen til Lyngen kommune for besøksbidrag. Kommunar med særleg stor belastning frå reiselivet som får planen godkjend, kan tidlegast krevje inn overnattingsavgift frå 1. januar 2027.",
+      "kvifor": "Godkjenninga viser korleis ordninga blir praktisert, noko som er relevant for Aurland, Flåm og andre reiselivskommunar i Sogn som vurderer besøksbidrag.",
+      "kjelde": "Regjeringa",
+      "url": "https://www.regjeringen.no/no/aktuelt/lyngen-kommune-far-innfore-besoksbidrag/id3192507/",
+      "tema": [
+        "Reiseliv",
+        "Politikk og rammevilkår"
+      ],
+      "omrade": [
+        "Nasjonalt",
+        "Aurland"
+      ],
+      "type": "Politikk og vedtak",
+      "prioritet": 3,
+      "grunnlag": "ingress"
+    },
+    {
       "utgave": "2026-11-12",
       "lagt_til": "2026-11-12T05:46:55Z",
       "betalingsmur": true,
