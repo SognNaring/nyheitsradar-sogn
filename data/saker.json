@@ -1,6 +1,215 @@
 {
   "saker": [
     {
+      "id": "2026-11-16-luster-marint-vern-splittar",
+      "tittel": "Marint vern av Sognefjorden splittar politikarane i Luster",
+      "samandrag": "Porten melder at spørsmålet om marint vern delte politikarane då Luster kommunestyre røysta over høyringsuttalen kommunen sender om vernet av Sognefjorden. Saka er bak betalingsmur, og berre overskrift og bilettekst er lesne.",
+      "kvifor": "Fråsegna frå Luster er ein del av grunnlaget for korleis vernet kan påverke havbruk, kaiar, cruise og anna næring i indre del av fjorden.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/Xog6LE/vern-splittar-politikarane",
+      "publisert": null,
+      "utgave": "2026-11-16",
+      "lagt_til": "2026-11-16T05:46:56Z",
+      "tema": [
+        "Natur, klima og fjord",
+        "Politikk og rammevilkår"
+      ],
+      "omrade": [
+        "Luster",
+        "Sogn"
+      ],
+      "type": "Politikk og vedtak",
+      "prioritet": 2,
+      "betalingsmur": true,
+      "grunnlag": "tittel",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [
+        {
+          "kjelde": "Statsforvaltaren i Vestland: høyringa",
+          "url": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2026/11/forslag-om-marint-vern-av-sognefjorden/"
+        }
+      ],
+      "bilete": "https://vcdn.polarismedia.no/134a9480-759d-33c9-b2ce-e4ebe04bc333?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Inger Helgestad / Porten"
+    },
+    {
+      "id": "2026-11-16-skjolden-kommunen-pa-etterskot",
+      "tittel": "Kritikk av Luster kommune: – Hastar å ta styringa i Skjolden",
+      "samandrag": "Porten har ei sak der nokon meiner Luster kommune er på etterskot og at det hastar å ta styringa. Biletet viser Skjolden. Saka er bak betalingsmur, og berre overskrift og bilettekst er lesne.",
+      "kvifor": "Skjolden er cruisehamn og reiselivsbygd, så spørsmål om kommunal styring der kan rø ved reiselivet og vidare utvikling i indre Luster.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/4Edylo/meiner-kommunen-er-paa-etterskot-hastar-aa-ta-styringa",
+      "publisert": null,
+      "utgave": "2026-11-16",
+      "lagt_til": "2026-11-16T05:46:56Z",
+      "tema": [
+        "Politikk og rammevilkår",
+        "Reiseliv"
+      ],
+      "omrade": [
+        "Luster"
+      ],
+      "type": "Debatt",
+      "prioritet": 2,
+      "betalingsmur": true,
+      "grunnlag": "tittel",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": "https://vcdn.polarismedia.no/40300239-b5cf-36a5-9f07-73bafb2b86ed?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Inger Helgestad / Porten"
+    },
+    {
+      "id": "2026-11-16-naeringsloggen-ardal-dagleg-leiar",
+      "tittel": "Næringsloggen: To selskap i Årdal står utan dagleg leiar",
+      "samandrag": "Porten sin næringslogg melder at to Årdal-selskap står utan dagleg leiar. Ifølgje biletteksten gjeld det mellom anna Utladalen Camping AS. Saka er bak betalingsmur, og berre overskrift og bilettekst er lesne.",
+      "kvifor": "Leiarskifte i små reiselivsbedrifter kan vere aktuelt for oppfølging og rettleiing frå næringsapparatet.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/Jn10qj/to-aardal-selskap-staar-utan-dagleg-leiar-sjaa-resten-av-naeringsloggen",
+      "publisert": null,
+      "utgave": "2026-11-16",
+      "lagt_til": "2026-11-16T05:46:56Z",
+      "tema": [
+        "Næringsliv og industri",
+        "Reiseliv"
+      ],
+      "omrade": [
+        "Årdal"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "betalingsmur": true,
+      "grunnlag": "tittel",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": "https://vcdn.polarismedia.no/78394bf4-3ac8-3512-b935-74f79baaf06a?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Lasse Styve Andersen / Porten"
+    },
+    {
+      "id": "2026-11-16-hydro-jenter-industri",
+      "tittel": "Elevar fekk innblikk i industrien ved Hydro Årdal",
+      "samandrag": "Ei gruppe unge jenter fekk denne veka sjå kva som skjer inne på Hydro i Årdal, og Porten skriv at dei fekk auga opp for industri. Saka er bak betalingsmur, og berre overskrift og bilettekst er lesne.",
+      "kvifor": "Rekruttering av unge, og særleg jenter, til industrien er avgjerande for Hydro Årdal og leverandørane rundt verket.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/LoA0Lx/fekk-auga-opp-for-industri",
+      "publisert": null,
+      "utgave": "2026-11-16",
+      "lagt_til": "2026-11-16T05:46:56Z",
+      "tema": [
+        "Kompetanse og arbeidsliv",
+        "Næringsliv og industri"
+      ],
+      "omrade": [
+        "Årdal"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "betalingsmur": true,
+      "grunnlag": "tittel",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": "https://vcdn.polarismedia.no/70c2f07c-bfa0-32fa-9141-73932c0f0ff6?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Lasse Styve Andersen / Porten"
+    },
+    {
+      "id": "2026-11-16-moteplassen-kafe-opna",
+      "tittel": "Ny kafé, Møteplassen, opna før planen med fullt hus",
+      "samandrag": "Tommy Kristiansen opna kafeen Møteplassen onsdag, tidlegare enn planlagt, og melder om fullt hus første dagen, skriv Porten. Saka er bak betalingsmur, og berre overskrift og bilettekst er lesne.",
+      "kvifor": "Nye serveringsstader styrkjer tilbodet i bygdene og kan vere aktuelle for gründeroppfølging.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/WmbllG/vi-skal-gi-konkurrentane-ein-real-fight",
+      "publisert": null,
+      "utgave": "2026-11-16",
+      "lagt_til": "2026-11-16T05:46:56Z",
+      "tema": [
+        "Gründer og innovasjon",
+        "Mat, drikke og landbruk"
+      ],
+      "omrade": [
+        "Sogn"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "betalingsmur": true,
+      "grunnlag": "tittel",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": "https://vcdn.polarismedia.no/5f836345-50a7-3655-8b95-6de5630768ad?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Karoline Guldbæk / Porten"
+    },
+    {
+      "id": "2026-11-16-black-week-handel",
+      "tittel": "Lokale butikkar: Kundane ventar på Black Week",
+      "samandrag": "Porten skriv at kundane held att handelen fram mot Black Week. Saka er bak betalingsmur, og berre overskrifta er lesen.",
+      "kvifor": "Handelsnæringa i Sogn er sårbar når kundane ventar på nettkampanjar, og jule- og novemberhandelen er viktig for omsetninga.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/eG9xWl/kundane-venter-til-black-week",
+      "publisert": null,
+      "utgave": "2026-11-16",
+      "lagt_til": "2026-11-16T05:46:56Z",
+      "tema": [
+        "Næringsliv og industri"
+      ],
+      "omrade": [
+        "Sogn"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "betalingsmur": true,
+      "grunnlag": "tittel",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": "https://vcdn.polarismedia.no/b1612f2f-9be5-36a8-a5f0-a237620b8984?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Porten"
+    },
+    {
+      "id": "2026-11-16-sognating-for-ungdom",
+      "tittel": "Lærdal Høgre vil ha eit eige Sognating for ungdommen",
+      "samandrag": "Frøydis Helland i Lærdal Høgre vil ha eit eige Sognating for ungdom, skriv Porten. Saka er bak betalingsmur, og berre overskrift og bilettekst er lesne.",
+      "kvifor": "Å involvere unge i regionale møteplassar heng saman med arbeidet for å gjere Sogn attraktivt for unge å bli i eller flytte heim til.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/2v12Jl/vil-ha-eige-sognating-for-ungdommen",
+      "publisert": null,
+      "utgave": "2026-11-16",
+      "lagt_til": "2026-11-16T05:46:56Z",
+      "tema": [
+        "Politikk og rammevilkår",
+        "Kompetanse og arbeidsliv"
+      ],
+      "omrade": [
+        "Lærdal",
+        "Sogn"
+      ],
+      "type": "Debatt",
+      "prioritet": 3,
+      "betalingsmur": true,
+      "grunnlag": "tittel",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": "https://vcdn.polarismedia.no/163a34ab-2d7a-365b-9ee8-47a10ab734d8?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Inger Helgestad / Porten"
+    },
+    {
       "utgave": "2026-11-13",
       "lagt_til": "2026-11-13T05:48:03Z",
       "betalingsmur": false,
@@ -186,6 +395,14 @@
         {
           "kjelde": "Sogn Avis (berre overskrift)",
           "url": "https://www.sognavis.no/mandag-startar-nattestenginga-av-lardalstunnelen-utfordrande/s/80-115-36304"
+        },
+        {
+          "kjelde": "Statens vegvesen: Måndag startar nattestenginga",
+          "url": "https://www.vegvesen.no/nn/vegprosjekt/prosjekt/e16lardalstunnelen/nyheitsarkiv/mandag-startar-nattestenginga-av-lardalstunnelen/"
+        },
+        {
+          "kjelde": "TV 2: Reiselivet i Aurland fryktar konsekvensane",
+          "url": "https://www.tv2.no/nyheter/stenger-verdens-lengste-tunnel-pa-natten-blir-utfordrende/19417357/"
         }
       ],
       "bilete": "https://vcdn.polarismedia.no/f1171181-8f74-38b1-b586-12ae268b4ea4?fit=crop&q=80&tight=false&w=1200&h=675",
@@ -468,7 +685,12 @@
       "frist": null,
       "frist_tekst": null,
       "fra_tips": false,
-      "relaterte": [],
+      "relaterte": [
+        {
+          "kjelde": "Porten: Robotane er ikkje langt unna",
+          "url": "https://www.porten.no/nyheiter/n/EbWo5P/robotane-er-ikkje-langt-unna-me-maa-berre-bli-vant-med-dei"
+        }
+      ],
       "bilete": "https://vcdn.polarismedia.no/cf8c747d-7bdd-3cf5-823e-96e1f4337759?fit=crop&q=80&tight=false&w=1200&h=675",
       "bilete_kreditering": "Lasse Styve Andersen / Porten",
       "id": "2026-11-11-fagveke-ardal-robotar-kraft",

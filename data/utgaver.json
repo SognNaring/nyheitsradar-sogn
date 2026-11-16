@@ -418,6 +418,35 @@
       ],
       "tal_nye": 5,
       "laga": "2026-11-13T05:48:03Z"
+    },
+    {
+      "dato": "2026-11-16",
+      "nr": 16,
+      "merknad": "Måndagsutgåva dekkjer helga. I kveld startar nattestenginga av Lærdalstunnelen.",
+      "viktigast": [
+        {
+          "sak": "2026-11-12-laerdalstunnelen-ko-for-stenging",
+          "tekst": "Lærdalstunnelen er stengd kl. 18–06 frå i kveld – reiselivet i Aurland fryktar tapte inntekter."
+        },
+        {
+          "sak": "2026-11-13-tunnelbuss-laerdal-aurland",
+          "tekst": "Tunnelbussen Lærdal–Aurland startar i dag og må bestillast innan kl. 14."
+        },
+        {
+          "sak": "2026-11-10-laerdal-hoyring-datasenter-habakken",
+          "tekst": "Høyringsfristen for datasenter-reguleringa i Lærdal går ut i dag."
+        },
+        {
+          "sak": "2026-11-16-luster-marint-vern-splittar",
+          "tekst": "Marint vern av Sognefjorden delte politikarane i Luster kommunestyre."
+        },
+        {
+          "sak": "2026-11-11-gron-region-vestland-storsamling",
+          "tekst": "Storsamlinga for Grøn region Vestland er i morgon, tysdag 17. november."
+        }
+      ],
+      "tal_nye": 7,
+      "laga": "2026-11-16T05:46:56Z"
     }
   ]
 }
