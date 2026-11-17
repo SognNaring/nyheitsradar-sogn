@@ -1,6 +1,139 @@
 {
   "saker": [
     {
+      "publisert": "2026-11-16",
+      "utgave": "2026-11-17",
+      "lagt_til": "2026-11-17T05:45:45Z",
+      "betalingsmur": false,
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [
+        {
+          "kjelde": "NRK (berre overskrift): No er verdas lengste vegtunnel stengd for natta",
+          "url": "https://www.nrk.no/artikkel/no-er-verdas-lengste-vegtunnel-stengd-for-natta-1532962"
+        },
+        {
+          "kjelde": "NRK (berre overskrift): No stenger Noregs lengste biltunnel",
+          "url": "https://www.nrk.no/artikkel/no-stenger-noregs-lengste-biltunnel-dette-betyr-det-for-deg-1532579"
+        },
+        {
+          "kjelde": "Porten: – Me forstår at stengingane blir utfordrande",
+          "url": "https://porten.no/nyheiter/n/mMR53E/me-forstaar-at-stengingane-blir-utfordrande"
+        },
+        {
+          "kjelde": "Statens vegvesen",
+          "url": "https://www.vegvesen.no/nn/vegprosjekt/prosjekt/e16lardalstunnelen/"
+        }
+      ],
+      "bilete": "https://vcdn.polarismedia.no/b78f106c-ca88-3483-86fb-bac55c726f64?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Karoline Guldbæk / Porten",
+      "id": "2026-11-17-laerdalstunnelen-nattestenging-i-gang",
+      "tittel": "Nattestenginga av Lærdalstunnelen er i gang – stengt kl. 18–06 til hausten 2029",
+      "samandrag": "Frå måndag kveld 16. november er Lærdalstunnelen stengd kvar kveld og natt kl. 18–06, unntatt natt til søndag. Porten har samla opningstider, bussavgangar og omkøyringsvegar. Ifølgje NRK har transportfirma lagt om ruter via Hallingdal og Hardangervidda, legevakta i Aurland er flytta til Voss, og heile oppgraderinga skal vere ferdig hausten 2029.",
+      "kvifor": "Stenginga endrar transport, pendling, leveransar og reiseliv mellom Sogn og Austlandet i lang tid, og bedriftene treng å planleggje etter dei nye tidene.",
+      "kjelde": "Porten",
+      "url": "https://porten.no/nyheiter/n/JnonnX/no-stengjer-laerdalstunnelen-her-er-tidene-du-maa-kjenna-til",
+      "tema": [
+        "Samferdsel og infrastruktur",
+        "Næringsliv og industri"
+      ],
+      "omrade": [
+        "Lærdal",
+        "Aurland",
+        "Sogn"
+      ],
+      "type": "Nyheit",
+      "prioritet": 1,
+      "grunnlag": "heil sak"
+    },
+    {
+      "publisert": "2026-11-16",
+      "utgave": "2026-11-17",
+      "lagt_til": "2026-11-17T05:45:45Z",
+      "betalingsmur": false,
+      "nemner_sn": false,
+      "frist": "2026-12-01",
+      "frist_tekst": "Høyringsfrist budsjett Vik",
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": null,
+      "bilete_kreditering": null,
+      "id": "2026-11-17-vik-budsjett-2027-hoyring",
+      "tittel": "Vik legg budsjett for 2027 og økonomiplan fram til 2030 ut på høyring",
+      "samandrag": "Vik kommune har sendt framlegget til budsjett 2027 og økonomiplan 2027–2030 på offentleg høyring. Innspel må sendast innan 1. desember, og kommunestyret handsamar saka 17. desember.",
+      "kvifor": "Budsjettet set rammene for kommunale tenester, næringsarbeid og tilskot i Vik dei neste åra, og næringslivet kan kome med innspel før vedtaket.",
+      "kjelde": "Vik kommune",
+      "url": "https://www.vik.kommune.no/aktuelt/offentleg-hoyring-budsjett-2027-og-okonomiplan-2027-2030.6882.aspx",
+      "tema": [
+        "Politikk og rammevilkår"
+      ],
+      "omrade": [
+        "Vik"
+      ],
+      "type": "Høyring",
+      "prioritet": 2,
+      "grunnlag": "heil sak"
+    },
+    {
+      "publisert": null,
+      "utgave": "2026-11-17",
+      "lagt_til": "2026-11-17T05:45:45Z",
+      "betalingsmur": true,
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": "https://vcdn.polarismedia.no/b6b482f6-416b-33d7-b4fc-e94eed2a1e7f?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Lasse Styve Andersen / Porten",
+      "id": "2026-11-17-butikkar-tjuveriraid-atvaring",
+      "tittel": "Butikkar i Sogn blir åtvara etter tjuveriraid andre stader",
+      "samandrag": "Porten melder at butikkar blir åtvara etter ein serie tjuveri, og at tjuvane kan kome vestover. Resten av saka er bak betalingsmur.",
+      "kvifor": "Handelsbedrifter i regionen kan ha nytte av å vere merksame på tjuveri i julehandelen.",
+      "kjelde": "Porten",
+      "url": "https://porten.no/nyheiter/n/EbWlAG/aatvarar-butikkane-etter-tjuveriraid-dei-kan-kome-vestover",
+      "tema": [
+        "Næringsliv og industri"
+      ],
+      "omrade": [
+        "Sogn"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "grunnlag": "tittel"
+    },
+    {
+      "publisert": null,
+      "utgave": "2026-11-17",
+      "lagt_til": "2026-11-17T05:45:45Z",
+      "betalingsmur": true,
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": "https://vcdn.polarismedia.no/eac1a770-286d-33ca-b7b9-d1a9e9ddec28?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Lasse Styve Andersen / Porten",
+      "id": "2026-11-17-teknologiveka-helse-ny-tenking",
+      "tittel": "Kommunalsjef fekk nye idear om helseteknologi på Teknologiveka",
+      "samandrag": "Porten skriv at kommunalsjef Marita Opheim fekk nye tankar om helse og teknologi under Teknologiveka. Resten av saka er bak betalingsmur.",
+      "kvifor": "Teknologiveka viser korleis offentleg sektor i Sogn tek i bruk ny teknologi, noko som kan opne marknader for lokale leverandørar.",
+      "kjelde": "Porten",
+      "url": "https://porten.no/nyheiter/n/Xogwng/dette-fekk-helsesjefen-til-aa-tenkja-nytt",
+      "tema": [
+        "Gründer og innovasjon",
+        "Kompetanse og arbeidsliv"
+      ],
+      "omrade": [
+        "Årdal"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "grunnlag": "tittel"
+    },
+    {
       "id": "2026-11-16-luster-marint-vern-splittar",
       "tittel": "Marint vern av Sognefjorden splittar politikarane i Luster",
       "samandrag": "Porten melder at spørsmålet om marint vern delte politikarane då Luster kommunestyre røysta over høyringsuttalen kommunen sender om vernet av Sognefjorden. Saka er bak betalingsmur, og berre overskrift og bilettekst er lesne.",

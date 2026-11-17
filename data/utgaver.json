@@ -447,6 +447,35 @@
       ],
       "tal_nye": 7,
       "laga": "2026-11-16T05:46:56Z"
+    },
+    {
+      "dato": "2026-11-17",
+      "nr": 17,
+      "merknad": "Roleg døgn med få nye næringssaker; nattestenginga av Lærdalstunnelen er no i gang.",
+      "viktigast": [
+        {
+          "sak": "2026-11-17-laerdalstunnelen-nattestenging-i-gang",
+          "tekst": "Lærdalstunnelen er no stengd kvar kveld og natt kl. 18–06 – transport og reiseliv må leggje om."
+        },
+        {
+          "sak": "2026-10-23-nyskapingsfondet",
+          "tekst": "Søknadsfristen til Nyskapingsfondet er 22. november."
+        },
+        {
+          "sak": "2026-11-03-hydro-investor-day",
+          "tekst": "Hydro held Investor Day i London 25. november."
+        },
+        {
+          "sak": "2026-11-17-vik-budsjett-2027-hoyring",
+          "tekst": "Vik-budsjettet for 2027 er på høyring med frist 1. desember."
+        },
+        {
+          "sak": "2026-10-23-kpv-studietur",
+          "tekst": "Studietur om rekruttering med Kunnskapsparken Vestland er 18. november."
+        }
+      ],
+      "tal_nye": 4,
+      "laga": "2026-11-17T05:45:45Z"
     }
   ]
 }
