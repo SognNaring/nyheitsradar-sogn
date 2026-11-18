@@ -476,6 +476,35 @@
       ],
       "tal_nye": 4,
       "laga": "2026-11-17T05:45:45Z"
+    },
+    {
+      "dato": "2026-11-18",
+      "nr": 18,
+      "merknad": "Roleg døgn: få nye næringssaker, men Lærdalstunnelen og beredskapen pregar framleis nyheitsbiletet.",
+      "viktigast": [
+        {
+          "sak": "2026-11-18-laerdalstunnelen-statsrad-beredskap",
+          "tekst": "Samferdselsministeren har svart på kritikken om beredskap under nattestenginga av Lærdalstunnelen."
+        },
+        {
+          "sak": "2026-10-23-nyskapingsfondet",
+          "tekst": "Søknadsfristen til Nyskapingsfondet er sundag 22. november."
+        },
+        {
+          "sak": "2026-11-03-hydro-investor-day",
+          "tekst": "Hydro held Investor Day i London 25. november."
+        },
+        {
+          "sak": "2026-11-17-vik-budsjett-2027-hoyring",
+          "tekst": "Vik-budsjettet for 2027 er på høyring med frist 1. desember."
+        },
+        {
+          "sak": "2026-11-18-hydro-ntnu-tre-professorat",
+          "tekst": "Hydro finansierer tre professorat ved NTNU, mellom anna innan elektrolyse og utsleppskutt."
+        }
+      ],
+      "tal_nye": 4,
+      "laga": "2026-11-18T05:45:42Z"
     }
   ]
 }

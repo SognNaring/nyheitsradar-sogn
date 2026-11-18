@@ -1,6 +1,126 @@
 {
   "saker": [
     {
+      "id": "2026-11-18-laerdalstunnelen-statsrad-beredskap",
+      "tittel": "Samferdselsministeren har svart på kritikken om beredskap under nattestenginga av Lærdalstunnelen",
+      "samandrag": "Lærdalstunnelen vart stengd for første gong måndag kveld. Samferdselsministeren har no måtta svare for korleis beredskapen skal takast vare på i periodane tunnelen er stengd. Saka er bak betalingsmur.",
+      "kvifor": "Beredskap og omkøyring under stenginga påverkar transport, pendling og reiseliv mellom Sogn og Austlandet i fleire år framover.",
+      "kjelde": "Porten",
+      "url": "https://porten.no/nyheiter/n/6PjlAe/stilte-statsraaden-til-veggs-no-har-ho-faatt-svar",
+      "publisert": null,
+      "utgave": "2026-11-18",
+      "lagt_til": "2026-11-18T05:45:42Z",
+      "tema": [
+        "Samferdsel og infrastruktur",
+        "Politikk og rammevilkår"
+      ],
+      "omrade": [
+        "Lærdal",
+        "Aurland",
+        "Sogn"
+      ],
+      "type": "Politikk og vedtak",
+      "prioritet": 2,
+      "betalingsmur": true,
+      "grunnlag": "ingress",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": "https://vcdn.polarismedia.no/04e1b6ec-b499-3712-9b60-1a0b9a631b7f?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Karoline Guldbæk / Porten"
+    },
+    {
+      "id": "2026-11-18-sogndal-vgs-endrar-skuletilbod",
+      "tittel": "Endringar i tilbodet ved Sogndal vidaregåande skule",
+      "samandrag": "Porten melder at det blir gjort fleire endringar i skuletilbodet. Saka er illustrert med dei nye lokala for helse- og oppvekstfaga ved Sogndal vidaregåande skule. Berre overskrift og biletetekst er lesne.",
+      "kvifor": "Kva fag som blir tilbodne i Sogn, styrer kva fagfolk regionen kan rekruttere lokalt.",
+      "kjelde": "Porten",
+      "url": "https://porten.no/nyheiter/n/xJPev8/gjer-fleire-endringar-i-skuletilbodet",
+      "publisert": null,
+      "utgave": "2026-11-18",
+      "lagt_til": "2026-11-18T05:45:42Z",
+      "tema": [
+        "Kompetanse og arbeidsliv"
+      ],
+      "omrade": [
+        "Sogndal",
+        "Sogn"
+      ],
+      "type": "Politikk og vedtak",
+      "prioritet": 3,
+      "betalingsmur": true,
+      "grunnlag": "tittel",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": "https://vcdn.polarismedia.no/b46a048c-6a54-3f8e-af79-6d4a4d655153?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Lasse Styve Andersen / Porten"
+    },
+    {
+      "id": "2026-11-18-hydro-ntnu-tre-professorat",
+      "tittel": "Hydro finansierer tre nye professorat ved NTNU – mellom anna innan elektrolyse og utsleppskutt",
+      "samandrag": "Hydro gir om lag 25 millionar kroner til tre professorat ved NTNU: produkt- og produksjonsteknikk frå august 2027, legeringsutvikling frå 2028 og elektrolyseteknologi og utsleppskutt frå 2030. NTNU opprettar òg ei doktorgradsstilling knytt til kvart professorat.",
+      "kvifor": "Satsinga på elektrolyse og utsleppsfri aluminium er kompetanse som til slutt avgjer framtida for verk som Hydro Årdal.",
+      "kjelde": "Hydro",
+      "url": "https://www.hydro.com/en/global/media/news/2026/hydro-and-ntnu-strengthen-technology-and-research-collaboration-with-three-professorships/",
+      "publisert": "2026-11-17",
+      "utgave": "2026-11-18",
+      "lagt_til": "2026-11-18T05:45:42Z",
+      "tema": [
+        "Næringsliv og industri",
+        "Kompetanse og arbeidsliv",
+        "Gründer og innovasjon"
+      ],
+      "omrade": [
+        "Nasjonalt",
+        "Årdal"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "betalingsmur": false,
+      "grunnlag": "heil sak",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": "https://www.hydro.com/globalassets/07-media/news/2026/11-november/ntnu-grande-hydro-kallevik.jpg",
+      "bilete_kreditering": "Aleksander Båtnes / NTNU"
+    },
+    {
+      "id": "2026-11-18-sogn-u40-pris-tilbake",
+      "tittel": "Berre overskrift: Sogn U40 deler ut regionprisen sin igjen etter eitt års pause",
+      "samandrag": "Berre overskrift (Sogn Avis): Etter eitt års pause er prisen tilbake, og arrangøren vil hylle nokon i regionen.",
+      "kvifor": "Prisar for unge i regionen er ein del av arbeidet med å gjere Sogn attraktivt for unge arbeidstakarar.",
+      "kjelde": "Sogn Avis",
+      "url": "https://sognavis.no/etter-eitt-ars-pause-er-prisen-tilbake-me-vil-hylla-nokon-i-regionen/s/80-115-36907",
+      "publisert": null,
+      "utgave": "2026-11-18",
+      "lagt_til": "2026-11-18T05:45:42Z",
+      "tema": [
+        "Kompetanse og arbeidsliv",
+        "Kultur og arrangement"
+      ],
+      "omrade": [
+        "Sogn"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "betalingsmur": true,
+      "grunnlag": "tittel",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": null,
+      "bilete_kreditering": null
+    },
+    {
       "publisert": "2026-11-16",
       "utgave": "2026-11-17",
       "lagt_til": "2026-11-17T05:45:45Z",
@@ -25,6 +145,10 @@
         {
           "kjelde": "Statens vegvesen",
           "url": "https://www.vegvesen.no/nn/vegprosjekt/prosjekt/e16lardalstunnelen/"
+        },
+        {
+          "kjelde": "Porten",
+          "url": "https://porten.no/nyheiter/i/BrRy59/dei-har-ein-toeff-jobb-aa-gjere"
         }
       ],
       "bilete": "https://vcdn.polarismedia.no/b78f106c-ca88-3483-86fb-bac55c726f64?fit=crop&q=80&tight=false&w=1200&h=675",
