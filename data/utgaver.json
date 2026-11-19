@@ -505,6 +505,35 @@
       ],
       "tal_nye": 4,
       "laga": "2026-11-18T05:45:42Z"
+    },
+    {
+      "dato": "2026-11-19",
+      "nr": 19,
+      "merknad": "Roleg døgn i media; datasentervedtaket i Luster er den største næringssaka.",
+      "viktigast": [
+        {
+          "sak": "2026-11-19-luster-opna-for-datasenter",
+          "tekst": "Luster kommunestyre har opna for datasenter i Gaupne etter lang diskusjon."
+        },
+        {
+          "sak": "2026-11-19-statnett-riv-fjordspenn-sleipi-fronningen",
+          "tekst": "Statnett riv fjordspennet Sleipi–Frønningen 23. nov.–4. des., med korte stengingar av Sognefjorden."
+        },
+        {
+          "sak": "2026-10-23-nyskapingsfondet",
+          "tekst": "Søknadsfristen til Nyskapingsfondet er sundag 22. november."
+        },
+        {
+          "sak": "2026-11-03-hydro-investor-day",
+          "tekst": "Hydro held Investor Day i London 25. november."
+        },
+        {
+          "sak": "2026-11-17-vik-budsjett-2027-hoyring",
+          "tekst": "Vik-budsjettet for 2027 er på høyring med frist 1. desember."
+        }
+      ],
+      "tal_nye": 5,
+      "laga": "2026-11-19T05:46:00Z"
     }
   ]
 }

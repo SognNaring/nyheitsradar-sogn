@@ -1,6 +1,156 @@
 {
   "saker": [
     {
+      "id": "2026-11-19-luster-opna-for-datasenter",
+      "utgave": "2026-11-19",
+      "lagt_til": "2026-11-19T05:46:00Z",
+      "betalingsmur": true,
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [
+        {
+          "kjelde": "Sogn Avis",
+          "url": "https://www.sognavis.no/vil-sikra-kommunen-kontroll-pa-kven-som-etablerer-datasenter/s/80-115-32803"
+        }
+      ],
+      "bilete": "https://vcdn.polarismedia.no/9e139638-1feb-3467-9204-1cdacfa0dcc3?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Inger Helgestad / Porten",
+      "publisert": null,
+      "kvifor": "Vedtaket flyttar datasenterplanane i Gaupne eitt steg vidare og påverkar kraftbruk, arbeidsplassar og næringsareal i Luster.",
+      "tittel": "Luster kommunestyre opna for datasenter i Gaupne – men semja kom ikkje lett",
+      "samandrag": "Kommunestyret i Luster har opna for datasenter, men ifølgje Porten tok det tid før politikarane vart samde. Ordførar Andreas Wiese (Sp) leidde handsaminga i kommunestyret torsdag. Saka er bak betalingsmur.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/7P0pK9/opna-for-datasenter-men-det-tok-tid-aa-bli-samde",
+      "tema": [
+        "Næringsliv og industri",
+        "Energi og kraft",
+        "Politikk og rammevilkår"
+      ],
+      "omrade": [
+        "Luster"
+      ],
+      "type": "Politikk og vedtak",
+      "prioritet": 1,
+      "grunnlag": "tittel"
+    },
+    {
+      "id": "2026-11-19-statnett-riv-fjordspenn-sleipi-fronningen",
+      "utgave": "2026-11-19",
+      "lagt_til": "2026-11-19T05:46:00Z",
+      "betalingsmur": false,
+      "nemner_sn": false,
+      "frist": "2026-11-23",
+      "frist_tekst": "Fjordstenging frå 23. nov.",
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": null,
+      "bilete_kreditering": null,
+      "publisert": "2026-11-18",
+      "kvifor": "Båttrafikk, ferjer og reiselivsaktørar på fjorden bør planleggje rundt dei korte stengingane i perioden.",
+      "tittel": "Statnett riv fjordspennet Sleipi–Frønningen – Sognefjorden blir stengd i korte periodar",
+      "samandrag": "Statnett skal rive dei gamle kraftlinjene over Sognefjorden mellom Sleipi på Kaupangerhalvøya og Frønningen frå 23. november til 4. desember. Linjene blir sprengde ned i fjorden og spola opp på lekter, og fjorden blir stengd for passering i korte periodar før kvar sprenging.",
+      "kjelde": "Årdal kommune",
+      "url": "https://www.ardal.kommune.no/aktuelt/varsling-om-riving-av-fjordspennliner-sognefjorden.12493.aspx",
+      "tema": [
+        "Samferdsel og infrastruktur",
+        "Energi og kraft"
+      ],
+      "omrade": [
+        "Sogndal",
+        "Sogn"
+      ],
+      "type": "Nyheit",
+      "prioritet": 2,
+      "grunnlag": "heil sak"
+    },
+    {
+      "id": "2026-11-19-laerdal-julemarknad-rekord",
+      "utgave": "2026-11-19",
+      "lagt_til": "2026-11-19T05:46:00Z",
+      "betalingsmur": false,
+      "nemner_sn": false,
+      "frist": "2026-11-20",
+      "frist_tekst": "Julemarknad 20.–22. nov.",
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": "https://laerdal.kommune.no/handlers/bv.ashx/ic883333d-b51b-4975-a159-9d2c69b13bb1/w1200/q1249/k51333ece413a/julemarknaden.png",
+      "bilete_kreditering": "Lærdal kommune",
+      "publisert": "2026-11-18",
+      "kvifor": "Julemarknaden er ein viktig handels- og møteplass for lokale produsentar og handelsnæringa i Lærdal i ei veke då tunnelstenginga pregar trafikken.",
+      "tittel": "Lærdal ventar rekordstor julemarknad med nesten 100 bodar 20.–22. november",
+      "samandrag": "Julemarknadshelga i Lærdal startar fredag 20. november med tenning av juletreet i julegata. Laurdag og sundag er det bodar, kulturinnslag og konsert med Eldar Vågan Trio på Frilund. Kommunen skriv at marknaden blir rekordstor med nesten 100 bodar.",
+      "kjelde": "Lærdal kommune",
+      "url": "https://laerdal.kommune.no/aktuelt/klart-for-julemarknadshelga.6133.aspx",
+      "tema": [
+        "Kultur og arrangement",
+        "Mat, drikke og landbruk"
+      ],
+      "omrade": [
+        "Lærdal"
+      ],
+      "type": "Arrangement",
+      "prioritet": 3,
+      "grunnlag": "heil sak"
+    },
+    {
+      "id": "2026-11-19-laerdal-ny-gratis-teneste-laerdolen",
+      "utgave": "2026-11-19",
+      "lagt_til": "2026-11-19T05:46:00Z",
+      "betalingsmur": true,
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": "https://vcdn.polarismedia.no/ff263692-4ae6-3463-a233-93d241afa007?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Privat / Porten",
+      "publisert": null,
+      "kvifor": "Nye lokale tilbod og initiativ gjer Lærdal meir attraktivt å bu og drive verksemd i.",
+      "tittel": "Ny gratis teneste lansert i Lærdal under namnet «Lærdølen»",
+      "samandrag": "Porten melder om ei ny gratis teneste i Lærdal, «Lærdølen», som Mantas Cepononis står bak. Saka er bak betalingsmur.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/aGw43E/ny-gratis-teneste-til-laerdal-eg-gir-110-prosent",
+      "tema": [
+        "Gründer og innovasjon"
+      ],
+      "omrade": [
+        "Lærdal"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "grunnlag": "tittel"
+    },
+    {
+      "id": "2026-11-19-skattekista-gaupne-opna",
+      "utgave": "2026-11-19",
+      "lagt_til": "2026-11-19T05:46:00Z",
+      "betalingsmur": true,
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": "https://vcdn.polarismedia.no/02ebd3be-782a-3c17-8338-99f1fdd89910?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Inger Helgestad / Porten",
+      "publisert": null,
+      "kvifor": "Nye tilbod og møteplassar i kommunesentera styrkjer attraktiviteten i Luster.",
+      "tittel": "Skattekista i Gaupne har opna dørene",
+      "samandrag": "Skattekista i Gaupne opna tysdag, med Anne-Katrine Algerøy som prosjektleiar. Porten skriv at dei tek imot alle. Saka er bak betalingsmur.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/3BJR3d/no-har-dei-opna-skattekista-me-tek-imot-alle-med-opne-armar",
+      "tema": [
+        "Kultur og arrangement"
+      ],
+      "omrade": [
+        "Luster"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "grunnlag": "tittel"
+    },
+    {
       "id": "2026-11-18-laerdalstunnelen-statsrad-beredskap",
       "tittel": "Samferdselsministeren har svart på kritikken om beredskap under nattestenginga av Lærdalstunnelen",
       "samandrag": "Lærdalstunnelen vart stengd for første gong måndag kveld. Samferdselsministeren har no måtta svare for korleis beredskapen skal takast vare på i periodane tunnelen er stengd. Saka er bak betalingsmur.",
