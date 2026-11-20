@@ -534,6 +534,35 @@
       ],
       "tal_nye": 5,
       "laga": "2026-11-19T05:46:00Z"
+    },
+    {
+      "dato": "2026-11-20",
+      "nr": 20,
+      "merknad": "Roleg døgn med få nye næringssaker; komande fristar og hendingar neste veke er viktigast.",
+      "viktigast": [
+        {
+          "sak": "2026-11-19-statnett-riv-fjordspenn-sleipi-fronningen",
+          "tekst": "Statnett sprengjer ned fjordspennet Kaupanger–Frønningen frå måndag 23. nov.; farleia kan bli stengd i korte periodar."
+        },
+        {
+          "sak": "2026-10-23-nyskapingsfondet",
+          "tekst": "Søknadsfristen til Nyskapingsfondet er sundag 22. november."
+        },
+        {
+          "sak": "2026-11-20-fv55-luster-nytt-steg-ny-veg",
+          "tekst": "Nytt steg mot ny veg på fv. 55 i Luster."
+        },
+        {
+          "sak": "2026-11-03-hydro-investor-day",
+          "tekst": "Hydro held Investor Day i London onsdag 25. november."
+        },
+        {
+          "sak": "2026-11-17-vik-budsjett-2027-hoyring",
+          "tekst": "Høyringsfristen for Vik-budsjettet 2027 er 1. desember."
+        }
+      ],
+      "tal_nye": 3,
+      "laga": "2026-11-20T05:47:00Z"
     }
   ]
 }

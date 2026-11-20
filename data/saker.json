@@ -1,6 +1,93 @@
 {
   "saker": [
     {
+      "utgave": "2026-11-20",
+      "lagt_til": "2026-11-20T05:47:00Z",
+      "betalingsmur": true,
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "publisert": null,
+      "kjelde": "Porten",
+      "grunnlag": "tittel",
+      "id": "2026-11-20-fv55-luster-nytt-steg-ny-veg",
+      "tittel": "Nytt steg mot ny veg på fv. 55 i Luster blir jubla for lokalt",
+      "samandrag": "Porten melder om eit nytt steg mot ny veg, og saka er merkt med fylkesveg 55 i Luster. Det blir kalla ein «kjempeplan». Saka er bak betalingsmur, og detaljane i planen er ikkje lesne.",
+      "kvifor": "Betre fv. 55 langs Lustrafjorden gir betre framkome for næringstrafikk, turistar og pendlarar i Luster.",
+      "url": "https://www.porten.no/nyheiter/n/2vGvpR/jubla-for-nytt-steg-mot-ny-veg-kjempeplan",
+      "tema": [
+        "Samferdsel og infrastruktur"
+      ],
+      "omrade": [
+        "Luster"
+      ],
+      "type": "Nyheit",
+      "prioritet": 2,
+      "bilete": "https://vcdn.polarismedia.no/b7488b07-f642-3db0-8ed8-0495bb5814b4?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Porten"
+    },
+    {
+      "utgave": "2026-11-20",
+      "lagt_til": "2026-11-20T05:47:00Z",
+      "betalingsmur": true,
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "publisert": null,
+      "kjelde": "Porten",
+      "grunnlag": "tittel",
+      "id": "2026-11-20-krypto-kommune-oversikt",
+      "tittel": "Porten har laga oversikt over kva kommunar som har kryptoverksemd",
+      "samandrag": "Porten har publisert ei oversikt over «krypto-kommunar», der lesarane kan sjekke om dei bur i ein kommune med kryptoverksemd. Saka er bak betalingsmur.",
+      "kvifor": "Kryptoutvinning konkurrerer om same kraft og nettkapasitet som industri og datasenter i Sogn, midt i debatten om nye datasenterreglar.",
+      "url": "https://www.porten.no/nyheiter/n/nLabLx/bur-du-i-ein-krypto-kommune-sjekk-oversikta-her",
+      "tema": [
+        "Energi og kraft",
+        "Næringsliv og industri"
+      ],
+      "omrade": [
+        "Sogn",
+        "Nasjonalt"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "bilete": "https://vcdn.polarismedia.no/3a37dd0f-d7cb-349a-aa08-cf77fae5a747?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Porten"
+    },
+    {
+      "utgave": "2026-11-20",
+      "lagt_til": "2026-11-20T05:47:00Z",
+      "betalingsmur": true,
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "publisert": null,
+      "kjelde": "Porten",
+      "grunnlag": "tittel",
+      "id": "2026-11-20-elevar-datasenter-cruise",
+      "tittel": "Elevar har fordjupa seg i datasenter og cruise – no blir det snakka om ved middagsbordet",
+      "samandrag": "Porten skriv om elevar som har arbeidd med dei store samfunnssakene i regionen, mellom anna datasenter og cruise. Ei gruppe har fordjupa seg i datasenter. Saka er bak betalingsmur.",
+      "kvifor": "Viser at unge i Sogn engasjerer seg i dei store næringssakene, noko som er relevant for rekruttering og arbeidet med å knyte ungdom til regionen.",
+      "url": "https://www.porten.no/nyheiter/n/GPG8G4/her-har-elevane-staalkontroll-paa-dei-viktigaste-sakene",
+      "tema": [
+        "Kompetanse og arbeidsliv",
+        "Næringsliv og industri"
+      ],
+      "omrade": [
+        "Sogn"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "bilete": "https://vcdn.polarismedia.no/cb9f36c0-78da-39b1-8861-1933584f4ccf?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Inger Helgestad / Porten"
+    },
+    {
       "id": "2026-11-19-luster-opna-for-datasenter",
       "utgave": "2026-11-19",
       "lagt_til": "2026-11-19T05:46:00Z",
@@ -44,7 +131,12 @@
       "frist": "2026-11-23",
       "frist_tekst": "Fjordstenging frå 23. nov.",
       "fra_tips": false,
-      "relaterte": [],
+      "relaterte": [
+        {
+          "kjelde": "Porten",
+          "url": "https://www.porten.no/nyheiter/n/OypaEq/varslar-kraftige-smell-og-lysglimt-over-sognefjorden"
+        }
+      ],
       "bilete": null,
       "bilete_kreditering": null,
       "publisert": "2026-11-18",
