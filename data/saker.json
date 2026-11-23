@@ -1,6 +1,208 @@
 {
   "saker": [
     {
+      "utgave": "2026-11-23",
+      "lagt_til": "2026-11-23T05:46:26Z",
+      "fra_tips": false,
+      "relaterte": [],
+      "frist": null,
+      "frist_tekst": null,
+      "nemner_sn": false,
+      "publisert": null,
+      "bilete": "https://vcdn.polarismedia.no/d62d14b1-126c-3fc0-8ad0-bfd4133b8c31?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Therese Maria Thorhus / Sognekraft",
+      "id": "2026-11-23-fardalselvi-kraftverk-markert",
+      "tittel": "Sognekraft markerte nytt kraftverk i Fardalselvi – fleire kraftverk er på veg i regionen",
+      "samandrag": "Porten melder at Sognekraft har markert Fardalselvi kraftverk, og konserndirektøren i Sognekraft Produksjon kallar det eit kraftverk ein kan vere stolt av. Ifølgje bilettekstinga kjem det fleire kraftverk til regionen dei neste åra. Resten av saka er bak betalingsmur.",
+      "kvifor": "Ny småkraft gir meir lokal produksjon og aktivitet i kraftnæringa, som er sentral i diskusjonen om kraft til industri og datasenter i Sogn.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/ARdE9x/eit-kraftverk-eg-synest-me-kan-vere-stolte-av",
+      "tema": [
+        "Energi og kraft",
+        "Næringsliv og industri"
+      ],
+      "omrade": [
+        "Sogndal",
+        "Sogn"
+      ],
+      "type": "Nyheit",
+      "prioritet": 2,
+      "betalingsmur": true,
+      "grunnlag": "ingress"
+    },
+    {
+      "utgave": "2026-11-23",
+      "lagt_til": "2026-11-23T05:46:26Z",
+      "fra_tips": false,
+      "relaterte": [],
+      "frist": null,
+      "frist_tekst": null,
+      "nemner_sn": false,
+      "publisert": null,
+      "bilete": null,
+      "bilete_kreditering": null,
+      "id": "2026-11-23-midlar-utan-sokjarar",
+      "tittel": "Sogn Avis: Har pengar å dele ut i Sogndal og Luster, men ingen søkjer",
+      "samandrag": "Berre overskrift: Sogn Avis skriv om midlar i Sogndal og Luster som ingen har søkt på, og at dei som forvaltar dei leitar etter nokon som kan få glede av dei. Saka er bak betalingsmur.",
+      "kvifor": "Ubrukte midlar er noko Sogn Næring kan hjelpe med å formidle til gründerar, lag og bedrifter i regionen.",
+      "kjelde": "Sogn Avis",
+      "url": "https://sognavis.no/har-midlar-men-ingen-sokjarar-me-leitar-etter-nokon-som-kan-fa-glede-av-dei/s/80-115-40053",
+      "tema": [
+        "Gründer og innovasjon"
+      ],
+      "omrade": [
+        "Sogndal",
+        "Luster"
+      ],
+      "type": "Nyheit",
+      "prioritet": 2,
+      "betalingsmur": true,
+      "grunnlag": "tittel"
+    },
+    {
+      "utgave": "2026-11-23",
+      "lagt_til": "2026-11-23T05:46:26Z",
+      "fra_tips": false,
+      "relaterte": [],
+      "frist": null,
+      "frist_tekst": null,
+      "nemner_sn": false,
+      "publisert": null,
+      "bilete": null,
+      "bilete_kreditering": null,
+      "id": "2026-11-23-debatt-kutt-ordning-lokalsamfunn",
+      "tittel": "Sogn Avis-innlegg frå Lærdal: Feil å kutte i ei ordning som er viktig for levande lokalsamfunn",
+      "samandrag": "Berre overskrift: Eit meiningsinnlegg i Sogn Avis, merkt Lærdal og politikk, meiner det er heilt feil å kutte i ei ordning som er svært viktig for levande lokalsamfunn. Innlegget er bak betalingsmur.",
+      "kvifor": "Kutt i distriktsretta ordningar kan råke småbedrifter og tenestetilbodet i bygdene i indre Sogn.",
+      "kjelde": "Sogn Avis",
+      "url": "https://sognavis.no/heilt-feil-a-kutta-i-ei-ordning-som-er-sa-viktig-for-levande-lokalsamfunn/o/80-115-40044",
+      "tema": [
+        "Politikk og rammevilkår"
+      ],
+      "omrade": [
+        "Lærdal"
+      ],
+      "type": "Debatt",
+      "prioritet": 2,
+      "betalingsmur": true,
+      "grunnlag": "tittel"
+    },
+    {
+      "utgave": "2026-11-23",
+      "lagt_til": "2026-11-23T05:46:26Z",
+      "fra_tips": false,
+      "relaterte": [],
+      "frist": null,
+      "frist_tekst": null,
+      "nemner_sn": false,
+      "publisert": null,
+      "bilete": "https://vcdn.polarismedia.no/0613751a-6730-3b32-aeac-997753daa3ca?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Kristine Haglund / Porten",
+      "id": "2026-11-23-naeringsloggen-tvangsavvikling",
+      "tittel": "Næringsloggen: Nye selskap startar, andre snur – og eitt blir tvangsavvikla",
+      "samandrag": "Berre overskrift: Porten sin næringslogg melder om nyetableringar, selskap som snur og eitt selskap som blir tvangsavvikla. Detaljane er bak betalingsmur.",
+      "kvifor": "Næringsloggen gir oversyn over nye og avvikla selskap i Porten-området – nyttig for å fange opp gründerar og bedrifter som kan trenge hjelp.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/1vnVXG/nokon-startar-andre-snur-og-eitt-blir-tvangsavvikla",
+      "tema": [
+        "Næringsliv og industri",
+        "Gründer og innovasjon"
+      ],
+      "omrade": [
+        "Sogn"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "betalingsmur": true,
+      "grunnlag": "tittel"
+    },
+    {
+      "utgave": "2026-11-23",
+      "lagt_til": "2026-11-23T05:46:26Z",
+      "fra_tips": false,
+      "relaterte": [],
+      "frist": "2026-11-25",
+      "frist_tekst": "Kraftmøte med næringslivet",
+      "nemner_sn": false,
+      "publisert": null,
+      "bilete": null,
+      "bilete_kreditering": null,
+      "id": "2026-11-23-kraftmote-statsminister-naeringsliv",
+      "tittel": "Statsministeren og energiministeren møter næringslivsleiarar om kraft og konkurransekraft 25. november",
+      "samandrag": "Ifølgje kalenderen til regjeringa for veke 48 møter statsministeren og energiminister Terje Aasland leiarar i næringslivet om kraft og konkurransekraft i Oslo onsdag 25. november.",
+      "kvifor": "Kraftpris og tilgang på kraft er avgjerande for Hydro Årdal og andre kraftkrevjande verksemder i Sogn.",
+      "kjelde": "Regjeringa",
+      "url": "https://www.regjeringen.no/no/aktuelt/utdrag-fra-energiminister-terje-aaslands-kalender-for-veke-48/id3194296/",
+      "tema": [
+        "Energi og kraft",
+        "Politikk og rammevilkår"
+      ],
+      "omrade": [
+        "Nasjonalt"
+      ],
+      "type": "Arrangement",
+      "prioritet": 3,
+      "betalingsmur": false,
+      "grunnlag": "ingress"
+    },
+    {
+      "utgave": "2026-11-23",
+      "lagt_til": "2026-11-23T05:46:26Z",
+      "fra_tips": false,
+      "relaterte": [],
+      "frist": null,
+      "frist_tekst": null,
+      "nemner_sn": false,
+      "publisert": null,
+      "bilete": null,
+      "bilete_kreditering": null,
+      "id": "2026-11-23-krf-straumavgift-datasenter",
+      "tittel": "KrF vil auke straumavgifta for datasenter til svensk og finsk nivå",
+      "samandrag": "Berre overskrift: NRK melder at KrF vil auke straumavgifta for datasenter til same nivå som i Sverige og Finland.",
+      "kvifor": "Høgare avgift kan påverke lønsemda i datasenterplanane i Luster, Vik, Lærdal og Årdal.",
+      "kjelde": "NRK",
+      "url": "https://www.nrk.no/sorlandet/krf-vil-oke-stromavgiften-for-datasentre-til-svensk-og-finsk-niva-1.18085619",
+      "tema": [
+        "Energi og kraft",
+        "Politikk og rammevilkår"
+      ],
+      "omrade": [
+        "Nasjonalt"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "betalingsmur": false,
+      "grunnlag": "tittel"
+    },
+    {
+      "utgave": "2026-11-23",
+      "lagt_til": "2026-11-23T05:46:26Z",
+      "fra_tips": false,
+      "relaterte": [],
+      "frist": null,
+      "frist_tekst": null,
+      "nemner_sn": false,
+      "publisert": null,
+      "bilete": "https://vcdn.polarismedia.no/b50be24e-9954-3b73-ac6b-b6ab5c8dda43?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Inger Helgestad / Porten",
+      "id": "2026-11-23-laerdal-nytt-bibliotek",
+      "tittel": "Lærdal får nytt bibliotek – biblioteksjefen gler seg til å opne dørene",
+      "samandrag": "Porten skriv om biblioteksjef Guro Nesse i Lærdal, som gler seg til å opne dørene i nye lokale etter mange år med flytting. Resten av saka er bak betalingsmur.",
+      "kvifor": "Eit nytt bibliotek styrkjer møteplassane og attraktiviteten i Lærdal sentrum.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/GPG8Qx/guro-gler-seg-til-aa-opna-doerene-har-brukt-25-aar-paa-aa-flytta",
+      "tema": [
+        "Kultur og arrangement"
+      ],
+      "omrade": [
+        "Lærdal"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "betalingsmur": true,
+      "grunnlag": "ingress"
+    },
+    {
       "utgave": "2026-11-20",
       "lagt_til": "2026-11-20T05:47:00Z",
       "betalingsmur": true,

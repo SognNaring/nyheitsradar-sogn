@@ -563,6 +563,35 @@
       ],
       "tal_nye": 3,
       "laga": "2026-11-20T05:47:00Z"
+    },
+    {
+      "dato": "2026-11-23",
+      "nr": 21,
+      "merknad": "Måndagsutgåva dekkjer helga – roleg med få nye næringssaker.",
+      "viktigast": [
+        {
+          "sak": "2026-11-19-statnett-riv-fjordspenn-sleipi-fronningen",
+          "tekst": "Statnett byrjar i dag å rive fjordspennet Kaupanger–Frønningen; farleia kan bli stengd i korte periodar."
+        },
+        {
+          "sak": "2026-11-23-fardalselvi-kraftverk-markert",
+          "tekst": "Sognekraft har markert Fardalselvi kraftverk, og fleire kraftverk er på veg i regionen."
+        },
+        {
+          "sak": "2026-11-03-hydro-investor-day",
+          "tekst": "Hydro held Investor Day i London onsdag 25. november – same dag som regjeringa møter næringslivet om kraft."
+        },
+        {
+          "sak": "2026-11-23-midlar-utan-sokjarar",
+          "tekst": "Sogn Avis: Midlar i Sogndal og Luster står ubrukte fordi ingen søkjer."
+        },
+        {
+          "sak": "2026-11-17-vik-budsjett-2027-hoyring",
+          "tekst": "Høyringsfristen for Vik-budsjettet 2027 er 1. desember."
+        }
+      ],
+      "tal_nye": 7,
+      "laga": "2026-11-23T05:46:26Z"
     }
   ]
 }
