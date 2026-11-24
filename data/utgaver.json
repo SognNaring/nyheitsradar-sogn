@@ -592,6 +592,35 @@
       ],
       "tal_nye": 7,
       "laga": "2026-11-23T05:46:26Z"
+    },
+    {
+      "dato": "2026-11-24",
+      "nr": 22,
+      "merknad": "",
+      "viktigast": [
+        {
+          "sak": "2026-11-24-skjolden-cruisekai-planoppstart",
+          "tekst": "Planarbeidet for cruisekai i Skjolden er starta – innspel til Norconsult innan 16. desember."
+        },
+        {
+          "sak": "2026-11-23-kraftmote-statsminister-naeringsliv",
+          "tekst": "I morgon møter statsministeren og energiministeren næringslivet om kraft – same dag som Hydro held Investor Day."
+        },
+        {
+          "sak": "2026-11-24-julerush-nattestengd-tunnel",
+          "tekst": "Porten spør om julepakkane kjem fram i tide med nattestengd Lærdalstunnel."
+        },
+        {
+          "sak": "2026-11-17-vik-budsjett-2027-hoyring",
+          "tekst": "Høyringsfristen for Vik-budsjettet 2027 er 1. desember."
+        },
+        {
+          "sak": "2026-11-24-fpu-nei-marint-vern",
+          "tekst": "Sogn Avis: Sogn og Fjordane FpU seier nei til marint vern av Sognefjorden."
+        }
+      ],
+      "tal_nye": 5,
+      "laga": ""
     }
   ]
 }

@@ -1,6 +1,153 @@
 {
   "saker": [
     {
+      "utgave": "2026-11-24",
+      "lagt_til": "",
+      "fra_tips": false,
+      "relaterte": [],
+      "frist": "2026-12-16",
+      "frist_tekst": "Innspel til planen for Skjolden cruisekai",
+      "nemner_sn": false,
+      "publisert": null,
+      "bilete": null,
+      "bilete_kreditering": null,
+      "kvifor": "Ein ny cruisekai i Skjolden kan gi fleire anløp og meir aktivitet for reiselivet i indre Luster, og næringslivet kan kome med innspel no.",
+      "id": "2026-11-24-skjolden-cruisekai-planoppstart",
+      "tittel": "Planarbeid for cruisekai i Skjolden er starta – innspel innan 16. desember",
+      "samandrag": "Luster kommune varslar oppstart av detaljregulering for Skjolden cruisekai. Planen er privat, og Norconsult står for arbeidet på vegner av Skjolden Cruisekai. Merknader skal sendast til Norconsult innan 16. desember 2026.",
+      "kjelde": "Luster kommune",
+      "url": "https://www.luster.kommune.no/nyheiter/oppstart-av-planarbeid.13594.aspx",
+      "tema": [
+        "Reiseliv",
+        "Samferdsel og infrastruktur"
+      ],
+      "omrade": [
+        "Luster"
+      ],
+      "type": "Høyring",
+      "prioritet": 1,
+      "betalingsmur": false,
+      "grunnlag": "heil sak"
+    },
+    {
+      "utgave": "2026-11-24",
+      "lagt_til": "",
+      "fra_tips": false,
+      "relaterte": [],
+      "frist": null,
+      "frist_tekst": null,
+      "nemner_sn": false,
+      "publisert": null,
+      "bilete": "https://vcdn.polarismedia.no/9335377f-f869-31d8-95bc-e672f0aa6d06?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Karoline Guldbæk / Porten",
+      "kvifor": "Varelevering og netthandel i julesesongen er eit første prov på kva nattestenginga betyr for handel og logistikk i indre Sogn.",
+      "id": "2026-11-24-julerush-nattestengd-tunnel",
+      "tittel": "Kjem julepakkane fram i tide når Lærdalstunnelen er nattestengd?",
+      "samandrag": "Porten ser på korleis nattestenginga av Lærdalstunnelen verkar inn på julepakkar og varelevering i julerushet. Ifølgje bilettekstinga står pakkar frå PostNord alt stabla opp på Bunnpris i Øvre Årdal. Resten av saka er bak betalingsmur.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/7P0vgK/nattestengt-midt-i-julerushet-kjem-julegaavene-fram-i-tide",
+      "tema": [
+        "Samferdsel og infrastruktur",
+        "Næringsliv og industri"
+      ],
+      "omrade": [
+        "Årdal",
+        "Lærdal",
+        "Sogn"
+      ],
+      "type": "Nyheit",
+      "prioritet": 2,
+      "betalingsmur": true,
+      "grunnlag": "ingress"
+    },
+    {
+      "utgave": "2026-11-24",
+      "lagt_til": "",
+      "fra_tips": false,
+      "relaterte": [],
+      "frist": null,
+      "frist_tekst": null,
+      "nemner_sn": false,
+      "publisert": null,
+      "bilete": null,
+      "bilete_kreditering": null,
+      "kvifor": "Viser at motstanden mot vernet med næringsargument breier seg også blant unge politikarar.",
+      "id": "2026-11-24-fpu-nei-marint-vern",
+      "tittel": "Sogn Avis: Ny FpU-leiar frå Kaupanger – laget seier nei til vern av Sognefjorden",
+      "samandrag": "Berre overskrift: Sogn Avis melder at Trym Nybø frå Kaupanger er vald til leiar i Sogn og Fjordane FpU, og at årsmøtet vedtok ein resolusjon mot marint vern av Sognefjorden med vekt på næringsutvikling og arbeidsplassar.",
+      "kjelde": "Sogn Avis",
+      "url": "https://sognavis.no/kauping-tek-klubba-i-sogn-og-fjordane-fpu/s/80-115-41283",
+      "tema": [
+        "Natur, klima og fjord",
+        "Politikk og rammevilkår"
+      ],
+      "omrade": [
+        "Sogndal",
+        "Sogn"
+      ],
+      "type": "Politikk og vedtak",
+      "prioritet": 3,
+      "betalingsmur": true,
+      "grunnlag": "tittel"
+    },
+    {
+      "utgave": "2026-11-24",
+      "lagt_til": "",
+      "fra_tips": false,
+      "relaterte": [],
+      "frist": null,
+      "frist_tekst": null,
+      "nemner_sn": false,
+      "publisert": "2026-11-23",
+      "bilete": null,
+      "bilete_kreditering": null,
+      "kvifor": "Gjeld utestader, lag og arrangørar som planlegg julebord og arrangement i desember.",
+      "id": "2026-11-24-sogndal-skjenkeloyve-desember",
+      "tittel": "Sogndal kommune ber arrangørar søkje om skjenkeløyve for desember no",
+      "samandrag": "Sogndal kommune har mange søknader om skjenkeløyve for enkeltanledningar i jule- og nyttårstida og ventar lengre sakshandsaming. Søknaden skal normalt inn minst tre veker før arrangementet, og kommunen ber om at han blir send så snart som mogleg.",
+      "kjelde": "Sogndal kommune",
+      "url": "https://sogndal.kommune.no/aktuelt/2026-11-23-soknad-om-skjenkeloyve-enkelt-anledning-i-desember--send-soknaden-snarast",
+      "tema": [
+        "Kultur og arrangement",
+        "Reiseliv"
+      ],
+      "omrade": [
+        "Sogndal"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "betalingsmur": false,
+      "grunnlag": "heil sak"
+    },
+    {
+      "utgave": "2026-11-24",
+      "lagt_til": "",
+      "fra_tips": false,
+      "relaterte": [],
+      "frist": null,
+      "frist_tekst": null,
+      "nemner_sn": false,
+      "publisert": null,
+      "bilete": "https://vcdn.polarismedia.no/6c22c08c-9d27-3f5c-8bad-dee667be9047?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Sara Lie Hegre / Porten",
+      "kvifor": "Fjernundervisning kan gjere fleire utdanningstilbod tilgjengelege lokalt, noko som er viktig for kompetanse og rekruttering i distriktet.",
+      "id": "2026-11-24-ardal-elevar-fjernundervisning",
+      "tittel": "Elevar i Årdal følgjer undervisning i Førde på skjerm – og trivst med det",
+      "samandrag": "Porten fortel om elevar i Årdal som følgjer lærar og klassekameratar i Førde via skjerm, og som meiner det er meir sosialt enn å sitje åleine ved PC-en. Resten av saka er bak betalingsmur.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/ez8Log/meir-sosialt-enn-aa-sitje-aaleine-paa-pc",
+      "tema": [
+        "Kompetanse og arbeidsliv"
+      ],
+      "omrade": [
+        "Årdal"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "betalingsmur": true,
+      "grunnlag": "ingress"
+    },
+    {
       "utgave": "2026-11-23",
       "lagt_til": "2026-11-23T05:46:26Z",
       "fra_tips": false,
@@ -120,7 +267,12 @@
       "utgave": "2026-11-23",
       "lagt_til": "2026-11-23T05:46:26Z",
       "fra_tips": false,
-      "relaterte": [],
+      "relaterte": [
+        {
+          "kjelde": "Regjeringa",
+          "url": "https://www.regjeringen.no/no/aktuelt/energiministeren-deltek-pa-innspelsmote-med-naringslivet/id3194305/"
+        }
+      ],
       "frist": "2026-11-25",
       "frist_tekst": "Kraftmøte med næringslivet",
       "nemner_sn": false,
