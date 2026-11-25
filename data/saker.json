@@ -1,6 +1,147 @@
 {
   "saker": [
     {
+      "utgave": "2026-11-25",
+      "lagt_til": "2026-11-25T05:46:50Z",
+      "fra_tips": false,
+      "relaterte": [],
+      "frist": "2026-11-30",
+      "frist_tekst": "Finanskomiteen gir budsjettinnstilling",
+      "nemner_sn": false,
+      "publisert": "2026-11-23",
+      "bilete": null,
+      "bilete_kreditering": null,
+      "betalingsmur": false,
+      "id": "2026-11-25-statsbudsjett-forhandlingar-overtid",
+      "tittel": "Budsjettforhandlingane på Stortinget går på overtid – finanskomiteen skal levere innstilling 30. november",
+      "samandrag": "Fristen for budsjettforhandlingane mellom Ap, SV, Rødt, MDG og Sp gjekk ut fredag utan avtale. Klima, drivstoffavgift, Norgespris og den samla pengebruken er dei store usemjene, og Sp har stilt ultimatum om kutt i drivstoffavgifta. Finanskomiteen skal etter planen gi innstillinga si måndag 30. november.",
+      "kvifor": "Utfallet avgjer om kutta i verkemiddelapparatet og endringane i Norgespris og drivstoffavgifter blir ståande, noko som rører ved rammevilkåra for bedriftene i Sogn.",
+      "kjelde": "Nettavisen",
+      "url": "https://www.nettavisen.no/nyheter/statsbudsjettet-2027-svs-marthe-hammer-vil-ikke-love-enighet-mandag/s/80-95-272915",
+      "tema": [
+        "Politikk og rammevilkår"
+      ],
+      "omrade": [
+        "Nasjonalt"
+      ],
+      "type": "Politikk og vedtak",
+      "prioritet": 1,
+      "grunnlag": "ingress"
+    },
+    {
+      "utgave": "2026-11-25",
+      "lagt_til": "2026-11-25T05:46:50Z",
+      "fra_tips": false,
+      "relaterte": [],
+      "frist": "2026-12-07",
+      "frist_tekst": "Innspel til budsjett 2027 i Luster",
+      "nemner_sn": false,
+      "publisert": null,
+      "bilete": null,
+      "bilete_kreditering": null,
+      "betalingsmur": false,
+      "id": "2026-11-25-luster-budsjett-2027-hoyring",
+      "tittel": "Luster legg budsjett 2027 og økonomiplan ut på høyring – innspel innan 7. desember",
+      "samandrag": "Formannskapet i Luster har lagt fram framlegg til budsjett for 2027, betalingssatsar og gebyr for 2027 og økonomiplan med planprogram for 2027–2030. Innspel kan sendast via skjema, e-post eller post innan 7. desember. Formannskapet handsamar innspela 9. desember, og kommunestyret gjer endeleg vedtak 17. desember.",
+      "kvifor": "Budsjettet og gebyrsatsane i Luster påverkar næringslivet direkte, og høyringa er ein sjanse til å løfte næringsretta prioriteringar.",
+      "kjelde": "Luster kommune",
+      "url": "https://www.luster.kommune.no/nyheiter/hoyring-budsjett-2027.13586.aspx",
+      "tema": [
+        "Politikk og rammevilkår"
+      ],
+      "omrade": [
+        "Luster"
+      ],
+      "type": "Høyring",
+      "prioritet": 2,
+      "grunnlag": "heil sak"
+    },
+    {
+      "utgave": "2026-11-25",
+      "lagt_til": "2026-11-25T05:46:50Z",
+      "fra_tips": false,
+      "relaterte": [],
+      "frist": "2026-11-30",
+      "frist_tekst": "Visning av Borgund barnehage",
+      "nemner_sn": false,
+      "publisert": "2026-11-24",
+      "bilete": "https://laerdal.kommune.no/handlers/bv.ashx/i2b52b13e-efc6-4adb-b643-0d5d8dea605f/w1200/q1262/k732013cfbaea/skjermbilde-2026-11-24-121505.png",
+      "bilete_kreditering": "Kenneth Bjørk / Eiendomsmegler Norge",
+      "betalingsmur": false,
+      "id": "2026-11-25-laerdal-sel-borgund-barnehage",
+      "tittel": "Lærdal kommune sel tidlegare Borgund barnehage – visning 30. november",
+      "samandrag": "Lærdal kommune sel den tidlegare barnehagen i Borgund sentrum, eit einetasjes bygg frå 1999 på 199 kvadratmeter, med prisantyding 950 000 kroner. Tomta er regulert til offentleg føremål, og bruksendring, til dømes til bustad, krev søknad og kanskje omregulering eller dispensasjon. Visning er måndag 30. november kl. 15–16.",
+      "kvifor": "Ledige bygg i bygdesentrum kan bli nye lokale for næring eller bustad, men kjøpar må avklare regulering og bruksendring med kommunen først.",
+      "kjelde": "Lærdal kommune",
+      "url": "https://laerdal.kommune.no/aktuelt/no-er-denne-bygningen-til-sals.6147.aspx",
+      "tema": [
+        "Næringsliv og industri"
+      ],
+      "omrade": [
+        "Lærdal"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "grunnlag": "heil sak"
+    },
+    {
+      "utgave": "2026-11-25",
+      "lagt_til": "2026-11-25T05:46:50Z",
+      "fra_tips": false,
+      "relaterte": [],
+      "frist": null,
+      "frist_tekst": null,
+      "nemner_sn": false,
+      "publisert": null,
+      "bilete": "https://vcdn.polarismedia.no/167c4405-e333-34ad-9fb7-2102e10325ab?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Karoline Guldbæk / Porten",
+      "betalingsmur": true,
+      "id": "2026-11-25-naeringsloggen-ardal-arvl-holding",
+      "tittel": "Næringsloggen: nytt investeringsselskap registrert i Øvre Årdal",
+      "samandrag": "Porten sin næringslogg melder at Alf Roger Voll Lereng står bak ARVL Holding AS, eit nyregistrert investeringsselskap i Øvre Årdal. Resten av oversikta over endringar i næringslivet ligg bak betalingsmur.",
+      "kvifor": "Næringsloggen gir oversikt over nyetableringar og endringar i bedriftene i regionen, nyttig for oppfølging av gründerar.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/Jno5mJ/alf-roger-staar-bak-nytt-selskap-i-aardal-dette-skjer-i-naeringslivet",
+      "tema": [
+        "Gründer og innovasjon",
+        "Næringsliv og industri"
+      ],
+      "omrade": [
+        "Årdal"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "grunnlag": "ingress"
+    },
+    {
+      "utgave": "2026-11-25",
+      "lagt_til": "2026-11-25T05:46:50Z",
+      "fra_tips": false,
+      "relaterte": [],
+      "frist": null,
+      "frist_tekst": null,
+      "nemner_sn": false,
+      "publisert": null,
+      "bilete": null,
+      "bilete_kreditering": null,
+      "betalingsmur": true,
+      "id": "2026-11-25-sogndal-privat-legeklinikk",
+      "tittel": "Berre overskrift: Lege i Sogndal startar privat klinikk",
+      "samandrag": "Sogn Avis meldar at det blir starta ein privat klinikk i Sogndal. Berre overskrifta er lesen.",
+      "kvifor": "Ei ny privat helseverksemd er ei nyetablering i Sogndal og kan påverke helsetilbodet i regionen.",
+      "kjelde": "Sogn Avis",
+      "url": "https://sognavis.no/startar-privat-klinikk-eg-ynskjer-a-ha-meir-tid-til-kvar-pasient/s/80-115-41622",
+      "tema": [
+        "Gründer og innovasjon"
+      ],
+      "omrade": [
+        "Sogndal"
+      ],
+      "type": "Nyheit",
+      "prioritet": 3,
+      "grunnlag": "tittel"
+    },
+    {
       "utgave": "2026-11-24",
       "lagt_til": "",
       "fra_tips": false,

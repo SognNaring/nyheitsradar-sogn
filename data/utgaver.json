@@ -621,6 +621,31 @@
       ],
       "tal_nye": 5,
       "laga": ""
+    },
+    {
+      "dato": "2026-11-25",
+      "nr": 23,
+      "merknad": "",
+      "viktigast": [
+        {
+          "sak": "2026-11-25-statsbudsjett-forhandlingar-overtid",
+          "tekst": "Budsjettforhandlingane går på overtid – finanskomiteen skal levere innstilling 30. november."
+        },
+        {
+          "sak": "2026-11-24-skjolden-cruisekai-planoppstart",
+          "tekst": "Planarbeidet for cruisekai i Skjolden er i gang – innspel innan 16. desember."
+        },
+        {
+          "sak": "2026-11-25-luster-budsjett-2027-hoyring",
+          "tekst": "Luster har budsjett 2027 på høyring med frist 7. desember."
+        },
+        {
+          "sak": "2026-11-25-laerdal-sel-borgund-barnehage",
+          "tekst": "Lærdal sel tidlegare Borgund barnehage – visning 30. november."
+        }
+      ],
+      "tal_nye": 5,
+      "laga": "2026-11-25T05:46:50Z"
     }
   ]
 }
