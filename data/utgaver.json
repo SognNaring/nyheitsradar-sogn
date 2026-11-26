@@ -646,6 +646,35 @@
       ],
       "tal_nye": 5,
       "laga": "2026-11-25T05:46:50Z"
+    },
+    {
+      "dato": "2026-11-26",
+      "nr": 24,
+      "merknad": "",
+      "viktigast": [
+        {
+          "sak": "2026-11-26-budsjettavtale-fire-parti",
+          "tekst": "Fire parti er einige om statsbudsjettet, men MDG står utanfor og fleirtalet manglar – innstilling 30. november."
+        },
+        {
+          "sak": "2026-11-26-hydro-investor-day-ny-strategi",
+          "tekst": "Hydro melder rekordproduksjon ved dei norske verka og har sikra om lag 90 prosent av krafta fram til 2035."
+        },
+        {
+          "sak": "2026-11-17-vik-budsjett-2027-hoyring",
+          "tekst": "Høyringsfristen for budsjett 2027 i Vik går ut 1. desember."
+        },
+        {
+          "sak": "2026-11-25-luster-budsjett-2027-hoyring",
+          "tekst": "Luster ventar over 1 mrd. kr i inntekter og like mykje i investeringar – innspel til budsjettet innan 7. desember."
+        },
+        {
+          "sak": "2026-11-24-skjolden-cruisekai-planoppstart",
+          "tekst": "Innspel til planen for cruisekai i Skjolden innan 16. desember."
+        }
+      ],
+      "tal_nye": 4,
+      "laga": "2026-11-26T05:47:37Z"
     }
   ]
 }

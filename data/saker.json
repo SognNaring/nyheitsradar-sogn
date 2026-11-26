@@ -1,6 +1,136 @@
 {
   "saker": [
     {
+      "id": "2026-11-26-budsjettavtale-fire-parti",
+      "tittel": "Ap, Sp, SV og Raudt einige om statsbudsjettet for 2027 – MDG står utanfor",
+      "samandrag": "Fire parti vart samde om budsjettet for 2027 like før fristen 25. november, men MDG sa nei, så avtalen manglar fleirtal på Stortinget. Avtalen aukar oljepengebruken med 7,4 mrd. kr, kuttar avgifta på diesel og gir fylka høve til 499 kr for månadskort. Finanskomiteen skal gi innstilling 30. november.",
+      "kvifor": "Lågare dieselavgift, meir pengar til kommunane og avklaring på verkemiddelbudsjettet rører ved næringslivet i Sogn – men utfallet er framleis uvisst så lenge fleirtalet manglar.",
+      "kjelde": "Aftenposten",
+      "url": "https://www.aftenposten.no/norge/politikk/i/0vn14B/fire-partier-enige-om-statsbudsjett-kutter-i-drivstoffavgift",
+      "publisert": "2026-11-25",
+      "utgave": "2026-11-26",
+      "lagt_til": "2026-11-26T05:47:37Z",
+      "tema": [
+        "Politikk og rammevilkår"
+      ],
+      "omrade": [
+        "Nasjonalt"
+      ],
+      "type": "Politikk og vedtak",
+      "prioritet": 1,
+      "betalingsmur": false,
+      "grunnlag": "ingress",
+      "nemner_sn": false,
+      "frist": "2026-11-30",
+      "frist_tekst": "Finanskomiteen gir budsjettinnstilling",
+      "fra_tips": false,
+      "relaterte": [
+        {
+          "kjelde": "Dagbladet",
+          "url": "https://www.dagbladet.no/nyheter/vi-vil-fortsatt-forhandle/85468241"
+        },
+        {
+          "kjelde": "NRK (berre overskrift)",
+          "url": "https://www.nrk.no/artikkel/dette-vet-vi-om-budsjettavtalen-1533954"
+        }
+      ],
+      "bilete": "https://premium.vgc.no/v2/images/487d94a7-6779-3a27-932c-8165d0b4d80d?fit=crop&format=auto&h=1297&w=1946&s=64636476900123188bec52ae7922f445ee254727",
+      "bilete_kreditering": "Stein J. Bjørge / Aftenposten"
+    },
+    {
+      "id": "2026-11-26-hydro-investor-day-ny-strategi",
+      "tittel": "Hydro legg fram revidert strategi: rekordproduksjon ved norske verk og kraft sikra til 2035",
+      "samandrag": "På Investor Day i London 25. november la Hydro fram ein revidert strategi med vekt på drift, kapitaldisiplin og selektiv vekst. Produksjonen ved dei norske metallverka er opp 6 prosent i år, og om lag 90 prosent av krafta til verka er sikra fram til 2035. Investeringane i 2026 blir om lag 12,5 mrd. kr, 1 mrd. lågare enn varsla.",
+      "kvifor": "Hydro Årdal er den største industriarbeidsplassen i indre Sogn, og langsiktig kraftdekning og investeringsnivå seier mykje om framtida for verket og leverandørane rundt.",
+      "kjelde": "Hydro",
+      "url": "https://www.hydro.com/en/global/media/news/2026/hydro-investor-day-2026/",
+      "publisert": "2026-11-25",
+      "utgave": "2026-11-26",
+      "lagt_til": "2026-11-26T05:47:37Z",
+      "tema": [
+        "Næringsliv og industri",
+        "Energi og kraft"
+      ],
+      "omrade": [
+        "Årdal",
+        "Nasjonalt"
+      ],
+      "type": "Nyheit",
+      "prioritet": 2,
+      "betalingsmur": false,
+      "grunnlag": "heil sak",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": "https://www.hydro.com/globalassets/06-investors/reports-and-presentations/capital-markets-day/investor-day-2026/hydro-investor-day-2026-1920x1080.jpg",
+      "bilete_kreditering": "Hydro"
+    },
+    {
+      "id": "2026-11-26-aasland-kraftsystemet-forvitrar-ikkje",
+      "tittel": "Energiministeren svarar på kritikk: – Kraftfordelen for industrien forvitrar ikkje",
+      "samandrag": "I eit innlegg i Klassekampen 25. november avviser energiminister Terje Aasland at konkurransefordelen med rimeleg kraft til norsk industri er i ferd med å forsvinne. Innlegget er eit svar på ein leiar i avisa 18. november. Same dag møtte statsministeren og energiministeren næringslivsleiarar om kraft og konkurransekraft.",
+      "kvifor": "Kraftpris og nettkapasitet er avgjerande for Hydro Årdal, datasenterplanane og anna kraftkrevjande næring i Sogn.",
+      "kjelde": "Regjeringa",
+      "url": "https://www.regjeringen.no/no/aktuelt/kraftsystemet-forvitrer-ikke/id3194800/",
+      "publisert": "2026-11-25",
+      "utgave": "2026-11-26",
+      "lagt_til": "2026-11-26T05:47:37Z",
+      "tema": [
+        "Energi og kraft",
+        "Politikk og rammevilkår"
+      ],
+      "omrade": [
+        "Nasjonalt"
+      ],
+      "type": "Debatt",
+      "prioritet": 3,
+      "betalingsmur": false,
+      "grunnlag": "ingress",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": null,
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": null,
+      "bilete_kreditering": null
+    },
+    {
+      "id": "2026-11-26-norges-bank-regionalt-nettverk-desember",
+      "tittel": "Norges Bank: Regionalt nettverk 10. desember og siste rentemøte for året 17. desember",
+      "samandrag": "Norges Bank legg fram Regionalt nettverk 4/2026 torsdag 10. desember, basert på samtalar med over 400 verksemder. Rentemøtet med ny pengepolitisk rapport kjem 17. desember. Styringsrenta er no 4,5 prosent, og banken har sagt at han er budd på å heve renta om prisutsiktene tilseier det.",
+      "kvifor": "Renta og bankens bilete av næringslivet i regionane påverkar investeringsvilje og lønsemd hjå bedriftene i Sogn.",
+      "kjelde": "Norges Bank",
+      "url": "https://www.norges-bank.no/en/news-events/calendar/26-12-10-regional-network/",
+      "publisert": null,
+      "utgave": "2026-11-26",
+      "lagt_til": "2026-11-26T05:47:37Z",
+      "tema": [
+        "Politikk og rammevilkår",
+        "Næringsliv og industri"
+      ],
+      "omrade": [
+        "Nasjonalt"
+      ],
+      "type": "Rapport og analyse",
+      "prioritet": 3,
+      "betalingsmur": false,
+      "grunnlag": "ingress",
+      "nemner_sn": false,
+      "frist": "2026-12-10",
+      "frist_tekst": "Regionalt nettverk 4/2026",
+      "fra_tips": false,
+      "relaterte": [
+        {
+          "kjelde": "Norges Bank – rentemøte 17. desember",
+          "url": "https://www.norges-bank.no/en/news-events/calendar/policy-rate-decisions/26-12-17/"
+        }
+      ],
+      "bilete": null,
+      "bilete_kreditering": null
+    },
+    {
       "utgave": "2026-11-25",
       "lagt_til": "2026-11-25T05:46:50Z",
       "fra_tips": false,
@@ -32,7 +162,12 @@
       "utgave": "2026-11-25",
       "lagt_til": "2026-11-25T05:46:50Z",
       "fra_tips": false,
-      "relaterte": [],
+      "relaterte": [
+        {
+          "kjelde": "Porten: Ventar éin milliard inn – men éin milliard skal også ut",
+          "url": "https://www.porten.no/nyheiter/n/KL3xX7/ventar-ein-milliard-inn-men-ein-milliard-skal-ogsaa-ut"
+        }
+      ],
       "frist": "2026-12-07",
       "frist_tekst": "Innspel til budsjett 2027 i Luster",
       "nemner_sn": false,
