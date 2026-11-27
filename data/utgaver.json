@@ -675,6 +675,35 @@
       ],
       "tal_nye": 4,
       "laga": "2026-11-26T05:47:37Z"
+    },
+    {
+      "dato": "2026-11-27",
+      "nr": 25,
+      "merknad": "Roleg dag med få nye saker; fleire fristar nærmar seg.",
+      "viktigast": [
+        {
+          "sak": "2026-11-26-budsjettavtale-fire-parti",
+          "tekst": "Finanskomiteen gir budsjettinnstillinga måndag 30. november – fleirtalet for statsbudsjettet er framleis ikkje på plass."
+        },
+        {
+          "sak": "2026-11-17-vik-budsjett-2027-hoyring",
+          "tekst": "Høyringsfristen for budsjett 2027 i Vik går ut 1. desember."
+        },
+        {
+          "sak": "2026-11-27-landstraum-flam-vangen-hoyring",
+          "tekst": "Landstraum til skip i Flåm: høyring om utviding av Vangen transformatorstasjon med frist 4. desember."
+        },
+        {
+          "sak": "2026-11-27-highsoft-vik-ny-sjef",
+          "tekst": "Highsoft i Vik søkjer ny sjef og vil doble omsetninga igjen."
+        },
+        {
+          "sak": "2026-11-25-luster-budsjett-2027-hoyring",
+          "tekst": "Innspel til budsjett 2027 i Luster innan 7. desember."
+        }
+      ],
+      "tal_nye": 3,
+      "laga": "2026-11-27T05:46:58Z"
     }
   ]
 }

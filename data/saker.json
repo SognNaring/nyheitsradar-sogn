@@ -1,6 +1,94 @@
 {
   "saker": [
     {
+      "id": "2026-11-27-highsoft-vik-ny-sjef",
+      "tittel": "Highsoft i Vik leitar etter ny toppsjef – vil doble omsetninga på nytt",
+      "samandrag": "Programvareselskapet Highsoft i Vik er på jakt etter ein ny sjef, og målet er å doble omsetninga igjen, melder Porten.",
+      "kvifor": "Highsoft er ein av dei største kunnskapsarbeidsplassane i Vik, og vekstplanane kan gi fleire kompetansejobbar og rekrutteringsbehov i Sogn.",
+      "kjelde": "Porten",
+      "url": "https://www.porten.no/nyheiter/n/Jnok24/paa-jakt-etter-ny-sjef-vil-dobla-omsetninga-igjen",
+      "publisert": null,
+      "utgave": "2026-11-27",
+      "lagt_til": "2026-11-27T05:46:58Z",
+      "tema": [
+        "Næringsliv og industri",
+        "Kompetanse og arbeidsliv"
+      ],
+      "omrade": [
+        "Vik"
+      ],
+      "type": "Nyheit",
+      "prioritet": 2,
+      "betalingsmur": true,
+      "grunnlag": "tittel",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": "",
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": "https://vcdn.polarismedia.no/ffea0dd0-5c32-468a-8e30-f70e67e7ce01?fit=crop&q=80&tight=false&w=1200&h=675",
+      "bilete_kreditering": "Highsoft / Porten"
+    },
+    {
+      "id": "2026-11-27-landstraum-flam-vangen-hoyring",
+      "tittel": "Landstraum til skip i Flåm: Sygnir vil utvide Vangen transformatorstasjon – høyring til 4. desember",
+      "samandrag": "Sygnir AS søkjer Statsforvaltaren om mellombels løyve til utslepp av anleggsvatn når Vangen transformatorstasjon i Aurland skal utvidast. Utvidinga skal forsyne eit nytt landstraumanlegg for skip i Flåm, og det skal sprengjast ut eit nytt fjellrom med om lag 1680 m³ fast fjell. Høyringsfristen er 4. desember.",
+      "kvifor": "Landstraum i Flåm er ein føresetnad for at cruise- og fjordturismen kan møte nullutsleppskrava i verdsarvfjordane.",
+      "kjelde": "Statsforvaltaren i Vestland",
+      "url": "https://www.statsforvalteren.no/nn/vestland/hoyringar/2026/12/hoyring-av-soknad-om-loyve-etter-forureiningslova---utviding-av-vangen-transformatorstasjon---aurland-kommune-for-sygnir-as/",
+      "publisert": "2026-11-03",
+      "utgave": "2026-11-27",
+      "lagt_til": "2026-11-27T05:46:58Z",
+      "tema": [
+        "Reiseliv",
+        "Energi og kraft",
+        "Natur, klima og fjord"
+      ],
+      "omrade": [
+        "Aurland"
+      ],
+      "type": "Høyring",
+      "prioritet": 2,
+      "betalingsmur": false,
+      "grunnlag": "heil sak",
+      "nemner_sn": false,
+      "frist": "2026-12-04",
+      "frist_tekst": "Høyringsfrist landstraum Flåm",
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": null,
+      "bilete_kreditering": null
+    },
+    {
+      "id": "2026-11-27-nav-sjukefravaer-vestland-q3",
+      "tittel": "Sjukefråværet i Vestland aukar til 5 prosent – Aurland har lågast i fylket",
+      "samandrag": "Nav Vestland melder at sjukefråværet i fylket var 5 prosent i 3. kvartal 2026, opp frå 4,8 prosent året før og litt over landssnittet på 4,9. Sjukepengane kosta om lag 8 mrd. kr i 2025. Aurland har lågast fråvær i fylket med 2,9 prosent.",
+      "kvifor": "Sjukefråvær er ein stor kostnad for bedriftene, og tala kan brukast i arbeidet med inkludering og rekruttering i Sogn.",
+      "kjelde": "Nav Vestland",
+      "url": "https://www.nav.no/no/lokalt/vestland/pressemeldinger/sjukefravaeret-i-vestland-kostar-milliardar",
+      "publisert": "2026-11-26",
+      "utgave": "2026-11-27",
+      "lagt_til": "2026-11-27T05:46:58Z",
+      "tema": [
+        "Kompetanse og arbeidsliv"
+      ],
+      "omrade": [
+        "Vestland",
+        "Aurland"
+      ],
+      "type": "Statistikk",
+      "prioritet": 3,
+      "betalingsmur": false,
+      "grunnlag": "heil sak",
+      "nemner_sn": false,
+      "frist": null,
+      "frist_tekst": "",
+      "fra_tips": false,
+      "relaterte": [],
+      "bilete": null,
+      "bilete_kreditering": null
+    },
+    {
       "id": "2026-11-26-budsjettavtale-fire-parti",
       "tittel": "Ap, Sp, SV og Raudt einige om statsbudsjettet for 2027 – MDG står utanfor",
       "samandrag": "Fire parti vart samde om budsjettet for 2027 like før fristen 25. november, men MDG sa nei, så avtalen manglar fleirtal på Stortinget. Avtalen aukar oljepengebruken med 7,4 mrd. kr, kuttar avgifta på diesel og gir fylka høve til 499 kr for månadskort. Finanskomiteen skal gi innstilling 30. november.",
@@ -195,7 +283,12 @@
       "utgave": "2026-11-25",
       "lagt_til": "2026-11-25T05:46:50Z",
       "fra_tips": false,
-      "relaterte": [],
+      "relaterte": [
+        {
+          "kjelde": "Porten",
+          "url": "https://www.porten.no/nyheiter/n/qOLGzw/vil-ha-950-000-kroner-for-den-gamle-barnehagen"
+        }
+      ],
       "frist": "2026-11-30",
       "frist_tekst": "Visning av Borgund barnehage",
       "nemner_sn": false,
